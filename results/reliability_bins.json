@@ -1,0 +1,119 @@
+[
+  {
+    "modality": "text",
+    "method": "paper",
+    "lower": 0.5,
+    "upper": 0.6,
+    "n": 1,
+    "mean_confidence": 0.537648326225966,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "text",
+    "method": "paper",
+    "lower": 0.9,
+    "upper": 1.0,
+    "n": 19,
+    "mean_confidence": 0.999350014763086,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "image",
+    "method": "paper",
+    "lower": 0.5,
+    "upper": 0.6,
+    "n": 3,
+    "mean_confidence": 0.5378731811954028,
+    "accuracy": 0.6666666666666666
+  },
+  {
+    "modality": "image",
+    "method": "paper",
+    "lower": 0.6,
+    "upper": 0.7,
+    "n": 2,
+    "mean_confidence": 0.6581459307410311,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "image",
+    "method": "paper",
+    "lower": 0.7,
+    "upper": 0.8,
+    "n": 3,
+    "mean_confidence": 0.7303403442490154,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "image",
+    "method": "paper",
+    "lower": 0.8,
+    "upper": 0.9,
+    "n": 8,
+    "mean_confidence": 0.8691310808426649,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "image",
+    "method": "paper",
+    "lower": 0.9,
+    "upper": 1.0,
+    "n": 4,
+    "mean_confidence": 0.9343417063078876,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "audio",
+    "method": "baseline",
+    "lower": 0.6,
+    "upper": 0.7,
+    "n": 1,
+    "mean_confidence": 0.6189808142882144,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "audio",
+    "method": "baseline",
+    "lower": 0.9,
+    "upper": 1.0,
+    "n": 9,
+    "mean_confidence": 0.986427557078463,
+    "accuracy": 0.8888888888888888
+  },
+  {
+    "modality": "video",
+    "method": "paper",
+    "lower": 0.5,
+    "upper": 0.6,
+    "n": 1,
+    "mean_confidence": 0.5896019168007041,
+    "accuracy": 1.0
+  },
+  {
+    "modality": "video",
+    "method": "paper",
+    "lower": 0.7,
+    "upper": 0.8,
+    "n": 1,
+    "mean_confidence": 0.7230235958208667,
+    "accuracy": 0.0
+  },
+  {
+    "modality": "video",
+    "method": "paper",
+    "lower": 0.8,
+    "upper": 0.9,
+    "n": 5,
+    "mean_confidence": 0.8575941846237459,
+    "accuracy": 0.8
+  },
+  {
+    "modality": "video",
+    "method": "paper",
+    "lower": 0.9,
+    "upper": 1.0,
+    "n": 12,
+    "mean_confidence": 0.9797539433937463,
+    "accuracy": 1.0
+  }
+]

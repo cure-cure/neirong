@@ -1,0 +1,9 @@
+[
+  {
+    "id": "video_fake_0043_fake",
+    "label": 1,
+    "group": "video_0043",
+    "error": "采样帧中未检测到人脸，不能进行人脸伪造评估",
+    "stage": "decode_or_face_detection"
+  }
+]

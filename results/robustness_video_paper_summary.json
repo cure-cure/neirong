@@ -1,0 +1,141 @@
+{
+  "modality": "video",
+  "method": "paper",
+  "results": [
+    {
+      "condition": "clean",
+      "level": 0,
+      "n": 19,
+      "accuracy": 0.8947368421052632,
+      "precision": 0.8181818181818182,
+      "recall": 1.0,
+      "f1": 0.9,
+      "fpr": 0.2,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          8,
+          2
+        ],
+        [
+          0,
+          9
+        ]
+      ],
+      "roc_auc": 0.9444444444444445,
+      "pr_auc": 0.9376903960237295,
+      "brier": 0.08199271586455868,
+      "ece": 0.12332296278011211
+    },
+    {
+      "condition": "jpeg",
+      "level": 50,
+      "n": 19,
+      "accuracy": 0.7894736842105263,
+      "precision": 1.0,
+      "recall": 0.5555555555555556,
+      "f1": 0.7142857142857143,
+      "fpr": 0.0,
+      "fnr": 0.4444444444444444,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "roc_auc": 0.9666666666666668,
+      "pr_auc": 0.9674523007856342,
+      "brier": 0.14468157895171596,
+      "ece": 0.17444844787149083
+    },
+    {
+      "condition": "resize",
+      "level": 0.5,
+      "n": 19,
+      "accuracy": 0.8421052631578947,
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571428571428571,
+      "fpr": 0.3,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          7,
+          3
+        ],
+        [
+          0,
+          9
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0000000000000002,
+      "brier": 0.06777554799228205,
+      "ece": 0.12426110746270484
+    },
+    {
+      "condition": "blur",
+      "level": 1,
+      "n": 19,
+      "accuracy": 0.8947368421052632,
+      "precision": 0.8888888888888888,
+      "recall": 0.8888888888888888,
+      "f1": 0.8888888888888888,
+      "fpr": 0.1,
+      "fnr": 0.1111111111111111,
+      "confusion_matrix": [
+        [
+          9,
+          1
+        ],
+        [
+          1,
+          8
+        ]
+      ],
+      "roc_auc": 0.9666666666666668,
+      "pr_auc": 0.9674523007856342,
+      "brier": 0.08509317017048573,
+      "ece": 0.14230641860496096
+    },
+    {
+      "condition": "brightness",
+      "level": 0.7,
+      "n": 19,
+      "accuracy": 0.8421052631578947,
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571428571428571,
+      "fpr": 0.3,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          7,
+          3
+        ],
+        [
+          0,
+          9
+        ]
+      ],
+      "roc_auc": 0.9555555555555556,
+      "pr_auc": 0.9467813051146385,
+      "brier": 0.11919396804586843,
+      "ece": 0.1349507048043136
+    }
+  ],
+  "scope": "held-out course subset; video perturbations apply to extracted face crops, NOT end-to-end video re-encoding",
+  "requested": 20,
+  "errors": [
+    {
+      "id": "video_fake_0043_fake",
+      "condition": "decode",
+      "level": 0,
+      "error": "采样帧中未检测到人脸，不能进行人脸伪造评估"
+    }
+  ]
+}

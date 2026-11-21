@@ -1,0 +1,33 @@
+{
+  "modality": "text",
+  "method": "baseline",
+  "judgement": "真实倾向",
+  "binary_prediction": 0,
+  "fake_probability": 0.05457117472913732,
+  "confidence": 0.9454288252708627,
+  "confidence_note": "验证集校准后的估计；小样本、跨域条件下不保证可靠",
+  "authenticity_score": 0.9454288252708627,
+  "risk": "低",
+  "components": {
+    "baseline": {
+      "raw": -0.25514600806944493,
+      "fake_probability": 0.05457117472913732
+    }
+  },
+  "details": {},
+  "seconds": 0.1748675999988336,
+  "limitations": [
+    "来源／生成检测不等于事实核查",
+    "证据可视化仅表示模型线索，不构成篡改定位真值"
+  ],
+  "run_id": "20261118_193211_728698",
+  "source": "typed_text",
+  "process": [
+    "输入质量检查",
+    "模态预处理",
+    "基础特征／论文模型推理",
+    "验证集概率校准",
+    "方法融合与冲突检查",
+    "四层评估输出"
+  ]
+}

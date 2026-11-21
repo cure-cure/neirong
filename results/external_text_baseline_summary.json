@@ -1,0 +1,30 @@
+{
+  "modality": "text",
+  "method": "baseline",
+  "metrics": {
+    "n": 200,
+    "accuracy": 0.525,
+    "precision": 0.7777777777777778,
+    "recall": 0.07,
+    "f1": 0.12844036697247707,
+    "fpr": 0.02,
+    "fnr": 0.93,
+    "confusion_matrix": [
+      [
+        98,
+        2
+      ],
+      [
+        93,
+        7
+      ]
+    ],
+    "roc_auc": 0.4148,
+    "pr_auc": 0.5065813534834096,
+    "brier": 0.3771037673939095,
+    "ece": 0.31956700631691215
+  },
+  "coverage": 1.0,
+  "scope": "frozen course training/calibration; audio same-corpus extension, text source shift",
+  "errors": []
+}

@@ -1,0 +1,57 @@
+{
+  "python": "3.12.3",
+  "torch": "2.3.0+cu121",
+  "device": "cuda",
+  "cuda_available": true,
+  "checks": [
+    {
+      "modality": "text",
+      "id": "text_real_0010",
+      "raw_score": -0.3677244484424591,
+      "model_device": "cuda:0",
+      "cpu_reference_raw": -0.3674432635307312,
+      "absolute_cpu_gpu_difference": 0.0002811849117279053,
+      "seconds": 2.0352882966399193,
+      "peak_allocated_gib": 0.5594911575317383
+    },
+    {
+      "modality": "image",
+      "id": "image_real_n01440764_10342",
+      "raw_score": -3.4783849716186523,
+      "model_device": "cuda:0",
+      "cpu_reference_raw": -3.4783544540405273,
+      "absolute_cpu_gpu_difference": 3.0517578125e-05,
+      "input_gradient_verified": true,
+      "actual_linf": 0.003921598196029663,
+      "seconds": 4.864684276282787,
+      "peak_allocated_gib": 1.5110864639282227
+    },
+    {
+      "modality": "audio",
+      "id": "audio_real_real_0000",
+      "raw_score": 5.767863979319873,
+      "model_device": "cuda:0",
+      "cpu_reference_raw": 5.767732942394899,
+      "absolute_cpu_gpu_difference": 0.00013103692497473673,
+      "input_gradient_verified": true,
+      "actual_linf": 0.000500023365020752,
+      "seconds": 0.37950606644153595,
+      "peak_allocated_gib": 0.41608238220214844
+    },
+    {
+      "modality": "video",
+      "id": "video_real_0009",
+      "raw_score": -2.025359946719576,
+      "model_device": "cuda:0",
+      "cpu_reference_raw": -2.025749399025141,
+      "absolute_cpu_gpu_difference": 0.0003894523055651966,
+      "input_gradient_verified": true,
+      "actual_linf": 0.003921598196029663,
+      "seconds": 1.6932069808244705,
+      "peak_allocated_gib": 0.39417362213134766
+    }
+  ],
+  "gpu": "NVIDIA GeForce RTX 4090 D",
+  "torch_cuda": "12.1",
+  "asset_hashes_verified": true
+}

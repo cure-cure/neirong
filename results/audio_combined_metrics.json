@@ -1,0 +1,36 @@
+{
+  "modality": "audio",
+  "method": "combined",
+  "test": {
+    "n": 10,
+    "accuracy": 0.9,
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1": 0.8888888888888888,
+    "fpr": 0.0,
+    "fnr": 0.2,
+    "confusion_matrix": [
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.12022958557404069,
+    "ece": 0.1851697497459543
+  },
+  "coverage": 1.0,
+  "accuracy_ci95": [
+    0.7,
+    1.0
+  ],
+  "scope": "equal mean of validation-calibrated baseline and paper scores; no test-set model selection",
+  "requested_test_count": 10,
+  "test_coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.9
+}

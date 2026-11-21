@@ -1,0 +1,69 @@
+{
+  "total": 348,
+  "splits": {
+    "text": {
+      "train": {
+        "0": 30,
+        "1": 30
+      },
+      "val": {
+        "0": 10,
+        "1": 10
+      },
+      "test": {
+        "0": 10,
+        "1": 10
+      }
+    },
+    "image": {
+      "train": {
+        "0": 32,
+        "1": 28
+      },
+      "val": {
+        "0": 9,
+        "1": 11
+      },
+      "test": {
+        "0": 9,
+        "1": 11
+      }
+    },
+    "audio": {
+      "train": {
+        "0": 16,
+        "1": 14
+      },
+      "val": {
+        "0": 4,
+        "1": 6
+      },
+      "test": {
+        "0": 5,
+        "1": 5
+      }
+    },
+    "video": {
+      "train": {
+        "0": 29,
+        "1": 29
+      },
+      "val": {
+        "0": 10,
+        "1": 10
+      },
+      "test": {
+        "0": 10,
+        "1": 10
+      }
+    }
+  },
+  "exact_duplicates": [],
+  "limitations": [
+    "Audio speaker/source identities not provided: speaker-disjoint split cannot be established.",
+    "Video original/fake pairs grouped by numeric ID; identity-disjoint status unknown.",
+    "Text numeric pairs grouped conservatively; source model IDs unavailable in course subset.",
+    "Public pretrained checkpoint overlap with course samples cannot be fully ruled out.",
+    "No independently collected personal dataset has been supplied or recorded."
+  ]
+}

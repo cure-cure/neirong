@@ -16,13 +16,14 @@ REFERENCES=[
 ('AASIST, ICASSP2022','https://github.com/clovaai/aasist'),
 ('FaceForensics++, ICCV2019','https://github.com/ondyari/FaceForensics'),
 ('DeepfakeBench (Xception weights and architecture)','https://github.com/SCLBD/DeepfakeBench')]
+REFERENCES.insert(-1,('CIFAKE, IEEE Access 2024','https://doi.org/10.1109/ACCESS.2024.3356122'))
 
 def main():
     from build_evidence import main as build_evidence
     build_evidence()
     summaries=[read(p) for p in sorted((ROOT/'results').glob('*_metrics.json'))]
     lines=['# 实验六：多模态内容安全检测系统设计与真实性评估','',
-    '姓名：项目作者　学号：STUDENT_ID','',
+    '姓名：胡逸辰　学号：2024302181004','',
     '本报告由实际结果文件生成。报告中的二分类以伪造为正类；不把 AI 来源检测视为事实核查。实验范围与尚未完成项在文末列明。','',
     '## 1. 实验目标与系统结构','',
     '支持文字、图像、音频、视频四种输入。输入解码后分别提取基础特征和执行论文模型推理，用验证集进行正斜率逻辑概率校准，再比较基础方法、论文方法与等权平均方法。输出判定、置信度、证据、真实性评分及风险等级。','',
@@ -42,17 +43,19 @@ def main():
     '校准只使用验证集，形式为 sigmoid(a×score+b)，约束 a>0，避免通过翻转论文模型方向掩盖跨域失败。基础与论文分数各自校准后等权平均，不根据测试集挑选融合权重。','',
     'UI 的存疑规则为置信度低于0.65，或两方法伪造概率相差超过0.5。测试指标统一使用0.5阈值的二分类结果，存疑不是第五种真值类别。小验证集的概率可靠性有限。','',
     '## 4. 留出测试结果','',
-    '| 模态 | 方法 | 有效测试数 | Accuracy | Precision | Recall | F1 | 误报率 | 漏报率 | ROC-AUC | Brier |',
-    '|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|']
+    '| 模态 | 方法 | 请求/有效 | 覆盖率 | 有效Accuracy | 失败计错Accuracy | 95% CI | Precision | Recall | F1 | 误报率 | 漏报率 | ROC-AUC | Brier |',
+    '|---|---|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|']
     records=[]
     for s in summaries:
         t=s['test'];row=dict(modality=s['modality'],method=s['method'],**t);row.pop('confusion_matrix',None);records.append(row)
-        lines.append('| '+MODALITIES[s['modality']]+' | '+s['method']+' | '+str(t['n'])+' | '+' | '.join(f'{t[k]:.4f}' if t[k] is not None else 'N/A' for k in ['accuracy','precision','recall','f1','fpr','fnr','roc_auc','brier'])+' |')
+        requested=s.get('requested_test_count',t['n']);coverage=s.get('test_coverage',s.get('coverage',t['n']/requested));effective=s.get('effective_accuracy_counting_failures_as_wrong',t['accuracy']*t['n']/requested);ci=s.get('accuracy_ci95')
+        ci_text=f'[{ci[0]:.3f}, {ci[1]:.3f}]' if ci else 'N/A'
+        lines.append('| '+MODALITIES[s['modality']]+' | '+s['method']+f' | {requested}/{t["n"]} | {coverage:.3f} | {t["accuracy"]:.4f} | {effective:.4f} | {ci_text} | '+' | '.join(f'{t[k]:.4f}' if t[k] is not None else 'N/A' for k in ['precision','recall','f1','fpr','fnr','roc_auc','brier'])+' |')
         fig,ax=plt.subplots(figsize=(4,3));cm=np.array(t['confusion_matrix']);ax.imshow(cm,cmap='Blues');ax.set(xticks=[0,1],yticks=[0,1],xticklabels=['Real','Fake'],yticklabels=['Real','Fake'],xlabel='Predicted',ylabel='Ground truth',title=s['modality']+' / '+s['method'])
         for (i,j),v in np.ndenumerate(cm):ax.text(j,i,str(v),ha='center',va='center')
         fig.tight_layout();p=ROOT/f'results/figures/{s["modality"]}_{s["method"]}_confusion.png';p.parent.mkdir(exist_ok=True);fig.savefig(p,dpi=130);plt.close(fig)
     if records:pd.DataFrame(records).to_csv(ROOT/'results/metrics.csv',index=False,encoding='utf-8-sig')
-    lines+=['','成功处理样本上的指标与处理覆盖率分开报告。未检出人脸等失败不自动归为真实；有效准确率还应将处理失败作为错误计入总分母。详细覆盖率、原始分数指标和按组bootstrap准确率区间见各 metrics.json。样本很少，不能由某一次100%结果推出普适检测能力。','',
+    lines+=['','上表同时给出请求数/有效数、覆盖率、成功样本准确率、将处理失败计为错误的有效准确率，以及按原始样本组bootstrap得到的95%区间。未检出人脸等失败不自动归为真实。由于每模态课程留出集仅10–20例，区间很宽；可靠性图也必须结合每个分箱的样本数阅读，不能由一次100%结果推出普适能力。','',
     '## 5. 误报漏报分析','']
     for s in summaries:
         score_path=ROOT/f'results/{s["modality"]}_{s["method"]}_scores.json'
@@ -76,14 +79,19 @@ def main():
     '攻击成功率ASR = 原本正确且攻击后错误数 / 原本正确受攻击数。分母为0时记录null，不能填0；同时报告攻击后准确率，区分真实→伪造和伪造→真实。','',
     '平滑防御为3点／3×3均值滤波；防御实验重新穿过防御生成攻击，不能把旧攻击迁移结果当作白盒防御结果。防御保留原始干净验证集校准参数，未做防御特定校准。音频基础方法攻击完整波形，论文音频攻击第一个4.04秒模型片段，视频作用于第一个检测到的人脸裁剪；必须按各自威胁模型解释。音频基础方法另通过PCM16保存、重新读取检查攻击是否保留，量化误差另行计入，不能继续声称量化后严格满足原浮点预算。','']
     for p in sorted((ROOT/'results').glob('attacks_*_summary.json')):
-        obj=read(p);lines+=['### '+p.stem,'','| 攻击 | ε | 防御 | 测试数 | 原本正确数 | ASR | 攻击后准确率 |','|---|---:|---|---:|---:|---:|---:|']
+        obj=read(p);requested=obj.get('requested_samples');failures=obj.get('input_failures',[])
+        valid=max((r['n'] for r in obj['results']),default=0);coverage=valid/requested if requested else None
+        coverage_text=f'请求 {requested} 个原始样本，有效 {valid}，输入覆盖率 {coverage:.2%}，失败 {len(failures)}。' if requested is not None else '旧版摘要未记录原始请求数。'
+        failure_lines=[f'- 输入失败：{item["id"]}；阶段={item.get("stage","unknown")}；原因={item["error"]}' for item in failures]
+        if not failure_lines:failure_lines=['- 输入失败：无。']
+        lines+=['### '+p.stem,'',coverage_text,'']+failure_lines+['','| 攻击 | ε | 防御 | 测试数 | 原本正确数 | ASR | 攻击后准确率 |','|---|---:|---|---:|---:|---:|---:|']
         for r in obj['results']:lines.append(f'| {r["attack"]} | {r["epsilon"]:.6f} | {r["defense"]} | {r["n"]} | {r["eligible"]} | {r["asr"] if r["asr"] is not None else "N/A"} | {r["accuracy"]} |')
         lines.append('')
     lines+=['## 8. 可复现性与运行','',
-    '本地使用CPU，默认4个PyTorch线程，模型按需加载。UI现场推理记录在results/ui_runs，批量结果按模态独立保存。LAB_DEVICE=cpu/cuda/auto控制设备，所有路径相对项目根目录。迁移Linux时重新建立环境，不能复制Windows虚拟环境。','',
+    '课程指标与原本地结果来自Windows CPU环境；新增CIFAKE评估和图像/视频full白盒攻击在RTX 4090 D上运行。results/gpu_preflight.json记录torch/CUDA版本、实际设备、显存峰值、CPU/GPU分数差与输入梯度检查。GPU攻击在独立工作区生成后以独立文件名和证据目录合并，未覆盖原CPU快照。LAB_DEVICE=cpu/cuda/auto控制设备，所有路径相对项目根目录。','',
     '运行顺序、安装和迁移命令见README.md。单元验证覆盖来源哈希、分组无交叉、扰动预算与攻击方向、校准不翻转模型、官方权重严格加载。','',
     '## 9. 当前局限与后续工作','',
-    '- 视觉模态结论基于教学子集；扩展文本和音频不能代替图像／视频的独立外部评估。','- 尚未收集用户本人拍摄／录制的真人材料，不能把公开下载数据写成个人实拍。','- 文本主要为英语，中文、新型生成器与人机混写需另建测试集。','- 视频采用最大人脸与均匀抽帧，无身份跟踪，不保证短时局部篡改均被采样。','- 音频基础特征受声学条件影响，AASIST存在跨数据集失效风险。','- 模型输入层攻击不等于编码、解码、人脸检测全流程攻击。','- 未完成的完整GPU扫描、跨域测试或对抗训练不能作为已完成实验列入成绩证据。','- 风险分数与显著性线索均不能证明某人造假或内容事实错误。','',
+    '- 已加入CIFAKE独立图像测试，但其32×32对象图像与Stable Diffusion 1.4单一生成器仍不能代表高分辨率、现代生成器或视频跨域泛化。','- 尚无独立外部视频语料；视频采用最大人脸与均匀抽帧，无身份跟踪，不保证短时局部篡改均被采样。','- 尚未收集用户本人拍摄／录制的真人材料，不能把公开下载数据写成个人实拍。','- 文本主要为英语，中文、新型生成器与人机混写需另建测试集。','- 音频基础特征受声学条件影响，AASIST存在跨数据集失效风险。','- 图像/视频白盒攻击作用于模型输入裁剪，不等于编码、解码、人脸检测全流程攻击。','- 尚未进行对抗训练；不能把平滑防御实验写成已获得认证鲁棒性。','- 风险分数与显著性线索均不能证明某人造假或内容事实错误。','',
     ]
     lines+=['','## 10. 默认方法选择与论文失效分析','']
     selection_path=ROOT/'configs/selected_methods.json'
@@ -100,13 +108,14 @@ def main():
     '图像与视频：以实际验证结果决定默认方法，不预设深度论文方法必胜。UnivFD使用官方权重，但本地采用标准CLIP短边缩放再中心裁剪；官方仓库validate.py使用仅中心裁剪，因此本项目不是逐参数复现。该适配在本报告中明确列出，不能直接对照论文表格宣称复现其精度。视频使用Haar最大人脸代替原框架完整对齐流程，同样存在预处理域差异。','',
     '防御：均值平滑对某些高频扰动可能有作用，但本项目对攻击穿过防御重新优化后观察到防御失效。这说明不能只展示一张视觉变化很小的攻击图片，也不能把基础方法正常检测较好等同于对抗鲁棒。','',
     '### 补充数据与冻结评估','',
-    '| 实验 | 方法 | 样本数 | Accuracy | FPR | FNR | ROC-AUC |','|---|---|---:|---:|---:|---:|---:|']
-    for pattern in ['external_*_summary.json','final_external_*_summary.json']:
+    '| 实验 | 方法 | 请求/有效 | 覆盖率 | 有效Accuracy | 失败计错Accuracy | 95% CI | FPR | FNR | ROC-AUC |','|---|---|---:|---:|---:|---:|---|---:|---:|---:|']
+    for pattern in ['external_*_summary.json','final_external_*_summary.json','cifake_external_*_summary.json']:
         for p in sorted((ROOT/'results').glob(pattern)):
             obj=read(p)
             if 'metrics' not in obj:continue
-            r=obj['metrics'];lines.append(f'| {p.stem} | {obj["method"]} | {r["n"]} | {r["accuracy"]:.4f} | {r["fpr"]:.4f} | {r["fnr"]:.4f} | {r["roc_auc"]:.4f} |')
-    lines+=['','最初200条外部文本为诊断集。观察到来源偏移后，另从官方valid划分采集200条验证数据，并从test划分后续未使用索引采集200条新的最终测试数据。此为探索性协议扩展，过程完整记录在results/text_selection_protocol.json。模型训练和概率校准仍仅使用课程训练／验证划分；新最终测试不参与方法选择。补充音频排除了与课程样本的精确重复，但仍是同语料扩展，不代表未知说话人或未知合成器泛化已获证明。','',
+            r=obj['metrics'];requested=obj.get('requested_count',r['n']);coverage=obj.get('coverage',r['n']/requested);effective=obj.get('effective_accuracy_counting_failures_as_wrong',r['accuracy']*r['n']/requested);ci=r.get('accuracy_ci95');ci_text=f'[{ci[0]:.3f}, {ci[1]:.3f}]' if ci else 'N/A'
+            lines.append(f'| {p.stem} | {obj["method"]} | {requested}/{r["n"]} | {coverage:.3f} | {r["accuracy"]:.4f} | {effective:.4f} | {ci_text} | {r["fpr"]:.4f} | {r["fnr"]:.4f} | {r["roc_auc"]:.4f} |')
+    lines+=['','最初200条外部文本为诊断集。观察到来源偏移后，另从官方valid划分采集200条验证数据，并从test划分后续未使用索引采集200条新的最终测试数据。模型训练和概率校准仍仅使用课程训练／验证划分；新最终测试不参与方法选择。补充音频仍是同语料扩展。CIFAKE外部图像子集固定取自官方test划分：100张CIFAR-10真实图与100张Stable Diffusion 1.4生成图；按源行号哈希预先选样，未查看模型输出，且与课程集无精确字节重复。32×32分辨率造成明显域偏移，因此它是压力测试而不是通用视觉性能证明。','',
     '### 证据图与交付清单','',
     '逐样本分数、异常、误报漏报、校准参数及攻击前后数组均保留。UI通过实际HTTP上传与队列接口测试四模态、联合评估、图表及结果下载；视觉检查工具初始化故障，因此接口通过不能替代页面布局截图验收。报告提供操作说明作为课件允许的演示材料。','']
     for s in summaries:
@@ -118,7 +127,7 @@ def main():
         '| 模态 | 仅用于审计的属性 | 留出准确率 |','|---|---|---:|']
         for m,obj in audit.items():lines.append(f'| {MODALITIES[m]} | {obj["features"]} | {obj["metrics"]["accuracy"]:.4f} |')
         lines+=['','这些审计分类器未用于部署。图像格式即可高分提示数据构造存在捷径，不证明主模型直接读取了扩展名。主图像检测器只接收RGB像素，但仍可能受到历史压缩痕迹影响。','']
-    lines+=['用户本人实拍／自录材料尚未提供；自主采集部分使用公开来源真实与生成测试语料，来源与哈希可追溯。补充文本来自GPT-2家族，与DistilGPT2参考模型存在模型家族亲缘，因此该测试不能代表对未知现代生成器的泛化。完整四模态跨域数据、图像／视频全量多重启攻击和对抗训练仍属于后续GPU扩展，不冒充当前已完成项。','']
+    lines+=['用户本人实拍／自录材料尚未提供；自主采集部分使用公开来源真实与生成测试语料，来源与哈希可追溯。补充文本来自GPT-2家族，与DistilGPT2参考模型存在模型家族亲缘，因此该测试不能代表对未知现代生成器的泛化。图像20例和视频19个有效样本的full多重启攻击已经完成；尚未完成的是独立外部视频集、完整媒体文件链路、更多高分辨率图像生成器和对抗训练。','']
     lines+=['## 11. 参考文献与来源','']+['- ['+name+']('+url+')' for name,url in REFERENCES]+['']
     text='\n'.join(lines)+'\n';(ROOT/'reports/实验报告.md').write_text(text,encoding='utf-8')
     from markdown_it import MarkdownIt

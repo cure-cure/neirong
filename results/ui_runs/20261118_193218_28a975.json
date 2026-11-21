@@ -1,0 +1,33 @@
+{
+  "modality": "video",
+  "method": "baseline",
+  "judgement": "真实倾向",
+  "binary_prediction": 0,
+  "fake_probability": 0.18153822103812778,
+  "confidence": 0.8184617789618722,
+  "confidence_note": "验证集校准后的估计；小样本、跨域条件下不保证可靠",
+  "authenticity_score": 0.8184617789618722,
+  "risk": "低",
+  "components": {
+    "baseline": {
+      "raw": -1.6286833139870824,
+      "fake_probability": 0.18153822103812778
+    }
+  },
+  "details": {},
+  "seconds": 0.03883289999794215,
+  "limitations": [
+    "来源／生成检测不等于事实核查",
+    "证据可视化仅表示模型线索，不构成篡改定位真值"
+  ],
+  "run_id": "20261118_193218_28a975",
+  "source": "C:\\Users\\17503\\AppData\\Local\\Temp\\gradio\\11d91e4a293c19e4c2209f7aed50cb44042ee86437935ecacdc7dd6077c747f6\\0009.mp4",
+  "process": [
+    "输入质量检查",
+    "模态预处理",
+    "基础特征／论文模型推理",
+    "验证集概率校准",
+    "方法融合与冲突检查",
+    "四层评估输出"
+  ]
+}

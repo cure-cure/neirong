@@ -1,0 +1,8 @@
+{
+  "reason": "Course text baseline failed on initial source-shift diagnostic set. Added independent external development validation and NEW final test examples.",
+  "diagnostic": "original external_manifest text indices 0..99 per source; results observed before protocol extension",
+  "validation": "official valid split, first 100 unique examples per class",
+  "final_test": "official test split, starting at index100, 100 new unique examples per class",
+  "selection": "equal weight of course validation balanced accuracy and external validation balanced accuracy; tie baseline",
+  "caveat": "Exploratory protocol extension after diagnostic results; final test is separate, not a preregistered study"
+}

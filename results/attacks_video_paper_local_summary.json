@@ -1,0 +1,145 @@
+{
+  "modality": "video",
+  "method": "paper",
+  "profile": "local",
+  "results": [
+    {
+      "attack": "FGSM",
+      "epsilon": 0.00784313725490196,
+      "defense": false,
+      "n": 2,
+      "eligible": 2,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.00784313725490196,
+      "defense": false,
+      "n": 2,
+      "eligible": 2,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.03137254901960784,
+      "defense": false,
+      "n": 2,
+      "eligible": 2,
+      "asr": 0.5,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.03137254901960784,
+      "defense": false,
+      "n": 2,
+      "eligible": 2,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.00784313725490196,
+      "defense": true,
+      "n": 2,
+      "eligible": 2,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.00784313725490196,
+      "defense": true,
+      "n": 2,
+      "eligible": 2,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.03137254901960784,
+      "defense": true,
+      "n": 2,
+      "eligible": 2,
+      "asr": 0.5,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.03137254901960784,
+      "defense": true,
+      "n": 2,
+      "eligible": 2,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 1,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 1,
+        "success": 1
+      }
+    }
+  ],
+  "calibration": "clean validation calibration retained for defense; no defense-specific recalibration",
+  "scope": "model input threat model, limited local profile; not a claim of certified robustness"
+}

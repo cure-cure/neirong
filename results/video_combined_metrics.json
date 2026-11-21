@@ -1,0 +1,36 @@
+{
+  "modality": "video",
+  "method": "combined",
+  "test": {
+    "n": 19,
+    "accuracy": 0.8947368421052632,
+    "precision": 0.8181818181818182,
+    "recall": 1.0,
+    "f1": 0.9,
+    "fpr": 0.2,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        8,
+        2
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "roc_auc": 0.9111111111111112,
+    "pr_auc": 0.8870731120731121,
+    "brier": 0.12528048174880083,
+    "ece": 0.15711202096111498
+  },
+  "coverage": 0.9897959183673469,
+  "accuracy_ci95": [
+    0.7430921052631579,
+    1.0
+  ],
+  "scope": "equal mean of validation-calibrated baseline and paper scores; no test-set model selection",
+  "requested_test_count": 20,
+  "test_coverage": 0.95,
+  "effective_accuracy_counting_failures_as_wrong": 0.85
+}

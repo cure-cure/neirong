@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "validation_external_webtext_0",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0000.txt",
+    "group": "webtext_valid_0",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "49fd26ce46f6b6924cd23a24585a247c32aca6d652ed0c8cb6094416b5be0de0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_1",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0001.txt",
+    "group": "webtext_valid_1",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "d494840bcea734920d747bfc7d80c3272767f70b4d55e5754dde643eb73f92fa",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_2",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0002.txt",
+    "group": "webtext_valid_2",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "dff60338d93b52cd9ba449f7b8ddf79afb22ff1bd2fdadc221df24ddb1254205",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_3",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0003.txt",
+    "group": "webtext_valid_3",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "6912e5cf8f585234552b5d837c338283e2f7133887ecfbdc869e1d88cce19121",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_4",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0004.txt",
+    "group": "webtext_valid_4",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "19107806e4358e94e622dcc006c0a6c75e52b4ee43e3d204a5dc45fb0716cdf0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_5",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0005.txt",
+    "group": "webtext_valid_5",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "98a8881a843defe3e1b94fae78528d75bd93c450f5ac908ca9da5efae5c04d4c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_6",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0006.txt",
+    "group": "webtext_valid_6",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "5ab72481f0bcabf9f43998e67ceb8584d7779f1fd06f67e35d7e830f4c1ab590",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_7",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0007.txt",
+    "group": "webtext_valid_7",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "93c5058edf1b0301e8bcb8d83ea932fec96941f3fc23a92553cfbcd6a83ef214",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_8",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0008.txt",
+    "group": "webtext_valid_8",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "cd5fe453846c69f1cef9947da410d7adc15acfb78ac69460dfa26130b0f5ebd3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_9",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0009.txt",
+    "group": "webtext_valid_9",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "878cb0ee2ea219da3c5fadcd984a95b6670108041e4b7883055d58b30c6d29cc",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_10",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0010.txt",
+    "group": "webtext_valid_10",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "84ef8aff51e7754c481f826ffc9c5f50badebff184f77f629091d17a45fec36b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_11",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0011.txt",
+    "group": "webtext_valid_11",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "744c9b795e9f75f5cbb34cb22712955d60c28ce9e3cf8c6059596ae8a237840b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_12",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0012.txt",
+    "group": "webtext_valid_12",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "4389eb3ff725eb77e671d983feccb0bc173fbb0b850b8982d588252651eb7034",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_13",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0013.txt",
+    "group": "webtext_valid_13",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "a9718e158182df9b75031ed75e50ab335064d93e3637a58f4ed5ce678c52892d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_14",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0014.txt",
+    "group": "webtext_valid_14",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "8fb67b8dd51ff98d3a57db5a3a33cb32fb42229ff580857d03c3a2845854eccf",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_15",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0015.txt",
+    "group": "webtext_valid_15",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "0cb417b78cfd97496afbe3198f67673760bfed8e6516135a8b1275f6d2b2a896",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_16",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0016.txt",
+    "group": "webtext_valid_16",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "1b849e553f23ec5d97c243d8fdfb55ed61015e7dfe6d0a8a696eb8795f90acbb",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_17",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0017.txt",
+    "group": "webtext_valid_17",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "bd4c3f7de47f84eb220f7f0cf8f8625af6fe5aebf90c5b8f95e04e0978a889e0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_18",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0018.txt",
+    "group": "webtext_valid_18",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "78a7cbe1df293bfe14c98181fd75559dc9b53882c1d435d0939761f21245f1da",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_19",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0019.txt",
+    "group": "webtext_valid_19",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "ac7f41821d6a2e5e0d033b60ba4870ff34e52354de9424c75d10aa88fbd991f1",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_20",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0020.txt",
+    "group": "webtext_valid_20",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "fe2a5cb6af75b7f7cbaeb31eb84742292bf11adf952dc429c09a4a222937ceef",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_21",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0021.txt",
+    "group": "webtext_valid_21",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "78f923e7d620db198807e377ab513a864eda88003180e477221f383fb267a8a8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_22",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0022.txt",
+    "group": "webtext_valid_22",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "87f03e457cbe8fc645a6c1ee8c7f358c68a77a52c8df7cf3aa446fdbf8eaf101",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_23",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0023.txt",
+    "group": "webtext_valid_23",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "251a6d1cbad8f75974fc5b0c996623275aa9d2a628be4a58b515141bde8a99c0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_24",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0024.txt",
+    "group": "webtext_valid_24",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "220fb8ed69d3f082c8b3e86df54feff8ccc9a669870b4630c352cfddebeadde9",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_25",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0025.txt",
+    "group": "webtext_valid_25",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "2ad93a624dbf3b00f643e826b7eb18af9bb749c9418134a4f6fde413de6df0cf",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_26",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0026.txt",
+    "group": "webtext_valid_26",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "6158b0dd4bfc525c9a32e30fef6baea1b27e154b13f439f9d3cfa1cbe6504789",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_27",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0027.txt",
+    "group": "webtext_valid_27",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "b906082a0a7f11a90773b3e127ecba17d296869e8de7911fcada2805e2fad732",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_28",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0028.txt",
+    "group": "webtext_valid_28",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "d0bd638c1b46bc2dd12f312dc673c13ad7ef7a7938d593df1397b4199d119335",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_29",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0029.txt",
+    "group": "webtext_valid_29",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "da2e1aeefd54b18acd6963147101cfab35989ba9c6a5fcc7374f870e20f10a05",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_30",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0030.txt",
+    "group": "webtext_valid_30",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "383521d533bc9d23c1b8d6e86432a0375ed4e11d0a467b42babb8084f84a6acc",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_31",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0031.txt",
+    "group": "webtext_valid_31",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "3d35e23df274133fa12f3182430685fbb395aad853edbca6448bd962147d9c28",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_32",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0032.txt",
+    "group": "webtext_valid_32",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "523d99a61221cd14d14a1fec0654debc4613d4a935212eb310e6ce8858d3d444",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_33",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0033.txt",
+    "group": "webtext_valid_33",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "66616333d56345d4ff18bf2b93e28ed7458f70d9b18d69b6b5327ba8ba170398",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_34",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0034.txt",
+    "group": "webtext_valid_34",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "e898e10155053285dd535699ae90652fdd5b1da2b7c9b1b6c709376c3afebe92",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_35",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0035.txt",
+    "group": "webtext_valid_35",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "2517179d0dd8a13c0efe93a66b4e93d2a11aa262de749ed5b94e17b24e97a8a9",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_36",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0036.txt",
+    "group": "webtext_valid_36",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "81dd9a395b421168021d12635d232d66863eb723daf4ad44bccc56091cee2da0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_37",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0037.txt",
+    "group": "webtext_valid_37",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "ee82263663409e82dead300dc8ec7f7a0c5c2125ab06dbc8fb87d3eaf75592d3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_38",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0038.txt",
+    "group": "webtext_valid_38",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "d70032bd79d883f16f71932dca71bb95310f759a0f7d60ade95158de969e7cee",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_39",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0039.txt",
+    "group": "webtext_valid_39",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "b3127d21377048dabca7af76ef9b4697cf18917476435fc6cb7337ba7178225a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_40",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0040.txt",
+    "group": "webtext_valid_40",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "c905a22944cd492655c90e92567f835891e1d88b5503798323201eba0f78fe2a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_41",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0041.txt",
+    "group": "webtext_valid_41",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "2a685fd3517d9e25fd11a31159d0169391d836848b2bdc2f1f4fe230c932533d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_42",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0042.txt",
+    "group": "webtext_valid_42",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "d74209cd50d79a7d6e40b3d9aedd43dad986e506f6b7169f1e13346006c5ec6e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_43",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0043.txt",
+    "group": "webtext_valid_43",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "fe08619658b410d8d4c433bd785e73539d7f5c716de1db449dc4ea8d241eecc9",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_44",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0044.txt",
+    "group": "webtext_valid_44",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "2e61503896eb638699a24ae9fc1a8a84c5a4b68dd6740fe861fa3a92e9c649b8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_45",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0045.txt",
+    "group": "webtext_valid_45",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "d11b081d98b410a6437affb37b10e877781918d5a4b7851a242feb887ebd717c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_46",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0046.txt",
+    "group": "webtext_valid_46",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "66651ce75f355b1590fe5cef2bd1595ace944ab9dc9720a02b93f36c105bc0f3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_47",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0047.txt",
+    "group": "webtext_valid_47",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "639081645b842d7aa43c39b8e91728e0dbe25a6e89e8a198c1904528fc6849e8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_48",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0048.txt",
+    "group": "webtext_valid_48",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "1f11ccf77b72bdb5d2310fac7bfd3413c6df8f890c1bf0bc42cf9292f0692e8c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_49",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0049.txt",
+    "group": "webtext_valid_49",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "fa8e04d2db8c7a7c51c727c11ee909c4e908a67982bf0be174452727dc2c9007",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_50",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0050.txt",
+    "group": "webtext_valid_50",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "804ffc7ec36b48b15697dd331fc588619f4a22c7f426d7797a8a7b6fd50a3b52",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_51",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0051.txt",
+    "group": "webtext_valid_51",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "e0ab09dfa16307ee847210f242fbc91145f1fcb6109694c13ddd2cf0db31aef0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_52",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0052.txt",
+    "group": "webtext_valid_52",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "28b19f947dd6c06ad4c04683f54244d12c006f781d0f3cacbe04b869ae8b8d98",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_53",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0053.txt",
+    "group": "webtext_valid_53",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "894b21003b0ea41dcb41ca74c2703093d7093acee204998ff5896b11b8e53036",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_54",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0054.txt",
+    "group": "webtext_valid_54",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "afac423fe6a3a3a0e9437d6ec188da53f51149081455f0df40da78f5fe4ceec6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_55",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0055.txt",
+    "group": "webtext_valid_55",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "53ccf404ed233af0d001da1614aa4de5f11390c9e0c89ff0a6dfc36c93bddd4e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_56",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0056.txt",
+    "group": "webtext_valid_56",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "9574beea6906350ecf75d950dcccfb57bd602b2eac08ca119cea42bbbbd136bd",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_57",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0057.txt",
+    "group": "webtext_valid_57",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "f3aca312cfe2c4ccfee28a1c6be35bacdef82c899b001332a4f1ae137a0c6851",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_58",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0058.txt",
+    "group": "webtext_valid_58",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "70937afced0d6edaf0b1fcc631042bfbb0985c4d687d932e816de30a71f73998",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_59",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0059.txt",
+    "group": "webtext_valid_59",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "a9fdbd3159add77924d970b9f3c039930fd4fcf7b1cdfcabc695804d46d57d13",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_60",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0060.txt",
+    "group": "webtext_valid_60",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "f31041977d8ddaffd061b34f3033f5e1fe992c8a6c5cbb370f0a4015cf084f01",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_61",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0061.txt",
+    "group": "webtext_valid_61",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "ead1b9c7b2ccaddbee24b1cc10bcc1f74d82da0f9a5be81a1026dfd4aec4ae0a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_62",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0062.txt",
+    "group": "webtext_valid_62",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "38ab776d71a0aa0dbeba2b5ffd175030f926ea4269fe54ddf212eaf019ef6df6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_63",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0063.txt",
+    "group": "webtext_valid_63",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "e442e4c92d8a22bf60ac6a00e73a7699f5ee939b685348f72a6548fc5b3e9e69",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_64",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0064.txt",
+    "group": "webtext_valid_64",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "3040b06e409846915ea1fe73d4039fd8cc552063e5d63b7fb0f1818ac138752b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_65",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0065.txt",
+    "group": "webtext_valid_65",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "fffb3446e067dd88d6d8e8a62f8a673ebd4bfbdb6d237dc38df430be4bd0cf0d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_66",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0066.txt",
+    "group": "webtext_valid_66",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "f3e58efbed1b7cd9d1f9b4ab134f0ac31015b444ee5cfb09e1740edc653b5f61",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_67",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0067.txt",
+    "group": "webtext_valid_67",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "ee0cf2eff081ba7bfd2749741caf7896dcabfe1662df339998a0f0143a02e14d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_68",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0068.txt",
+    "group": "webtext_valid_68",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "fe316c6b924cb595d1d4860c3362c2d0c263688d679905ebbdada48436a3f5a7",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_69",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0069.txt",
+    "group": "webtext_valid_69",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "9085eca24deae41e72f28b2ed97ab717033a140da570b32261a1eedc2b782c3b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_70",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0070.txt",
+    "group": "webtext_valid_70",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "a06f23246c06d1181565d67328abc4df8bfba549cced953c379d42915bd39603",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_71",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0071.txt",
+    "group": "webtext_valid_71",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "637bfd5e3cc0281f9e43791875d443f60bb51ca05909001cbb64d4ea525e6e9a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_72",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0072.txt",
+    "group": "webtext_valid_72",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "5c5f3cfc0bc6b3601a7a057493a087cecf8273a65e349fa513dad6f15c1ed09b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_73",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0073.txt",
+    "group": "webtext_valid_73",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "19c06d2bf86794782c9533a22f55ede3d87b3dc2c78ec22d0281eb93a458362f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_74",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0074.txt",
+    "group": "webtext_valid_74",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "729100e408732d40cdf8b506b752268ebfc9fbbebcdb1660a864e53d3fb9e832",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_75",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0075.txt",
+    "group": "webtext_valid_75",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "7930d3d341f27d414cb14a8f4cb976ea59081879904794a67ed9970b56bee50e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_76",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0076.txt",
+    "group": "webtext_valid_76",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "babc44ce96a5167a0f343241a56880bec987af8f8bfa5a0a5e12ca5c3789c3e3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_77",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0077.txt",
+    "group": "webtext_valid_77",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "0fa6996528117c0ccd5cb7f0c5924be57e31e4a79eb54264294be5bd6f7cf081",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_78",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0078.txt",
+    "group": "webtext_valid_78",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "892a8300d0673b9bd59f4238d0cf3c37ef6d52f25abe0af614f353c8bfd3418c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_79",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0079.txt",
+    "group": "webtext_valid_79",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "220848e31cbe16c04fec3175be1535f0228f22ea322fc1e5d512eb6b10b1c4c9",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_80",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0080.txt",
+    "group": "webtext_valid_80",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "eb929ed22988b6842f3dc932818e0da839096be07e220333693d922c2d7be6bb",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_81",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0081.txt",
+    "group": "webtext_valid_81",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "9ab6577a6de55898e06dbfe560b4991ad99b9772482a89caf858cfe8008c1ced",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_82",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0082.txt",
+    "group": "webtext_valid_82",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "3487a3940b5c1407380bd0a01e3dfd040e2e248340ad38680f666fc43aed1c73",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_83",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0083.txt",
+    "group": "webtext_valid_83",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "160c301f56906de809ee3b843d84e9344bcf83ae99174c5e41606adef4d32ba4",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_84",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0084.txt",
+    "group": "webtext_valid_84",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "45ec7c144b3c0de3e6e861fda84548337f342bec077eaa25883c8a2dcaf8a4f3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_85",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0085.txt",
+    "group": "webtext_valid_85",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "8721ff108de197fd4adab42bd172d295a285c25e2b8387b823991d1fe8c39cad",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_86",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0086.txt",
+    "group": "webtext_valid_86",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "90dd5d0fae46ee553da0241d31fe12224575f57bd7b2e5ce0454a6dabf733d6c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_87",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0087.txt",
+    "group": "webtext_valid_87",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "0e439ae9a92d6c2edd80f6d4d07d8db677a4b9ccd2546361e1664f50ea254158",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_88",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0088.txt",
+    "group": "webtext_valid_88",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "ea626e4ecaa768384948b66aea3e35bbedfe5cb3bb1438f8f9d4e13041651251",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_89",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0089.txt",
+    "group": "webtext_valid_89",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "096b8066ce1cfab11d9093b9a68fff4b894671104eb9185d36561aba4a2f0d64",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_90",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0090.txt",
+    "group": "webtext_valid_90",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "98f9ebd14855c303390a4ab00c2c45affd0fdd42bf961d926db405bceadd00a8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_91",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0091.txt",
+    "group": "webtext_valid_91",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "4a80daa59d56665ab877c2a72755ded5cb0a26839f582b726b61f95d5e11c986",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_92",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0092.txt",
+    "group": "webtext_valid_92",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "1745dcee8b7b423f6b575c3e15c80a62c376a81429d1574e0b0cb2fd3a826c40",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_93",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0093.txt",
+    "group": "webtext_valid_93",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "dfb42e351d2c27af104faae49a20614c24bd860c18b88fb1e945be2208dcf318",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_94",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0094.txt",
+    "group": "webtext_valid_94",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "e9c7cf64b9403d6c6dcc710da42f970347bf56c57769ac750d8cc42afa68f14b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_95",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0095.txt",
+    "group": "webtext_valid_95",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "d85faf250a2c6403b4e65e5900c0faa01452c78cd18c52d77a47c8a895a4fc9e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_96",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0096.txt",
+    "group": "webtext_valid_96",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "bcdd5335759a0b04e5f6617b8c3e680f58911082bc5089692a4c403ebc4d28f8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_97",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0097.txt",
+    "group": "webtext_valid_97",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "873d8e224d43e99ba20dd70ffecaacab4f3ee00387c5849bd3a4297d9a9c703e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_98",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0098.txt",
+    "group": "webtext_valid_98",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "c7ba2876aa14f36f38db8df7f6ddfe34c426eb71fe6d620d386fd2083e9ba54d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_webtext_99",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/validation_external/webtext_0099.txt",
+    "group": "webtext_valid_99",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.valid.jsonl",
+    "sha256": "1e460650500e3fbf66b054f298bed0d99f1d6c301cc755e826b14ee1a225e86b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_0",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0000.txt",
+    "group": "small-117M-k40_valid_0",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "896833ecdd684bcc1398a3a631e9f4c200e076253aa1c807a91466cbf79a0845",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_1",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0001.txt",
+    "group": "small-117M-k40_valid_1",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "29726ea5faf020b9b3eb06b265866471d121af57346d011fe8496ddf2982fd5d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_2",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0002.txt",
+    "group": "small-117M-k40_valid_2",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "edf66cac30b293d18c2b7858f9487052584fabad84ff21e1f37d29c7c8ad39bd",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_3",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0003.txt",
+    "group": "small-117M-k40_valid_3",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "1c5be5a08ca2a1c318fb7de8627168736994c2c3a14901529a05f2fccbda59d8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_4",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0004.txt",
+    "group": "small-117M-k40_valid_4",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "ab9cc75cdc8887fd64fb64287d620eee9b1fbbb2c42d152bc2ec3dbbf97e602c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_5",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0005.txt",
+    "group": "small-117M-k40_valid_5",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "bd8752883a4a533c39a411768084389b46a97f8da5d16c11d5216c88f97deffb",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_6",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0006.txt",
+    "group": "small-117M-k40_valid_6",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "e442737c23cfe5bc17ce9e42780423d1592a8ba01c16d73b0e1904c853b3bdf0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_7",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0007.txt",
+    "group": "small-117M-k40_valid_7",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "2fe28331b43b0247a8a88e21d3493f630175a664589f53d960efcbe50fa99bde",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_8",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0008.txt",
+    "group": "small-117M-k40_valid_8",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "1f63ad007e95676ff0a65747a7f69e8aa00dfea502a87f6db8ff3577453e9820",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_9",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0009.txt",
+    "group": "small-117M-k40_valid_9",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "583f51ca40c5f92dea79b8ef672cd28ec55730084ab48342183a810c3ea9a37d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_10",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0010.txt",
+    "group": "small-117M-k40_valid_10",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "191c6f01aec348431712d9d53c9847d2dd029ad96948d195ce2661504dcfa9f0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_11",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0011.txt",
+    "group": "small-117M-k40_valid_11",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "91da3b9d11a85b2479982684fa80d512d0f9be528154998b4968257eb79d17b6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_12",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0012.txt",
+    "group": "small-117M-k40_valid_12",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "b38da3015c3e2f1bd45119afbbeec17b77450e21262ba2bf2af1cac18fd84124",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_13",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0013.txt",
+    "group": "small-117M-k40_valid_13",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "a643d91559eb76b03852547f72df9bb7865c9e027f7f72a41cf22cc18710b898",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_14",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0014.txt",
+    "group": "small-117M-k40_valid_14",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "fac566c6511a49674ab68f61f31d31ca4fec2c0548463546dc2f34b266073ad5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_15",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0015.txt",
+    "group": "small-117M-k40_valid_15",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "12e178ab973b29487ee043c25f6f3d76fc494dbb679d1f7350efc96faa689221",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_16",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0016.txt",
+    "group": "small-117M-k40_valid_16",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "55894d20e4694854b0b4741d904baad2e6a54f7372e3509c4815f8df18e4ff84",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_17",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0017.txt",
+    "group": "small-117M-k40_valid_17",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "328dc53aedff840929c618ce5c8787f22198b11dcef5c29968640018d65ef870",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_18",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0018.txt",
+    "group": "small-117M-k40_valid_18",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "2506c96eef85d7b573373a466f8015787e5e851aff065fcea2c5ad066ca4a1a6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_19",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0019.txt",
+    "group": "small-117M-k40_valid_19",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "45cc214b6330715b4bfa6563bf11cf9ba9e4072a1ac39a34734180805db15811",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_20",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0020.txt",
+    "group": "small-117M-k40_valid_20",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "c8c1d257b12a7f9457197f60b039d8b48ab575522ff0f8af5f6fbf5dd38dca11",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_21",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0021.txt",
+    "group": "small-117M-k40_valid_21",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "43a8593a9835d754a6cec963b9d858c87e6cb4540e1a5fa93d0ec7263a4ce4bc",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_22",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0022.txt",
+    "group": "small-117M-k40_valid_22",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "836e981c7cac43b5e05a29e92df6211445506a691cc5de4d7a9d76f33a3baef7",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_23",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0023.txt",
+    "group": "small-117M-k40_valid_23",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "e836b48c23e5056e476ea62f3b92185b8efeceb1448ee6a6db5ff5bab9b35e82",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_24",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0024.txt",
+    "group": "small-117M-k40_valid_24",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "cb9df5ea52a4fc7def58c316bdef148a4e7ed2266b82938ce122c01ecf58fb5f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_25",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0025.txt",
+    "group": "small-117M-k40_valid_25",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "984048a3fd794600c9fa5f50e80b05304751a19cd4ace568fb9c24ae92858b58",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_26",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0026.txt",
+    "group": "small-117M-k40_valid_26",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "ce3e01ab519f017ebd861f7376d635bf66846e9b0f373b39c5ee80735d51d7b6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_27",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0027.txt",
+    "group": "small-117M-k40_valid_27",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "289748f4ea77f29d7782040cd563c25e020829a65425c24784714643aa516d01",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_28",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0028.txt",
+    "group": "small-117M-k40_valid_28",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "fd694fc38ff8a2d598f0f192cf8a51d39cc274af4d8f7c1257b6995077f538cc",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_29",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0029.txt",
+    "group": "small-117M-k40_valid_29",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "81c9e29dcfd7e5f17f054a76f5321e93969714b862ca5edfbd081c5418385726",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_30",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0030.txt",
+    "group": "small-117M-k40_valid_30",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "466af8839353c7fcc87d87d8145d58f79f1e32f1b29821b2700224496c75d5c0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_31",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0031.txt",
+    "group": "small-117M-k40_valid_31",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "a73ad99d0e7e328afef8a8578a965a7f82c07d6f79659f811ba19a6f65e80d0f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_32",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0032.txt",
+    "group": "small-117M-k40_valid_32",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "a607f3882fa1836ab7b0f9bb4d3339a5c179e97b93430d8619ae9ea3f000c1c5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_33",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0033.txt",
+    "group": "small-117M-k40_valid_33",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "cc1744a5db9064f29e7c6a6a2143634706f2c42b5d220125c659d32f432ee5c8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_34",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0034.txt",
+    "group": "small-117M-k40_valid_34",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "8d4805960ab83b223ab79cafd794e0c3ff91bbeb54761caab86b5f6fdb4fd0d1",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_35",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0035.txt",
+    "group": "small-117M-k40_valid_35",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "f748f7eaa222083d37075e8b0038aeb7c79f8243db6134a0a34e52afa88b7451",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_36",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0036.txt",
+    "group": "small-117M-k40_valid_36",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "98b0b158496cd7c4a01de1bf87d93948e59aeec56a28c6e9895c0ad588b3375e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_37",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0037.txt",
+    "group": "small-117M-k40_valid_37",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "ff1720e4b4c97ebb1ba068c5af601bac3cf33db55eb9568067c3a2eba66da293",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_38",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0038.txt",
+    "group": "small-117M-k40_valid_38",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "950219c85ab86727810f14a2df281ea323517cd30963970bb658757a46bdb64a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_39",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0039.txt",
+    "group": "small-117M-k40_valid_39",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "0352268bebcca10addcf28c6baecf38b72ed1d5b345a6622666cc90cf01d6b50",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_40",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0040.txt",
+    "group": "small-117M-k40_valid_40",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "9828284023ac7e81d2742f1a34031d14bcc7aacddcdbe0a8f92e0c16774499a2",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_41",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0041.txt",
+    "group": "small-117M-k40_valid_41",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "9f9e11bc9747153266fd24683ab744ebf7dd7005fc58df69448d51d5be1fd5a5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_42",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0042.txt",
+    "group": "small-117M-k40_valid_42",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "0a744ca60e6b0fe982b4f7de895070e8ff097fe20914d7b85d8fa134c02cf7b1",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_43",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0043.txt",
+    "group": "small-117M-k40_valid_43",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "3c5f9ff7e16580eed102a68eb25c15ee57e5668a915d894f2006fe33c9c9e38f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_44",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0044.txt",
+    "group": "small-117M-k40_valid_44",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "01ae71ddce6c15aef59f516e940f7a57eec489eeb516528a07fb776d015eea0f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_45",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0045.txt",
+    "group": "small-117M-k40_valid_45",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "bb96816f5f4484b20e791050c82d76789efdbac5a198fe28f9609c65d75b4269",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_46",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0046.txt",
+    "group": "small-117M-k40_valid_46",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "59678e0d1294d09dccfdda988c2e74d0a45b472c70c26e45e017b27e021e57d8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_47",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0047.txt",
+    "group": "small-117M-k40_valid_47",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "4424d6ae8ca8e8e00d3e599ae638334fbac07fa81b52f6bfe9bb92bafd9a0765",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_48",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0048.txt",
+    "group": "small-117M-k40_valid_48",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "739e02aa903e27946504d29ac1d5d9462866027b3924ad4d814bb09b5c5875ee",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_49",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0049.txt",
+    "group": "small-117M-k40_valid_49",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "d849975bb682ed36909dc1c0029af6541a9522876127492c4d2d646f29ba1bfc",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_50",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0050.txt",
+    "group": "small-117M-k40_valid_50",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "0d02b802fb6867bafd61198347351e8298534ebd720736206f5adf04ecc3c9e4",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_51",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0051.txt",
+    "group": "small-117M-k40_valid_51",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "3762e026ddac9b447df2b5616a3ea475d5c495d0d739d3f6899f09b6345a295f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_52",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0052.txt",
+    "group": "small-117M-k40_valid_52",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "497bb9a1340ee178b75e74ff5ed245e108701bba01f7be129231b53ef933dc56",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_53",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0053.txt",
+    "group": "small-117M-k40_valid_53",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "032d27c0e48d14b9a3198f064b7100577b9c0db32ef86715849533c6b8fc16b6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_54",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0054.txt",
+    "group": "small-117M-k40_valid_54",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "7b4a7d2c2de25eefdc035769fc968156faecf4fea6acf313c010d363d5a8c96d",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_55",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0055.txt",
+    "group": "small-117M-k40_valid_55",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "47db2b095ad06d1957cc106c0507001249daaa04419eba5c25fe26ace8a49ad2",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_56",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0056.txt",
+    "group": "small-117M-k40_valid_56",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "ca5d3be2dfed6d16c1b17123c3e71e7d01fbcf352e30dc217be3d18c5b8adb89",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_57",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0057.txt",
+    "group": "small-117M-k40_valid_57",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "9f824ea524a877de99f8413fd9bf27cdc38662d86b66f5a45f1a1f3dd12e3534",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_58",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0058.txt",
+    "group": "small-117M-k40_valid_58",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "4ca5dff3455f592fe65e8f9f93830b6c84995bbd37627de3a2f77a456f20cf02",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_59",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0059.txt",
+    "group": "small-117M-k40_valid_59",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "d790371efbd0a28d24c8a49186b5bd9bf1123af30cfb99e747b572c7edd83c25",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_60",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0060.txt",
+    "group": "small-117M-k40_valid_60",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "8332bddfccc3eaa3e996c1ea691744a75cd958b1753990495597122e89c971d8",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_61",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0061.txt",
+    "group": "small-117M-k40_valid_61",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "cf0f546bc61e3bf834660b3e0d1331d02bdb5694003dd8cc72fc38c69b87308e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_62",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0062.txt",
+    "group": "small-117M-k40_valid_62",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "f7f650a7e005f08518ffccf228e5ab090eb2ea1707a4b7738783455bac5562f0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_63",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0063.txt",
+    "group": "small-117M-k40_valid_63",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "94c7a3f97cf3e61126a02017f965ad619a1fbc7b2c6b0ce88e385a8619d3d2a6",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_64",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0064.txt",
+    "group": "small-117M-k40_valid_64",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "ea51464a65bc5604c364e77d38bace3d3a8985cc64a59645c1646b62a0ac4fe9",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_65",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0065.txt",
+    "group": "small-117M-k40_valid_65",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "8cd4bdea2a0f18c3d1488b07fdb86f56fb6082cc6f439d41797a2418d11df592",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_66",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0066.txt",
+    "group": "small-117M-k40_valid_66",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "f5918fb39036f9b710e178f0df8e7624c1ab4bea570a92e066b8252e383ec85f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_67",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0067.txt",
+    "group": "small-117M-k40_valid_67",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "acb72ffc98d76c79f8ce4006f2e3d64cad53b3132bf90d569be0f401ca5c179c",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_68",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0068.txt",
+    "group": "small-117M-k40_valid_68",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "0217a3885b28a6804474f1f5eb5bf2753e19a624bb5d76b721ae67c247f2e464",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_69",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0069.txt",
+    "group": "small-117M-k40_valid_69",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "b8a5e0166550d9a6a584fa8a68990c5552169dc23536d0b0865b6729578fba9b",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_70",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0070.txt",
+    "group": "small-117M-k40_valid_70",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "7c45011e734c7b97b6d8e99a3641a8ac7ab4414a4639cbfd39d612d526748df0",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_71",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0071.txt",
+    "group": "small-117M-k40_valid_71",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "13bcd6ed4ab7c99ad8a158003c33dfe58df92be464cbe7f4b9f521b3cf185196",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_72",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0072.txt",
+    "group": "small-117M-k40_valid_72",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "72d47d0003ade9a07584079155ca11b005bd27b242513c0e2a4b0cca234314b5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_73",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0073.txt",
+    "group": "small-117M-k40_valid_73",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "dc7ced62eaabd329f5a16a807ce0c9876b04cc19ec34f2b7ddc3f536614d6f1f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_74",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0074.txt",
+    "group": "small-117M-k40_valid_74",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "c16ed4db7e9eabde59a433da0b059fcae0eb9ed78158422a333cc959aaa5dbe3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_75",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0075.txt",
+    "group": "small-117M-k40_valid_75",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "a61890d6b23511d19e4548fb9930ce1995862b023248abfd8c56cc6eabd099c1",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_76",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0076.txt",
+    "group": "small-117M-k40_valid_76",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "a69d51ebc494fdf95872b45330afc5ee97e7b7057cc879dd53620dfab391e045",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_77",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0077.txt",
+    "group": "small-117M-k40_valid_77",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "ab57ec626b64cf6c1255bba6f227aeac522d6b59700302e8c70a18d88a68a0c5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_78",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0078.txt",
+    "group": "small-117M-k40_valid_78",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "04789a5ab6f8dae19e4a58b379d3e43d04170b4daaa999cbadf23af7ddad9517",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_79",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0079.txt",
+    "group": "small-117M-k40_valid_79",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "cb1a5bbe369160d507ffbdd6c8637ae71d4c19446e6be7c016dadcbd1d264d78",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_80",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0080.txt",
+    "group": "small-117M-k40_valid_80",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "0d3e5e69b01847b968e27dc2500e240712d5cbffd468444f11a2f39f44d73c6a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_81",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0081.txt",
+    "group": "small-117M-k40_valid_81",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "6e00dcc403af223da1f513ed6e57339704ec4f0b3fae3a7997d7399ec6f637fe",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_82",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0082.txt",
+    "group": "small-117M-k40_valid_82",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "539c8a1454ba3f5e28988929e28831f6b8c58719d2899ebb2af5db243004b98f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_83",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0083.txt",
+    "group": "small-117M-k40_valid_83",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "d5b595a3b32b4d363a875d47b6b15b7d6ea3b3a0dada410b367a279921f33782",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_84",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0084.txt",
+    "group": "small-117M-k40_valid_84",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "743e317b23ddfd5a4eafcb6ed420f0957e15db31741af7fc4e93c92080324b61",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_85",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0085.txt",
+    "group": "small-117M-k40_valid_85",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "f58b30d568609cf9c40eed5bbb06b5df7f06a8a4989858bdb7871effe056456e",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_86",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0086.txt",
+    "group": "small-117M-k40_valid_86",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "3f2a245f66f8eb21d1f45207599cde79b922c4a759ef606809d6e89906bbc338",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_87",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0087.txt",
+    "group": "small-117M-k40_valid_87",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "9ff030e5b8f579ca8ddea9cf1c3ecb6eef536e6090fc26ed913e3efeb26e8920",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_88",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0088.txt",
+    "group": "small-117M-k40_valid_88",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "5783d0ccac0117413ca2017e12b5085e9b2a03d9ee125cb2480f8070af48fb70",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_89",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0089.txt",
+    "group": "small-117M-k40_valid_89",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "6d56531f38699eb51cd84d3558dedb3f43172345f4461d31d8519efc36520a58",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_90",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0090.txt",
+    "group": "small-117M-k40_valid_90",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "e5d394eebe80a545c443f0b52238f9b415a57e89eaba9b85309287c020462772",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_91",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0091.txt",
+    "group": "small-117M-k40_valid_91",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "31fe00d3c69c7e7b96ba0a51b3f13728f38540c58215238589b7d133be2eb720",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_92",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0092.txt",
+    "group": "small-117M-k40_valid_92",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "5ec7900e6ce2fef557a0b6a31258734174448b33a15324a53591e2415744276a",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_93",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0093.txt",
+    "group": "small-117M-k40_valid_93",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "404df02a6596b4b3853eda5cd6967f9058e2764f4162cfb6899c7092adba5dc5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_94",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0094.txt",
+    "group": "small-117M-k40_valid_94",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "65c15272e0acfdcc1e1fe4597c8b5833b7a5928b443300966b3b042b0ea72f30",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_95",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0095.txt",
+    "group": "small-117M-k40_valid_95",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "648e70eb91bcec3be2a2eff9d6c7d7148a316c4b69f3ec7b2f9cda43df8d3ac5",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_96",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0096.txt",
+    "group": "small-117M-k40_valid_96",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "6084ebfd053e60ec9924b7ce9fc589fe08644fa9088d8bb2a07774fe06433774",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_97",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0097.txt",
+    "group": "small-117M-k40_valid_97",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "160b00540d816727c2861d3ca639231574e7d7ebf097eafaece8cd9ba9fc081f",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_98",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0098.txt",
+    "group": "small-117M-k40_valid_98",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "a12d8041206ac34e00aec867304225ae86fb9def23e02c30ebef588912092fa3",
+    "split": "validation_external"
+  },
+  {
+    "id": "validation_external_small-117M-k40_99",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/validation_external/small-117M-k40_0099.txt",
+    "group": "small-117M-k40_valid_99",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl",
+    "sha256": "62d87993e233837756e44986df43cfdfbbd1d495bf7fbce5ff5c6c2cf695f664",
+    "split": "validation_external"
+  },
+  {
+    "id": "final_external_test_webtext_100",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0100.txt",
+    "group": "webtext_test_100",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "817c0c5fb6e5da3f26983a848aa811841bb26334954aa84238a7aa856e3b62bc",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_101",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0101.txt",
+    "group": "webtext_test_101",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "6752504f88a4b155b59d918cc1d343e2732a332b4c95e4c118671a64e7d262fb",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_102",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0102.txt",
+    "group": "webtext_test_102",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "a72706444e678c43decf41a99fda94a3528f14f08db6503e2d6af3cfd7c026c9",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_103",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0103.txt",
+    "group": "webtext_test_103",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "aab3f33a966af9209df457352b9873ec3dba45bcd523b3c98dea1e11b962f517",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_104",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0104.txt",
+    "group": "webtext_test_104",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "e8e3a4bfc198739af05f4b621b4da3b808b8610dd8f7a42f3ee6c26964741b65",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_105",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0105.txt",
+    "group": "webtext_test_105",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "8985099a3f614752fbc035bb4337c589f6c111870acce5117d6eada846d9483e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_106",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0106.txt",
+    "group": "webtext_test_106",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "1a6abe23a7b236a996f3d25c3ee4039154fecf57acda7c33453b9ec982dbc7a6",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_107",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0107.txt",
+    "group": "webtext_test_107",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "10aeb326028c8b386dbdf704a56832a57ee5c347ac4b5996913652dabdfbf2f3",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_108",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0108.txt",
+    "group": "webtext_test_108",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "91f8e90b9524ee9eb1aef9477dc1e8df3780733facc95777c5bee3f13755f4c4",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_109",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0109.txt",
+    "group": "webtext_test_109",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "81a27279fe34c70fb11d5cd9926f4b05145f0b3cf9f8c3dad7de6d6c72fcb8f2",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_110",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0110.txt",
+    "group": "webtext_test_110",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "a97e34c22eec14b90af46cf2d01bcd55665752337f120821a057471c1285c5db",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_111",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0111.txt",
+    "group": "webtext_test_111",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "6aa378e4bdc8933481cec48bb258ac81bf5a755e9be9f4ff093bff7c72191b48",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_112",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0112.txt",
+    "group": "webtext_test_112",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "58ee93f775e149ad204734b67baa0f93df1129a8cbc71914182fbbc99eb89d60",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_113",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0113.txt",
+    "group": "webtext_test_113",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "07325f4ebed1330403d9f6e15f1f1f8cba618d4b043f9370bd47dd97f793982c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_114",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0114.txt",
+    "group": "webtext_test_114",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "7c23ff31b3e6d850047a2075eb1d166ebd189a239ce33081ab0ab231bccf10e7",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_115",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0115.txt",
+    "group": "webtext_test_115",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "531e38c32b789e80927c50b7718892768c6aaf866e7a4c7da6b732dfffa67e9c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_116",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0116.txt",
+    "group": "webtext_test_116",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "b53c0a630f0b1671a6d731f1e25b482222a3d24759e06d9175ea09be357b45c2",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_117",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0117.txt",
+    "group": "webtext_test_117",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "9171749cbcd18897e11dfa6de806840bbc849a42a7413f0d7f5c7402519540c2",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_118",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0118.txt",
+    "group": "webtext_test_118",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "14d2f9b0c638774f1bc7b2433707a24a9aec3565062eacbbdf05c8883c5b5df1",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_119",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0119.txt",
+    "group": "webtext_test_119",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "54b28ec39818011fbeff32e95d56b44561cfff9253af960af478f85b3dc5394c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_120",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0120.txt",
+    "group": "webtext_test_120",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "767e1c73791c0b3d21f1f267c65a0edd58bc3da4452d4589c61bc8aff47f0be1",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_121",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0121.txt",
+    "group": "webtext_test_121",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "84019ad043931fffb9b53651620601cd123c85b9637d76b8f1959876828f6276",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_122",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0122.txt",
+    "group": "webtext_test_122",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "b8da4cc7527956826ad2a841056a4c959d4057d8666e972fc880726f4021983f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_123",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0123.txt",
+    "group": "webtext_test_123",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "3848858dbff3970c2659e6ec1faddcb1c84dfbe743503fa8a7f85978164e7b1f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_124",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0124.txt",
+    "group": "webtext_test_124",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "4432569bfa5e348c1c66ef0d248ef415d9253a9fff0b8c0057b8ebb91892bd2a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_125",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0125.txt",
+    "group": "webtext_test_125",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "812819a243c879241fb9ff5a765621f3f3a4a9b95faf24c3f34a8aeeedbe7ce3",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_126",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0126.txt",
+    "group": "webtext_test_126",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "3dee3a22c572217a5624305403d71dd8d0c2413a98852810ab7c0c53126fe097",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_127",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0127.txt",
+    "group": "webtext_test_127",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "54ca9f7a50f512d9dffdbdef4fe0c082a1679323ca3c3b7f9ecbacc950b82425",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_128",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0128.txt",
+    "group": "webtext_test_128",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "df2d5bce73c341409d6394cbe118739c897a9a3e19daf4b21eb88c7c319a8a25",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_129",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0129.txt",
+    "group": "webtext_test_129",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "0f721c72cb3d17492f801efcbc138498914887ae97270bd73a6ca0244707cfbf",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_130",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0130.txt",
+    "group": "webtext_test_130",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "68b4de16614623df2b7c4a56d50c94d70078e4c3e76c083056c8a3e49671b1b3",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_131",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0131.txt",
+    "group": "webtext_test_131",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "20d3825ada0d0fa224d56fd2ef2cd31fd1ebbf2e2e1eff49c34966464d50fefd",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_132",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0132.txt",
+    "group": "webtext_test_132",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "cfd29b59ad3252debb1f5defcd0bc987f73aac133de6390d7f7944ae448d1a03",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_133",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0133.txt",
+    "group": "webtext_test_133",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "4576aed2cbbd06b6dbabbd23700f8a57ca4c13595c261d74d4ae021b4b44a31e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_134",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0134.txt",
+    "group": "webtext_test_134",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "c543e1f292c6643381218ea1d636bc812ba5519cd830d3fa7ef43156abd34ca6",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_135",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0135.txt",
+    "group": "webtext_test_135",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "e54ec51c826f843528a7ccd843ad5bcd309205610e70633d803f78cdcf23f386",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_136",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0136.txt",
+    "group": "webtext_test_136",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "c9af574ab22d2e61fd9c8c61db83b70794abd091e168d8f4e13404259319ade5",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_137",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0137.txt",
+    "group": "webtext_test_137",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "eaf546926380f59e39adf76b5bcfa752bd7affefe4cd07e8e40233fd17e37a8e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_138",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0138.txt",
+    "group": "webtext_test_138",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "797e500e03d5960321772d4a69566cbbec47060b3107dddbc7a9fdc67b56146d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_139",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0139.txt",
+    "group": "webtext_test_139",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "6f87da729b8418b8a1d5dd6968be121859ba205ada860078ff0d03563fc5c151",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_140",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0140.txt",
+    "group": "webtext_test_140",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "aa856c7e7ff5da4c1b0a03a286676177c82119af30eaf37599402e72173d345d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_141",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0141.txt",
+    "group": "webtext_test_141",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "806fc6f6cd432940142c5dd052a617093fee865c9bb1cf561e6d113c6a8aae9c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_142",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0142.txt",
+    "group": "webtext_test_142",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "7feb4645b35db364aa8526bd0313a98a00d7cd832219c6f7988d0dbef920a1fd",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_143",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0143.txt",
+    "group": "webtext_test_143",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "34341976d69e09389a1ce6d21cf772fdd9f947dca31b1a8239ab4fb2b49c5ac8",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_144",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0144.txt",
+    "group": "webtext_test_144",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "59ce49dd2f2ccd1a2e6477270899fdc3629132821ef0a8a1984d8f3a4795c0fd",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_145",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0145.txt",
+    "group": "webtext_test_145",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "d09f2600472baf37c0d76da272db50297f52ed3f1297aa2b691b3d385c517265",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_146",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0146.txt",
+    "group": "webtext_test_146",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "13f0d8688653715a5e7b7c461180cb7070b81c12d44e3661e14bf3a98994c4de",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_147",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0147.txt",
+    "group": "webtext_test_147",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "3a7bd6d8713666d837694290317205b31c929e582109c93607d50a20b7bfc6fe",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_148",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0148.txt",
+    "group": "webtext_test_148",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "c76e71215aacc3c4e4d15e06145a007c92331182db5ac936af0a9b58ac51778c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_149",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0149.txt",
+    "group": "webtext_test_149",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "935d37e559e343b153a40d3f047eab6ad5e62f118b256ff0e5db1a75e39abf52",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_150",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0150.txt",
+    "group": "webtext_test_150",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "7eca623a29651849ca6e4d2e2acb9bf80152f07477445ae67a68ae9514747998",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_151",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0151.txt",
+    "group": "webtext_test_151",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "6494dc368ea89910cf1451531d337fcfbaf8f0ad33d5acab88517b6355907201",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_152",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0152.txt",
+    "group": "webtext_test_152",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "691704866a4cb6a97e67def37657756332c0409662624c728b4ed3d035dfdcbf",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_153",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0153.txt",
+    "group": "webtext_test_153",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "d8bf753913969bbb52cdd3f9102637dbed3910e553b537eb52c87a6cb82e4202",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_154",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0154.txt",
+    "group": "webtext_test_154",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "7e6f69329467e1bb6e5f579bc67b83c37bad74be1001690a1b302e1a762c2754",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_155",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0155.txt",
+    "group": "webtext_test_155",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "e8c9c6d8dc4c7e94a6e6f9bdf3f6b1895f4203580e5a8b80fb1c10c10607ab2c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_156",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0156.txt",
+    "group": "webtext_test_156",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "625456496c6d58c98ae09958a6dad04175ff2c5a4d80a457c1c0abcde7c4e164",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_157",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0157.txt",
+    "group": "webtext_test_157",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "f3e75f7d46982cef8b0635052836ad1dfda85425b0d8343c761030c4755b4979",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_158",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0158.txt",
+    "group": "webtext_test_158",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "bd2a18371e8cf9fee1ff10082634e3de86758f921cf97dcf31070086643cbcb7",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_159",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0159.txt",
+    "group": "webtext_test_159",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "dc1fc131b042375e902bafecaff63b21e8d797dcda47b905678ae1a0a320e50d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_160",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0160.txt",
+    "group": "webtext_test_160",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "a2a4f60bfe32067e65ae8d90b653f179c5f7c34136f7b07631cafe2b36b36139",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_161",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0161.txt",
+    "group": "webtext_test_161",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "5aa0986262c3b0c95b74362ae4c0a9af863ece726737b4d9c0e5e4afb945773f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_162",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0162.txt",
+    "group": "webtext_test_162",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "f30fefdb056acc6db83d02edcb7c8b4f16c7f161afefe7965ab2a462d373800f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_163",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0163.txt",
+    "group": "webtext_test_163",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "a5b001447968377ff3750f8acf50b977f63dc4b33dd545cb3917ddba058db674",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_164",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0164.txt",
+    "group": "webtext_test_164",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "23129cf70eb25c7414f2bfa701af8739e1c6887a02c449436c4e70ec8909d89a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_165",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0165.txt",
+    "group": "webtext_test_165",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "81eb0f680af84446e06429a16c55ce6bbb9e57d94729affcf1e6892b494f751e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_166",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0166.txt",
+    "group": "webtext_test_166",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "232ef4737a7ada5ccf7cd14d4c2b4d6f565cf36bbaa227a01ce72e21a08950f1",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_167",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0167.txt",
+    "group": "webtext_test_167",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "c54b71df1e129e562f63180809a2c3d37fa9abccf77b972aa40f3c17de11d58f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_168",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0168.txt",
+    "group": "webtext_test_168",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "07ed454afdc2909da189990e2f86a3c3bd2ff119eab3beff1df33ea7194e2455",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_169",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0169.txt",
+    "group": "webtext_test_169",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "d464d0f52e465bf23a91b8df4d12416ab07febf8ce8b00d8c98850020f6977a9",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_170",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0170.txt",
+    "group": "webtext_test_170",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "3651813941adfb4ea36e22f4602fe91be46847776fec6bb7edf55e8a38f00571",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_171",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0171.txt",
+    "group": "webtext_test_171",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "a9de3eaf5a076382fa6e4db71738460dd2b6d98899e07f3ca3862c0a1a4e088b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_172",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0172.txt",
+    "group": "webtext_test_172",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "c942345a9a0e7669f200ba79969c32216ba47b1909062186e4eb2d161a8b5235",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_173",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0173.txt",
+    "group": "webtext_test_173",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "9407f6d003e271dc4e17666a44cdff79badbbab89c5913db04fc4d7a1dfe6461",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_174",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0174.txt",
+    "group": "webtext_test_174",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "0465412a8bfb8476f535ac58d56dc0dafb20177e49563db7c44224cc2f25bfdb",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_175",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0175.txt",
+    "group": "webtext_test_175",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "ebdc8f8f2c0e710197e0a812e637919d16ea2a430876b569585a8ff1e646e648",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_176",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0176.txt",
+    "group": "webtext_test_176",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "01545d3ea838a281bae95b98be6c83c68b5e7fce2d2d84db6c617307a3d500f0",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_177",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0177.txt",
+    "group": "webtext_test_177",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "400a2bd344912051b93f68707820938a7fb80503db7f9110d9fcfe79f5839b01",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_178",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0178.txt",
+    "group": "webtext_test_178",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "39d3813f3e1f297ae11b965ad7f13d4a1cb251db461b6b8842808537a57aad31",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_179",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0179.txt",
+    "group": "webtext_test_179",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "0202d9daae320b555b40bd48c9aa83e9d7cad28427d77ae1e82ffc9c022fd780",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_180",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0180.txt",
+    "group": "webtext_test_180",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "6683a6476a0277f842154c04483c60066a3eaab338c394724f8390cffb73f827",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_181",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0181.txt",
+    "group": "webtext_test_181",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "bf7a85c390cd10b01861ef3cd9919c83591dc1f8579d12e55ecf4059f6cd5536",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_182",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0182.txt",
+    "group": "webtext_test_182",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "95b6fe65c5e597a5526c3ba59a455714abe64946360e196441b5351238eba2ca",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_183",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0183.txt",
+    "group": "webtext_test_183",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "3fd86d6e0ecf18a3db104701e5c8b8031f1fa5a615fd96892f10638044ffd24d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_184",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0184.txt",
+    "group": "webtext_test_184",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "854322d0d82eda186aba76c784669206734e95b7c7da78b1be857620ddaac0df",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_185",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0185.txt",
+    "group": "webtext_test_185",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "2897c6c9b8d220bb0c9fa5052569329e5996ca224bf91b58b4a201237d41529c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_186",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0186.txt",
+    "group": "webtext_test_186",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "b931d0943e7fa1e106ec7742f7e0cab07a0099cd9661652fab69ffdeff7bcad8",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_187",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0187.txt",
+    "group": "webtext_test_187",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "f9ade9606494a95f6efdaf7f6e48a8bdd63be1e6d5aacce74eb686bb4cbb7d1b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_188",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0188.txt",
+    "group": "webtext_test_188",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "9213f7d7326b24735296871beadde3c231fd2bc3037454dbe3ed4bfde1f39596",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_189",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0189.txt",
+    "group": "webtext_test_189",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "1338e3109633783f3d49132b5d4c01f4a16576e0e97e72dca7a87222b21b6a8b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_190",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0190.txt",
+    "group": "webtext_test_190",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "a3a12ab095bbce722f25a8917d5a3b68a72780f6b37133031de499caaae79923",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_191",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0191.txt",
+    "group": "webtext_test_191",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "24175cb8002934dafe40ff86f98faeb9aeb7ec8ab9b050a7bf4995ff20c526eb",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_192",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0192.txt",
+    "group": "webtext_test_192",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "d1463e52a5cbe38a76ffa76408677bb94dc88e7cb763cc99e0d7b3a91a780ff5",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_193",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0193.txt",
+    "group": "webtext_test_193",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "b14cf91b0715cbec1a97100423d937810966d360bfc3eb5320c2701b6f0e27c4",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_194",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0194.txt",
+    "group": "webtext_test_194",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "35f89e76b348ff0cedd612cd56b264378ae082a36011b1c1644be94d927962c0",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_195",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0195.txt",
+    "group": "webtext_test_195",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "86540b36c1d10ff8cf8290482db48f290189b574a60dbfa25026a38d9c72ade4",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_196",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0196.txt",
+    "group": "webtext_test_196",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "3b50e50c047cd79282581b09ff5d51f76477f17932f5c4099bc869894e3a3004",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_197",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0197.txt",
+    "group": "webtext_test_197",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "1bca486b153510aa2729efe7953c8f11eabb8fe4f4ad8c632f72408cf5f0dc2e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_198",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0198.txt",
+    "group": "webtext_test_198",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "ad4e8f519dab05b174241c96d513ad453d72156fe99f781f5ee96869f4130073",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_webtext_199",
+    "modality": "text",
+    "label": 0,
+    "path": "data/raw/text_selection/final_external_test/webtext_0199.txt",
+    "group": "webtext_test_199",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/webtext.test.jsonl",
+    "sha256": "33334c04892832d4efabb9bc5a56680cdc8dd5d666db5989a8eb47f19db9351a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_100",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0100.txt",
+    "group": "small-117M-k40_test_100",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "ae42bde2b812705c32aa94a10a99aacf6397402f11cedf9fd6e1cf316170c104",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_101",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0101.txt",
+    "group": "small-117M-k40_test_101",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "7f14091da48b5087833113f91bd6372abfd003a1fb60d00fe75a3b84ab21144a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_102",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0102.txt",
+    "group": "small-117M-k40_test_102",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "920deabe0f7990e53942887760b94e8bb0b57ccab384ac4c75bfdbb6e1e35f27",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_103",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0103.txt",
+    "group": "small-117M-k40_test_103",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "6a3c40888201c21c1572a8504b485c372feb170274b47d7628e8a32c76386aed",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_104",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0104.txt",
+    "group": "small-117M-k40_test_104",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "159debc8d1cd24d22f0233fe6fcb50ace8cffb128a06aead9d62c47612656569",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_105",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0105.txt",
+    "group": "small-117M-k40_test_105",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "ceb067c215857b1b0a4ef14fd6d4cbb660b9db233ae88d3238fecc9e46cd2485",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_106",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0106.txt",
+    "group": "small-117M-k40_test_106",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "9ce8bc82fecc578724e75cd59fc4902c5fbcf8b68d2d40646d78acb34fe2cd90",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_107",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0107.txt",
+    "group": "small-117M-k40_test_107",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "d9223360a8ba99a3fedb21f46cb7c236aff7ccdebda1689a2efea23b58897080",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_108",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0108.txt",
+    "group": "small-117M-k40_test_108",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "284a5297588bd132c9047d165cb350cc2a1471fc2f77d20646ab33e250f9d120",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_109",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0109.txt",
+    "group": "small-117M-k40_test_109",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "db6b2300691ef028a41586a084f11545730ddfcd9d8fc825f656f48ceb1b48fc",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_110",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0110.txt",
+    "group": "small-117M-k40_test_110",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "8d24b02f8b464753ac32cf1eae943d5d00f93fb4ce36337296d44c54fd1886c5",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_111",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0111.txt",
+    "group": "small-117M-k40_test_111",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "82ab447ee46be2ea55e2a0f66e1f9326b8034d7b603a1c1026b42cf677deb93c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_112",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0112.txt",
+    "group": "small-117M-k40_test_112",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "6dcfc003ecea5acc9fe6643e3aeaabac1d4c125939ac2405ac9bc8d1b6a3f948",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_113",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0113.txt",
+    "group": "small-117M-k40_test_113",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "46f02172f446ef5042dbc1c819d7921cc85141893c3c6097c689b8cc45d48ac8",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_114",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0114.txt",
+    "group": "small-117M-k40_test_114",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "2bfadfee37907c79f1af870e294963159f261ec0af76765d2c7be1426cc1422b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_115",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0115.txt",
+    "group": "small-117M-k40_test_115",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "8611e78af0798188af18715a4fb5714aab79e2ad2c75f02ddf4bc3224df4e645",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_116",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0116.txt",
+    "group": "small-117M-k40_test_116",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "fdbf4f80bedac7f37ee0d77e82cd7952030d58d7a8cf68c820ee4a39b03a148a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_117",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0117.txt",
+    "group": "small-117M-k40_test_117",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "fdf76bc022d9d09ede6638482e48cd2758450485b2e8a03d46874142ab8e38db",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_118",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0118.txt",
+    "group": "small-117M-k40_test_118",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "3552a0324760087e2e7fa5519cd8c0d74911b274000799ac03c6c5b81419260c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_119",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0119.txt",
+    "group": "small-117M-k40_test_119",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "ec02e6e861f3cbd5130cf0639ed3da363952b4b9abcd696d585733b27c008366",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_120",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0120.txt",
+    "group": "small-117M-k40_test_120",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "d5956c7322ed9f6c344ca73ecec7d03736af2c560ce3603cf9cbca4ca0cecc3c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_121",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0121.txt",
+    "group": "small-117M-k40_test_121",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "b7d2361ccbcf0e16c3cb6ba0a4baeb0045b4146425311c910ee80c28bac98baf",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_122",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0122.txt",
+    "group": "small-117M-k40_test_122",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "5c69a67f9fecdf117b54e88572bbeca50f12f5bf708b466e1fddab1852e9ab1e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_123",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0123.txt",
+    "group": "small-117M-k40_test_123",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "a17a1c459b2aa41b83a7d3c5db15b6c2690559ed2bf8551bf60bd198c6f66598",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_124",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0124.txt",
+    "group": "small-117M-k40_test_124",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "9e75cc7ae81373221ca729db43d4ba12eae5232bdafbd21a3544c8118648b442",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_125",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0125.txt",
+    "group": "small-117M-k40_test_125",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "cae4a1c2c0587d15cdcf8351d344c1fa99b607f1b219489397a2e6f1055d6f82",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_126",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0126.txt",
+    "group": "small-117M-k40_test_126",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "72ffa22c86ebbcdd18c07007ca721374419c3d3364c757c4c3949c97763fb4fe",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_127",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0127.txt",
+    "group": "small-117M-k40_test_127",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "137aa34d4f489a80b201f4f3dd4b10d875eb1ca63895805aa4095653f7768301",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_128",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0128.txt",
+    "group": "small-117M-k40_test_128",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "e199bf055e6aea2c366223793afc04424d1e717f0b5c7575565bd4dec3629f07",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_129",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0129.txt",
+    "group": "small-117M-k40_test_129",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "dd99d637481fc5e2208d2c36bef505eeedd1a8b1431d3e45cc1c55e57a32b78a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_130",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0130.txt",
+    "group": "small-117M-k40_test_130",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "89a92de24c2a1f6e8fff61545414df5222c4087555c538b20696a4bce6758147",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_131",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0131.txt",
+    "group": "small-117M-k40_test_131",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "a61b8e0a974d08bfb0b3605771adfd3182a0ef735b50a81ae3679c6d705754f8",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_132",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0132.txt",
+    "group": "small-117M-k40_test_132",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "2a47fefe9b78756d5732c407f056c5ad8ccef5804913582a3adaee9e3715bd42",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_133",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0133.txt",
+    "group": "small-117M-k40_test_133",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "ec1e1dfced1099da7550ef98ed09fc075758a43ae59e47a845641b5bb0e91981",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_134",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0134.txt",
+    "group": "small-117M-k40_test_134",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "a536f151ecfdbd05dcad14880d225a0aa57b9856c06de6e898f41c552526ffb8",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_135",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0135.txt",
+    "group": "small-117M-k40_test_135",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "51b07a62f4d3a993bd418644d11ffb2138bacd75504515a0f91e8eb139d7ef4d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_136",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0136.txt",
+    "group": "small-117M-k40_test_136",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "dad89b02a9f78422b76375eeb4d3e2a4f80e7fe9d1b72cd7bfbc13a849d0090c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_137",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0137.txt",
+    "group": "small-117M-k40_test_137",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "9ad9ece3d2f1592af8a2a6057a95041e9af0b3710777d304b3fab2c291b4fd74",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_138",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0138.txt",
+    "group": "small-117M-k40_test_138",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "c2a9d2a1cc367297d67a1513716983f2607e33cbc00f37a2437f5405daec98eb",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_139",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0139.txt",
+    "group": "small-117M-k40_test_139",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "7e4aab39ceea4b2772179208b3c7987fcd5e7ab2484bd0b9091e76a7221fa436",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_140",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0140.txt",
+    "group": "small-117M-k40_test_140",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "cba565dd5d4a85fbd5e32639c2a89f10407e867d22e35ffd1ce9841d239b787f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_141",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0141.txt",
+    "group": "small-117M-k40_test_141",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "70f0ffadb4f78ae34d83d4d048c1815f6305d92676a1557f73310b114fb6a717",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_142",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0142.txt",
+    "group": "small-117M-k40_test_142",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "47c66b84c698fbf3ed87486f09f6255784c9b5171a9e34c8634ff531b7fb644d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_143",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0143.txt",
+    "group": "small-117M-k40_test_143",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "b81a9f1d6b4a64810ead52600e266d622d18556f100f9c232aad6524183f8e61",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_144",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0144.txt",
+    "group": "small-117M-k40_test_144",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "dc5af28184c8614abc6508444f9454238713509cff85e64e942e04cd1e9d6353",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_145",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0145.txt",
+    "group": "small-117M-k40_test_145",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "f0a168cd07ec6f9d9ee223f48bd33715c26960d52c8253e3a39ba8c812bbbede",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_146",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0146.txt",
+    "group": "small-117M-k40_test_146",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "4da29395e1b787e33278c542342fab61cec8eaebaf22512ea5a8710e4fc28e6e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_147",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0147.txt",
+    "group": "small-117M-k40_test_147",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "8bb73f6f92234888fd73f5c1be0a89e033fe7ea54fe4ad426dc833f01a3f9039",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_148",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0148.txt",
+    "group": "small-117M-k40_test_148",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "97c38673fbefc8af79ff1c616c48a44c5c4b7fbd8f8c5607bcc28375ff2ff358",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_149",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0149.txt",
+    "group": "small-117M-k40_test_149",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "5260e8bbcc8dc1b2a2cc1385442e36d0d32ded1467fb606aa3d6623138edb5e0",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_150",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0150.txt",
+    "group": "small-117M-k40_test_150",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "292a1792e4f991f258fd8050a0081700308ddc74ddccd787488b9e4c2598a5f2",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_151",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0151.txt",
+    "group": "small-117M-k40_test_151",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "0205e330765690a04c5a539a511d806674e4c9d3bdc294512a9c386634eaaacf",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_152",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0152.txt",
+    "group": "small-117M-k40_test_152",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "b789aa89167ffa3f6e368a6a61a7694bf04a83e9943de48785221e1ecca655f1",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_153",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0153.txt",
+    "group": "small-117M-k40_test_153",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "0cba1ab6ce2e9e276cbbb8887520ab7865e771ca1aa327d79e8d113bde6bd5af",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_154",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0154.txt",
+    "group": "small-117M-k40_test_154",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "37a55fcc366d37b301fb7be2699d14b787031313a719506a0f5c5ccf2601e338",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_155",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0155.txt",
+    "group": "small-117M-k40_test_155",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "29a2024d57f3427dd82117e7d46c2bb7439d89cbe02007f0eadb42c3103ef855",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_156",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0156.txt",
+    "group": "small-117M-k40_test_156",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "fea7a6f14743c2b0757df47950f440548e6a8c5e1d7b6f3f193dd43b13cf0aba",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_157",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0157.txt",
+    "group": "small-117M-k40_test_157",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "ed97f6d038d9ee475d41843d2ee925ff6b81c48fa05d473a99c277aa747907cf",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_158",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0158.txt",
+    "group": "small-117M-k40_test_158",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "9b48b96809a47350cb257a0c5537bb8c25d9c6b7171181f768dd060bf7f6ca5d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_159",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0159.txt",
+    "group": "small-117M-k40_test_159",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "2ef5e8253220f521a7488ca22ddff01fdcbe11cacc88c8e7e223a90254b6e73e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_160",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0160.txt",
+    "group": "small-117M-k40_test_160",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "0ef0cdc8a1819bc07fb1082253b4cae3747be881a138234693c617ed346a7441",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_161",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0161.txt",
+    "group": "small-117M-k40_test_161",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "df396c4c9071f29fc9968a7b6b368a22740ef7c6de178e9730a93d3a8dae78eb",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_162",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0162.txt",
+    "group": "small-117M-k40_test_162",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "11f74a19c55150341b0dbcadb5f37aca5c39fa1fe03c55e700c33fead5c8269b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_163",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0163.txt",
+    "group": "small-117M-k40_test_163",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "2edb417509f1864fcedc9984dc6fd9290b1c56d01e5cb6527c30a8504777d799",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_164",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0164.txt",
+    "group": "small-117M-k40_test_164",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "6638042fd18bde29475ab40b747ea1e35ffdfd950b2dbb1fdd46fa548b008b54",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_165",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0165.txt",
+    "group": "small-117M-k40_test_165",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "e9d47d49d9a027f8efba273b5d0614b5b3f78e517eaedcd4fff72e30e0326d79",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_166",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0166.txt",
+    "group": "small-117M-k40_test_166",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "91393fb3f3a76dd4914f49c28a9b5d32855cead661f1237c491c40000e6f8823",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_167",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0167.txt",
+    "group": "small-117M-k40_test_167",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "7e7298ac4fff1893a4594c323138162b222e5c8fe748d91b4533b6b1183b4a1e",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_168",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0168.txt",
+    "group": "small-117M-k40_test_168",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "a796cdf3bdfe8b1887e2260245183c344ec39b0510491f6e2a49f5bf0ff9e42a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_169",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0169.txt",
+    "group": "small-117M-k40_test_169",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "da731b57e89f314b31f0dde2c57b0c9766c09ee202d16d0f387d20bb3e5f80c4",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_170",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0170.txt",
+    "group": "small-117M-k40_test_170",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "a9c6e531b420156959828440f1d709e34885add419c928c16a73575322cb523d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_171",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0171.txt",
+    "group": "small-117M-k40_test_171",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "084021eee026551cbe71a207b54f94eeecf3ec112b069ff3058033d5b1726a94",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_172",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0172.txt",
+    "group": "small-117M-k40_test_172",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "eb6a87b35cb22bc945cf3fdf036871ec7b77c49587edec26d28494b8819a02e5",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_173",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0173.txt",
+    "group": "small-117M-k40_test_173",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "1a4b6df261c2b00dff9d564ff17b4a397cf469bb1c08f334553f734b8f1a605f",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_174",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0174.txt",
+    "group": "small-117M-k40_test_174",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "83350130bbfd6b970527865c03d85f0b77d8935f4fce62054c07625aa573f9d5",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_175",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0175.txt",
+    "group": "small-117M-k40_test_175",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "4f07409e2b708d10c88a4d90731b718f35d4826ea25753bfe30838e2d2d08963",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_176",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0176.txt",
+    "group": "small-117M-k40_test_176",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "c03bf477d5c36db320cbc7acade5d6944fd61108cbcda5c0c54a6d70b0f5c3f7",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_177",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0177.txt",
+    "group": "small-117M-k40_test_177",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "7f7d987e41e57d3687acf4f32199138056a8abf8c7901d799455c6bcb2e35b6b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_178",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0178.txt",
+    "group": "small-117M-k40_test_178",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "092fd893246a32af42e64f6f36e74a5660eb1a66d09f23517b1287ad4c75e89b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_179",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0179.txt",
+    "group": "small-117M-k40_test_179",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "902a8ae83be2cb1884807616054f0e6e94fc99a22eda557d4f8bccc1bfe71589",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_180",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0180.txt",
+    "group": "small-117M-k40_test_180",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "f1f5c774660fc4acd98ee984ef5287306269d20ac7a352b643b103e6e6b4562c",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_181",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0181.txt",
+    "group": "small-117M-k40_test_181",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "d16b13dbca2f0730cc4dd169a0f1f788efa599119ea0482ea8417d09c0306914",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_182",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0182.txt",
+    "group": "small-117M-k40_test_182",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "5c074e209ee874db2f7db696da07ecc630776eb37f38b5b7a9cec748279bfcd6",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_183",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0183.txt",
+    "group": "small-117M-k40_test_183",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "2588a0e5b27c5b9adb4828e5364568cf5161066c9dd7930a3e4eba7b56ffc5de",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_184",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0184.txt",
+    "group": "small-117M-k40_test_184",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "342a975456da25beda448b83f808f591506eab6dfbbcce0d37d7fc457a6a2e24",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_185",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0185.txt",
+    "group": "small-117M-k40_test_185",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "27abd0faa11f6bb40113845683f34b948c760ed7efe9aa03c18160310254053a",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_186",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0186.txt",
+    "group": "small-117M-k40_test_186",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "01e681b4b9865117e8040ea9cddc961510124c40871e8645104280702783f932",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_187",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0187.txt",
+    "group": "small-117M-k40_test_187",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "457581247065f9816d7822836956509149c2ed397a014c5eecc961e978b27b40",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_188",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0188.txt",
+    "group": "small-117M-k40_test_188",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "b4d5924741a757f89ff5e25dc7dcf9efc4e1bd0005840f79b08f6b5197e1cc02",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_189",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0189.txt",
+    "group": "small-117M-k40_test_189",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "0efa0df4963acab528dd076d28357328bbe6d02a5ccdf846c37954d0e436e57d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_190",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0190.txt",
+    "group": "small-117M-k40_test_190",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "cdaf832e9cf68b6cbae2fcff396dcf31dd54e0b8ec368449363d026a150fb72b",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_191",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0191.txt",
+    "group": "small-117M-k40_test_191",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "5f1ca01737b2873b902ff3a8c906b72357b031eca4ab7672486236111d4604ae",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_192",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0192.txt",
+    "group": "small-117M-k40_test_192",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "0b4981ca60d79320725f5706094bc9f08f0c5eec5a9dd45a9e89d38f481a026d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_193",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0193.txt",
+    "group": "small-117M-k40_test_193",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "42959907ca2911423e2bdc3ef4cd43c58ab7383ce60fecb8ab93ce9642c90f03",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_194",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0194.txt",
+    "group": "small-117M-k40_test_194",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "7f0ec7fafd32a6f48e63a28ac23ba9d716d8be2e34f2f98ee375bab7c77fbd99",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_195",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0195.txt",
+    "group": "small-117M-k40_test_195",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "07cdb4a5cdd349b0c13b61b8f995005e89505998c907fa2050f1920f71b7cb84",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_196",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0196.txt",
+    "group": "small-117M-k40_test_196",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "e47214e4f1af647eb73f50894d09d3ff7a71d57b58977b5e55a1ff46547bb51d",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_197",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0197.txt",
+    "group": "small-117M-k40_test_197",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "4d3aa5c0460be627790b8667850b2323593589f1821bc391d34eac66bd9fb4ad",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_198",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0198.txt",
+    "group": "small-117M-k40_test_198",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "9bd4dcbfa8b9233d05396e4bface367a4b2a76ae8df01f96d5854fd116db99b9",
+    "split": "final_external_test"
+  },
+  {
+    "id": "final_external_test_small-117M-k40_199",
+    "modality": "text",
+    "label": 1,
+    "path": "data/raw/text_selection/final_external_test/small-117M-k40_0199.txt",
+    "group": "small-117M-k40_test_199",
+    "source": "https://openaipublic.blob.core.windows.net/gpt-2/output-dataset/v1/small-117M-k40.test.jsonl",
+    "sha256": "4984ca28446e060d6de0cf5d05d72d294450d5dad36ce5d9ef17e2e671f0df2f",
+    "split": "final_external_test"
+  }
+]

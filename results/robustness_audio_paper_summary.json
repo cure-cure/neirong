@@ -1,0 +1,209 @@
+{
+  "modality": "audio",
+  "method": "paper",
+  "results": [
+    {
+      "condition": "clean",
+      "level": 0,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.48,
+      "pr_auc": 0.6888888888888889,
+      "brier": 0.2600133700492097,
+      "ece": 0.2600491211991206
+    },
+    {
+      "condition": "noise",
+      "level": 30,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.31999999999999995,
+      "pr_auc": 0.45555555555555555,
+      "brier": 0.2600228220128549,
+      "ece": 0.2600576048163543
+    },
+    {
+      "condition": "noise",
+      "level": 20,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.11999999999999997,
+      "pr_auc": 0.38126984126984126,
+      "brier": 0.26004594373051304,
+      "ece": 0.18006222858984744
+    },
+    {
+      "condition": "noise",
+      "level": 10,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.07999999999999999,
+      "pr_auc": 0.3705555555555555,
+      "brier": 0.2600376926641072,
+      "ece": 0.10008089936663256
+    },
+    {
+      "condition": "gain",
+      "level": 0.5,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.48,
+      "pr_auc": 0.52,
+      "brier": 0.2600039234573566,
+      "ece": 0.14003196091842499
+    },
+    {
+      "condition": "resample",
+      "level": 8000,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.36,
+      "pr_auc": 0.5746031746031746,
+      "brier": 0.2600310303614492,
+      "ece": 0.26007900529269695
+    },
+    {
+      "condition": "truncate",
+      "level": 0.75,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.92,
+      "pr_auc": 0.9428571428571428,
+      "brier": 0.25999119196828624,
+      "ece": 0.10008312274620623
+    },
+    {
+      "condition": "speed",
+      "level": 1.05,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "fpr": 1.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "roc_auc": 0.56,
+      "pr_auc": 0.7388888888888889,
+      "brier": 0.26001464823878634,
+      "ece": 0.2600611398131625
+    }
+  ],
+  "scope": "held-out course subset; video perturbations apply to extracted face crops, NOT end-to-end video re-encoding",
+  "requested": 10,
+  "errors": []
+}

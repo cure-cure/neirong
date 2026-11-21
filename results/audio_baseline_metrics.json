@@ -1,0 +1,81 @@
+{
+  "modality": "audio",
+  "method": "baseline",
+  "test": {
+    "n": 10,
+    "accuracy": 0.9,
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1": 0.8888888888888888,
+    "fpr": 0.0,
+    "fnr": 0.2,
+    "confusion_matrix": [
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.1070546719299648,
+    "ece": 0.13764202710803988
+  },
+  "raw_test": {
+    "n": 10,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.04169756084663562,
+    "ece": 0.1589184232823372
+  },
+  "calibration": {
+    "slope": 3.2812553861396454,
+    "intercept": -3.2481596911560535,
+    "n": 10,
+    "method": "positive-slope logistic calibration on validation only",
+    "success": true
+  },
+  "coverage": 1.0,
+  "errors": [],
+  "description": "baseline",
+  "test_ids": [
+    "audio_real_real_0000",
+    "audio_real_real_0006",
+    "audio_real_real_0019",
+    "audio_real_real_0021",
+    "audio_real_real_0024",
+    "audio_fake_fake_0009",
+    "audio_fake_fake_0013",
+    "audio_fake_fake_0019",
+    "audio_fake_fake_0020",
+    "audio_fake_fake_0023"
+  ],
+  "accuracy_ci95": [
+    0.7,
+    1.0
+  ],
+  "inference_seconds": 0.029801499942550436,
+  "scope": "course subset grouped held-out test; NOT independent external benchmark",
+  "requested_test_count": 10,
+  "test_coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.9
+}

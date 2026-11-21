@@ -1,0 +1,16 @@
+{
+  "python": "3.13.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "torch": "2.10.0",
+    "torchvision": "0.25.0",
+    "numpy": "2.4.1",
+    "scikit-learn": "1.8.0",
+    "gradio": "5.49.1",
+    "transformers": "4.57.3",
+    "soundfile": "0.13.1"
+  },
+  "device": "cpu",
+  "seed": 202430,
+  "threads": "4"
+}

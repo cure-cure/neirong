@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "audio_real_real_0000",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0000.wav",
+    "group": "audio_real_0000",
+    "source": "course_share",
+    "sha256": "fca72e3dbf53236b97700e1c6f06c3105672552e0ef8c3c518068bcbda9d5f41",
+    "bytes": 167628,
+    "split": "test",
+    "raw_score": 5.767732942394899,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9954628520401259,
+        0.9983029847025997
+      ]
+    },
+    "seconds": 0.9717617000133032,
+    "fake_probability": 0.6000815654463084
+  },
+  {
+    "id": "audio_real_real_0001",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0001.wav",
+    "group": "audio_real_0001",
+    "source": "course_share",
+    "sha256": "d033e30547c349cf804e05a2238bdc97072c2f30ba156c0305f97ad2fcbe2ca8",
+    "bytes": 148588,
+    "split": "val",
+    "raw_score": 4.19244086344693,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9703403196495897,
+        0.9998907693542982
+      ]
+    },
+    "seconds": 0.6492387000034796,
+    "fake_probability": 0.6000437604113026
+  },
+  {
+    "id": "audio_real_real_0002",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0002.wav",
+    "group": "audio_real_0002",
+    "source": "course_share",
+    "sha256": "e0b08600cd99ab50f3ac303ea127a9dbc5f367d5840304a24baabc9d8862d68c",
+    "bytes": 185324,
+    "split": "train",
+    "raw_score": 5.917946244065128,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9983868603900118,
+        0.9962461594210655
+      ]
+    },
+    "seconds": 0.8241968000074849,
+    "fake_probability": 0.6000851703149849
+  },
+  {
+    "id": "audio_real_real_0003",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0003.wav",
+    "group": "audio_real_0003",
+    "source": "course_share",
+    "sha256": "47bb9afdb6f763c7646499b038735152fc2b10d7a59bcf2925b5896e51d9c14f",
+    "bytes": 119116,
+    "split": "val",
+    "raw_score": 2.6463466671647113,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9337854706433654
+      ]
+    },
+    "seconds": 0.38131980001344346,
+    "fake_probability": 0.6000066549301794
+  },
+  {
+    "id": "audio_real_real_0004",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0004.wav",
+    "group": "audio_real_0004",
+    "source": "course_share",
+    "sha256": "6a75407d03367659ebfca567819bd280e6cdf32060d9d888113be6932eb731ed",
+    "bytes": 142348,
+    "split": "train",
+    "raw_score": 2.9922243044442713,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.984578735237908,
+        0.9198644990613662
+      ]
+    },
+    "seconds": 0.7086721000086982,
+    "fake_probability": 0.6000149559187227
+  },
+  {
+    "id": "audio_real_real_0005",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0005.wav",
+    "group": "audio_real_0005",
+    "source": "course_share",
+    "sha256": "cf53ac73b0eeb9ae7a1b8582cbc6e5679479eaef70f95bdcce7b8517fcfa652f",
+    "bytes": 302220,
+    "split": "train",
+    "raw_score": 3.179338568827495,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375,
+        8.075
+      ],
+      "segment_fake_scores": [
+        0.9314235013400862,
+        0.9582008977011292,
+        0.9905235429998115
+      ]
+    },
+    "seconds": 1.0380417999986093,
+    "fake_probability": 0.6000194465966903
+  },
+  {
+    "id": "audio_real_real_0006",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0006.wav",
+    "group": "audio_real_0006",
+    "source": "course_share",
+    "sha256": "2f9688b5099ef0f7535fecfd83fc01aefd34ba47c61d931869e014d4f52566a7",
+    "bytes": 209100,
+    "split": "test",
+    "raw_score": 4.483837365126333,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9963171509853718,
+        0.981354938932713
+      ]
+    },
+    "seconds": 0.6846049000014318,
+    "fake_probability": 0.6000507536518669
+  },
+  {
+    "id": "audio_real_real_0007",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0007.wav",
+    "group": "audio_real_0007",
+    "source": "course_share",
+    "sha256": "a68baa251b4eb12bd121c0fe768b27a974236ed9fb6f4b890a623f912fab4b0f",
+    "bytes": 89836,
+    "split": "train",
+    "raw_score": 5.452128462024233,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9957311413849104
+      ]
+    },
+    "seconds": 0.3889950000011595,
+    "fake_probability": 0.6000739914299151
+  },
+  {
+    "id": "audio_real_real_0008",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0008.wav",
+    "group": "audio_real_0008",
+    "source": "course_share",
+    "sha256": "fce8a3108b3506469f3bc9b2dad7474f7b87f3b17f89cbd18dfcbd67a16cd93e",
+    "bytes": 106604,
+    "split": "train",
+    "raw_score": 2.116444505896422,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.8924912612864296
+      ]
+    },
+    "seconds": 0.3293930000072578,
+    "fake_probability": 0.5999939372814479
+  },
+  {
+    "id": "audio_real_real_0009",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0009.wav",
+    "group": "audio_real_0009",
+    "source": "course_share",
+    "sha256": "ff62ef39929ad5c99aa57ab19bffab57122db1d3725a75dcee0db6b4f83bfcd4",
+    "bytes": 131020,
+    "split": "train",
+    "raw_score": 3.2966991775934944,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9770767656811026,
+        0.9515540516003753
+      ]
+    },
+    "seconds": 0.6495885000040289,
+    "fake_probability": 0.6000222632023446
+  },
+  {
+    "id": "audio_real_real_0010",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0010.wav",
+    "group": "audio_real_0010",
+    "source": "course_share",
+    "sha256": "04e6afa502a48895679a646db26e3f86e64fa33fecd0b438994d38b19339b323",
+    "bytes": 330028,
+    "split": "train",
+    "raw_score": 5.422783078753917,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375,
+        8.075
+      ],
+      "segment_fake_scores": [
+        0.9953868601972063,
+        0.9999914085861809,
+        0.9914354484099248
+      ]
+    },
+    "seconds": 1.0033092000085162,
+    "fake_probability": 0.600073287183952
+  },
+  {
+    "id": "audio_real_real_0011",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0011.wav",
+    "group": "audio_real_0011",
+    "source": "course_share",
+    "sha256": "1a0c80f447051c9c95e16b636c9c3685da3e154273694de2699a8e0fe784a6cb",
+    "bytes": 89804,
+    "split": "train",
+    "raw_score": 5.287471700211595,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9949709061534301
+      ]
+    },
+    "seconds": 0.3234526000014739,
+    "fake_probability": 0.6000700399048744
+  },
+  {
+    "id": "audio_real_real_0012",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0012.wav",
+    "group": "audio_real_0012",
+    "source": "course_share",
+    "sha256": "9584a349861e01b055b705ad86a50be103cbfc15f01afa82089b061b499516f8",
+    "bytes": 119724,
+    "split": "train",
+    "raw_score": 1.2115971735971374,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.7705814339133578
+      ]
+    },
+    "seconds": 0.3322706000035396,
+    "fake_probability": 0.5999722206392836
+  },
+  {
+    "id": "audio_real_real_0013",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0013.wav",
+    "group": "audio_real_0013",
+    "source": "course_share",
+    "sha256": "1704aed842da6dc6f65cf5c0dcaba0a8cd8611d1ff0ddec1668e8eec1ef493ef",
+    "bytes": 89836,
+    "split": "train",
+    "raw_score": 4.9409542399191375,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9929029635190746
+      ]
+    },
+    "seconds": 0.3124095999955898,
+    "fake_probability": 0.6000617239425627
+  },
+  {
+    "id": "audio_real_real_0014",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0014.wav",
+    "group": "audio_real_0014",
+    "source": "course_share",
+    "sha256": "f1dda4edc0a01d32ca1ff39fed7ab534bd072081244e3e5ba8edcd97722b909e",
+    "bytes": 159436,
+    "split": "train",
+    "raw_score": 5.842521054242147,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.99922991671052,
+        0.9949838550559943
+      ]
+    },
+    "seconds": 0.6515076000068802,
+    "fake_probability": 0.6000833602375972
+  },
+  {
+    "id": "audio_real_real_0015",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0015.wav",
+    "group": "audio_real_0015",
+    "source": "course_share",
+    "sha256": "20d47ea44722d4c9bf80e8e24d65513d02ef320a8d1e803b651088c7e45b3323",
+    "bytes": 177516,
+    "split": "val",
+    "raw_score": 3.5416064970688663,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9805778277219123,
+        0.96311958556276
+      ]
+    },
+    "seconds": 0.6482582000026014,
+    "fake_probability": 0.6000281408545532
+  },
+  {
+    "id": "audio_real_real_0016",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0016.wav",
+    "group": "audio_real_0016",
+    "source": "course_share",
+    "sha256": "4cff818b20cce413ef2fa3be7173057f603dffde0a3ba0ccc33ffabf8458d2e0",
+    "bytes": 179532,
+    "split": "train",
+    "raw_score": 3.2887429246243847,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9780354906928542,
+        0.9500457305711179
+      ]
+    },
+    "seconds": 0.6460707999940496,
+    "fake_probability": 0.6000220722558012
+  },
+  {
+    "id": "audio_real_real_0017",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0017.wav",
+    "group": "audio_real_0017",
+    "source": "course_share",
+    "sha256": "15656b04132d1b683a42656fcfa892393383b76d8d9a5139f69acfc275cc2b9d",
+    "bytes": 125644,
+    "split": "train",
+    "raw_score": 2.3599232577748173,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9137197639232776
+      ]
+    },
+    "seconds": 0.32979590000468306,
+    "fake_probability": 0.5999997807867878
+  },
+  {
+    "id": "audio_real_real_0018",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0018.wav",
+    "group": "audio_real_0018",
+    "source": "course_share",
+    "sha256": "a9d68453388b4909b9f988400a8e94bf8c32e66f3f8f2307d5b2fbcc229e1192",
+    "bytes": 126412,
+    "split": "train",
+    "raw_score": 5.953499757734787,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9974099988770052
+      ]
+    },
+    "seconds": 0.32718279999971855,
+    "fake_probability": 0.6000860235384214
+  },
+  {
+    "id": "audio_real_real_0019",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0019.wav",
+    "group": "audio_real_0019",
+    "source": "course_share",
+    "sha256": "b0bcac639997be7d012162ec1d4fe282b47fc246caf71fb3962335da6401784d",
+    "bytes": 97388,
+    "split": "test",
+    "raw_score": 5.115209821517885,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.994031133515443
+      ]
+    },
+    "seconds": 0.3242926999955671,
+    "fake_probability": 0.6000659058540481
+  },
+  {
+    "id": "audio_real_real_0020",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0020.wav",
+    "group": "audio_real_0020",
+    "source": "course_share",
+    "sha256": "9d3f3f021931d86b4968795fa066b756a45358f373b502aa7fd1f3c9fe0946b6",
+    "bytes": 147724,
+    "split": "train",
+    "raw_score": 1.3215842198708223,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9966021720845146,
+        0.5822881568437066
+      ]
+    },
+    "seconds": 0.6521331999974791,
+    "fake_probability": 0.5999748603865905
+  },
+  {
+    "id": "audio_real_real_0021",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0021.wav",
+    "group": "audio_real_0021",
+    "source": "course_share",
+    "sha256": "9e61328aacf908397ef330066b20b49ba8c14efacc21e8d7a42317618afb9c27",
+    "bytes": 233356,
+    "split": "test",
+    "raw_score": 2.6899557005097545,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.8881649150562777,
+        0.98469779174095
+      ]
+    },
+    "seconds": 0.6385797999973875,
+    "fake_probability": 0.6000077015407187
+  },
+  {
+    "id": "audio_real_real_0022",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0022.wav",
+    "group": "audio_real_0022",
+    "source": "course_share",
+    "sha256": "0cef62e29a2b0d26fc34651e44188549ab8c703595be3bc4d519d424c63bf51e",
+    "bytes": 183884,
+    "split": "val",
+    "raw_score": 4.403288460540481,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9908016051443793,
+        0.985020218413885
+      ]
+    },
+    "seconds": 0.6538720999960788,
+    "fake_probability": 0.6000488205583828
+  },
+  {
+    "id": "audio_real_real_0023",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0023.wav",
+    "group": "audio_real_0023",
+    "source": "course_share",
+    "sha256": "77c6091573d4858edb715b2c9e34f241fae96013536422cf60bffd1596778ff9",
+    "bytes": 301196,
+    "split": "train",
+    "raw_score": 1.859663178290725,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375,
+        8.075
+      ],
+      "segment_fake_scores": [
+        0.7127281234698646,
+        0.9285429693624708,
+        0.9545019807994031
+      ]
+    },
+    "seconds": 0.9648015999991912,
+    "fake_probability": 0.5999877744826267
+  },
+  {
+    "id": "audio_real_real_0024",
+    "modality": "audio",
+    "label": 0,
+    "path": "data/raw/course/音频/real/real_0024.wav",
+    "group": "audio_real_0024",
+    "source": "course_share",
+    "sha256": "7674e3a45510ee10877eabe4040ddbae891b93ed0087ab673abd8cc446264f73",
+    "bytes": 216204,
+    "split": "test",
+    "raw_score": 3.3907528589331157,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9905366484187327,
+        0.9442919424482187
+      ]
+    },
+    "seconds": 0.6582572999905096,
+    "fake_probability": 0.6000245204466899
+  },
+  {
+    "id": "audio_fake_fake_0000",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0000.wav",
+    "group": "audio_fake_0000",
+    "source": "course_share",
+    "sha256": "d0dcb103399874a64aa371378fdd670ee4b7c2d7015e26e963a406a13a865c34",
+    "bytes": 115628,
+    "split": "train",
+    "raw_score": 4.863842622713598,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.992338404401516
+      ]
+    },
+    "seconds": 0.3527704000007361,
+    "fake_probability": 0.600059873357544
+  },
+  {
+    "id": "audio_fake_fake_0001",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0001.wav",
+    "group": "audio_fake_0001",
+    "source": "course_share",
+    "sha256": "8a29f29d8733e49207dd081e84f0a7ddb1155e568cc04271f614be7f2da39998",
+    "bytes": 105932,
+    "split": "val",
+    "raw_score": 2.7357974900895363,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9391062248815372
+      ]
+    },
+    "seconds": 0.326310000004014,
+    "fake_probability": 0.6000088017361028
+  },
+  {
+    "id": "audio_fake_fake_0002",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0002.wav",
+    "group": "audio_fake_0002",
+    "source": "course_share",
+    "sha256": "19e722ffd4d2e9dbb526db55a00de8e75a9cf566f7126103479ca8a81d7cba5b",
+    "bytes": 117772,
+    "split": "val",
+    "raw_score": 0.5902419561294268,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.6434206626081921
+      ]
+    },
+    "seconds": 0.32131750001281034,
+    "fake_probability": 0.5999573076762634
+  },
+  {
+    "id": "audio_fake_fake_0003",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0003.wav",
+    "group": "audio_fake_0003",
+    "source": "course_share",
+    "sha256": "5658b4a33bee89f1fbb520998d5ec644aba5c8b2eb09ab7ece36382d3159b24a",
+    "bytes": 114220,
+    "split": "train",
+    "raw_score": 2.4637461926441238,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9215608981189991
+      ]
+    },
+    "seconds": 0.32207730000664014,
+    "fake_probability": 0.6000022725350928
+  },
+  {
+    "id": "audio_fake_fake_0004",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0004.wav",
+    "group": "audio_fake_0004",
+    "source": "course_share",
+    "sha256": "e776c415b2f9804c53807b4623a0900143e41a4c9c4ffd960649888e5d23bc5b",
+    "bytes": 125932,
+    "split": "val",
+    "raw_score": 1.650886723865916,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.8390108644562803
+      ]
+    },
+    "seconds": 0.3238532999966992,
+    "fake_probability": 0.5999827637862161
+  },
+  {
+    "id": "audio_fake_fake_0005",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0005.wav",
+    "group": "audio_fake_0005",
+    "source": "course_share",
+    "sha256": "9981e5fcebd16144af5e746bddc9a6c603c30d0a712d904472e608b817853289",
+    "bytes": 86252,
+    "split": "train",
+    "raw_score": 7.663288763273828,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.999530470623071
+      ]
+    },
+    "seconds": 0.3232833999936702,
+    "fake_probability": 0.6001270548293951
+  },
+  {
+    "id": "audio_fake_fake_0006",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0006.wav",
+    "group": "audio_fake_0006",
+    "source": "course_share",
+    "sha256": "b0b34094c086fdc3ff6c62642b9ac82a0c57aa2e97a883247e9a4753042e856a",
+    "bytes": 105740,
+    "split": "train",
+    "raw_score": 5.5010985674272,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9959343228993757
+      ]
+    },
+    "seconds": 0.3118757999909576,
+    "fake_probability": 0.6000751666393748
+  },
+  {
+    "id": "audio_fake_fake_0007",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0007.wav",
+    "group": "audio_fake_0007",
+    "source": "course_share",
+    "sha256": "d9fc94f2b8f11ec8187b432dce8ba53b9226938fbe48e2759e498e70853340b0",
+    "bytes": 82028,
+    "split": "train",
+    "raw_score": 5.212036682377688,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9945789961462594
+      ]
+    },
+    "seconds": 0.3246950000029756,
+    "fake_probability": 0.600068229568786
+  },
+  {
+    "id": "audio_fake_fake_0008",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0008.wav",
+    "group": "audio_fake_0008",
+    "source": "course_share",
+    "sha256": "28463033275057abcb76070b191742ee4fb7cf550aae6ccc32d2004675765e80",
+    "bytes": 82092,
+    "split": "train",
+    "raw_score": 10.076973462923242,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9999579753163169
+      ]
+    },
+    "seconds": 0.3160502000100678,
+    "fake_probability": 0.6001849757247991
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0009.wav",
+    "group": "audio_fake_0009",
+    "source": "course_share",
+    "sha256": "d07523a9ff25786a91740dc03957bc1652e02a56974481c5631750baa21cfff3",
+    "bytes": 101228,
+    "split": "test",
+    "raw_score": 6.067122913421014,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.997687537645875
+      ]
+    },
+    "seconds": 0.3284427000035066,
+    "fake_probability": 0.6000887502954876
+  },
+  {
+    "id": "audio_fake_fake_0010",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0010.wav",
+    "group": "audio_fake_0010",
+    "source": "course_share",
+    "sha256": "b274de341cab89aeea4638ba996e61599a8d7215fd7b59977dd06c78c08b8d8b",
+    "bytes": 122412,
+    "split": "val",
+    "raw_score": 3.7053499926204045,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9759986330065402
+      ]
+    },
+    "seconds": 0.32563110000046436,
+    "fake_probability": 0.6000320705998392
+  },
+  {
+    "id": "audio_fake_fake_0011",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0011.wav",
+    "group": "audio_fake_0011",
+    "source": "course_share",
+    "sha256": "5451ebadfb7981457bbbb91ece7d96859b86cc57b83e092dcd3285e53a15fbe4",
+    "bytes": 83212,
+    "split": "train",
+    "raw_score": 0.22469388985450414,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.5559383232695785
+      ]
+    },
+    "seconds": 0.4039682000002358,
+    "fake_probability": 0.5999485341785608
+  },
+  {
+    "id": "audio_fake_fake_0012",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0012.wav",
+    "group": "audio_fake_0012",
+    "source": "course_share",
+    "sha256": "e67704a43d2b29fe19c9257a6ec3c80489d0db974f135cc619876e5c0392252b",
+    "bytes": 131820,
+    "split": "train",
+    "raw_score": 0.6721848620869147,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.6767532629764698,
+        0.6472311707285852
+      ]
+    },
+    "seconds": 0.6202379000023939,
+    "fake_probability": 0.5999592743743472
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0013.wav",
+    "group": "audio_fake_0013",
+    "source": "course_share",
+    "sha256": "b4e28ebae8c2b7e412e85a645a82262cc85ca46c7d12ffbf83f6b031e93dc54b",
+    "bytes": 136492,
+    "split": "test",
+    "raw_score": 2.0440884385525226,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9962098029792188,
+        0.7744880606752099
+      ]
+    },
+    "seconds": 0.6430208000092534,
+    "fake_probability": 0.599992200725802
+  },
+  {
+    "id": "audio_fake_fake_0014",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0014.wav",
+    "group": "audio_fake_0014",
+    "source": "course_share",
+    "sha256": "6f604ce8ac0d87290979e5518111b3c202b93c1736ba25a1c5b89f4c1041a629",
+    "bytes": 100300,
+    "split": "train",
+    "raw_score": 6.0328828128275775,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9976071799452352
+      ]
+    },
+    "seconds": 0.3687346000078833,
+    "fake_probability": 0.600087928593595
+  },
+  {
+    "id": "audio_fake_fake_0015",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0015.wav",
+    "group": "audio_fake_0015",
+    "source": "course_share",
+    "sha256": "df2bf54063999a599c0edc1e54eef87abade90a588a5dffa2ee364dc4d1fdbe3",
+    "bytes": 83244,
+    "split": "train",
+    "raw_score": -0.03461021115687034,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.4913483106513825
+      ]
+    },
+    "seconds": 0.3786995999980718,
+    "fake_probability": 0.5999423105971698
+  },
+  {
+    "id": "audio_fake_fake_0016",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0016.wav",
+    "group": "audio_fake_0016",
+    "source": "course_share",
+    "sha256": "9ff67a2444ff8349a95254e153e5b91af315236300f2dd116967a09671db0ea3",
+    "bytes": 112588,
+    "split": "val",
+    "raw_score": 0.8428114463394671,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.699057012482758
+      ]
+    },
+    "seconds": 0.3703134000097634,
+    "fake_probability": 0.5999633695443337
+  },
+  {
+    "id": "audio_fake_fake_0017",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0017.wav",
+    "group": "audio_fake_0017",
+    "source": "course_share",
+    "sha256": "1b7525676453033271762186c2efd402a3c819cf452f9c6beff141c08ecf8c0f",
+    "bytes": 98444,
+    "split": "val",
+    "raw_score": -0.6185961829984202,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.3501007919788529
+      ]
+    },
+    "seconds": 0.32813989999704063,
+    "fake_probability": 0.5999282941784413
+  },
+  {
+    "id": "audio_fake_fake_0018",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0018.wav",
+    "group": "audio_fake_0018",
+    "source": "course_share",
+    "sha256": "8400373cf0293136508d9acb8b0d1b83823d8a512c5366dbd77020e7c94434d1",
+    "bytes": 129484,
+    "split": "train",
+    "raw_score": 1.0451834229453885,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.999144041457118,
+        0.48055379232793577
+      ]
+    },
+    "seconds": 0.6380372999992687,
+    "fake_probability": 0.5999682266101787
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0019.wav",
+    "group": "audio_fake_0019",
+    "source": "course_share",
+    "sha256": "3d7d44f043768cf208b2afb8196ff283680388950b2ebe4dfe8545f0d8e5f99a",
+    "bytes": 137836,
+    "split": "test",
+    "raw_score": 4.2417695416693055,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.998297040037255,
+        0.9733465656230262
+      ]
+    },
+    "seconds": 0.6503179999999702,
+    "fake_probability": 0.6000449442558133
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0020.wav",
+    "group": "audio_fake_0020",
+    "source": "course_share",
+    "sha256": "24415c7d19fc6db672ed45c91ecddcf948f5830f13feb7d94b8adfc3b76ebb5d",
+    "bytes": 129580,
+    "split": "test",
+    "raw_score": 0.98197464854157,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9952801369112722,
+        0.45971958021496934
+      ]
+    },
+    "seconds": 0.6345536999870092,
+    "fake_probability": 0.5999667095584738
+  },
+  {
+    "id": "audio_fake_fake_0021",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0021.wav",
+    "group": "audio_fake_0021",
+    "source": "course_share",
+    "sha256": "e3de95976fcdf170b61ec3eeba0232fc7e6a7bb30892d5cb34fd2a427db12d72",
+    "bytes": 120844,
+    "split": "train",
+    "raw_score": 5.6418381149793575,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9964661982167778
+      ]
+    },
+    "seconds": 0.318497500004014,
+    "fake_probability": 0.6000785441721008
+  },
+  {
+    "id": "audio_fake_fake_0022",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0022.wav",
+    "group": "audio_fake_0022",
+    "source": "course_share",
+    "sha256": "317b5bccc4f996f437aae0df34a70a4e9ebbbd1ede12ba1f1631655b41d7eec8",
+    "bytes": 86188,
+    "split": "train",
+    "raw_score": 8.060854702591566,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9996844527043194
+      ]
+    },
+    "seconds": 0.3394879000115907,
+    "fake_probability": 0.6001365953630642
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0023.wav",
+    "group": "audio_fake_0023",
+    "source": "course_share",
+    "sha256": "02dce2353dea7553b74a41a44f38055f240a8df1b6571265dc7b7d78765e60c3",
+    "bytes": 93644,
+    "split": "test",
+    "raw_score": 5.951719254636761,
+    "details": {
+      "segment_seconds": [
+        0.0
+      ],
+      "segment_fake_scores": [
+        0.9974053952221071
+      ]
+    },
+    "seconds": 0.35736500000348315,
+    "fake_probability": 0.6000859808094109
+  },
+  {
+    "id": "audio_fake_fake_0024",
+    "modality": "audio",
+    "label": 1,
+    "path": "data/raw/course/音频/fake/fake_0024.wav",
+    "group": "audio_fake_0024",
+    "source": "course_share",
+    "sha256": "4476dba4478edc09d0e5d921691939116a832c61f893f3b46d9048ff347f6f94",
+    "bytes": 136012,
+    "split": "train",
+    "raw_score": 4.631963395110707,
+    "details": {
+      "segment_seconds": [
+        0.0,
+        4.0375
+      ],
+      "segment_fake_scores": [
+        0.9807306779361993,
+        0.999985827854739
+      ]
+    },
+    "seconds": 0.676455699998769,
+    "fake_probability": 0.6000543085209212
+  }
+]

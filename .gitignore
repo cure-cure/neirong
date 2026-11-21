@@ -15,8 +15,8 @@ Thumbs.db
 /data/processed/
 /data/*
 !/data/README.md
+!/data/*.json
 /references/
-/AUTODL_HANDOFF.md
 /AUTODL_AGENT_PROMPT.md
 # Checkpoints, pretrained models and tokenizer assets are distributed separately
 /models/*
@@ -27,18 +27,20 @@ Thumbs.db
 *.safetensors
 *.joblib
 /vendor/**/weights/
-# Keep original CPU and GPU experiment outputs out of source history
-/results/*
-!/results/README.md
-/reports/
+# Keep compact, reviewable experiment outputs in Git. Large per-example tensors
+# and generated media remain local and are reproducible from the JSON records.
+/results/attack_examples/
+/results/gpu_full_attack_examples/
+*.npz
 /AutoDL上传包*/
 *.zip
 *.tar
 *.tar.gz
 *.tgz
-*.npz
 *.log
 *.part
 *.chunks/
 GPU_WORKSPACE.json
 PACKAGE_META_*.json
+*.orig
+*.rej

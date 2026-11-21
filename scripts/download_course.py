@@ -1,10 +1,10 @@
 """Download only the user-provided public course share; preserve source hashes."""
 from pathlib import Path
-import urllib.request, urllib.parse, json, hashlib, concurrent.futures, os
+import urllib.request, urllib.parse, json, hashlib, concurrent.futures
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = os.environ.get('LAB_COURSE_BASE_URL', '')
-SHARE = os.environ.get('LAB_COURSE_SHARE_ID', '')
+BASE = 'http://10.201.201.213/?'
+SHARE = 'EFLWmMGM'
 
 def api(route, **params):
     url = BASE + 'explorer/share/' + route + '&' + urllib.parse.urlencode(dict(shareID=SHARE, **params))
@@ -31,7 +31,6 @@ def download(item):
             'sha256': hashlib.sha256(dest.read_bytes()).hexdigest(), 'source': url}
 
 if __name__ == '__main__':
-    if not BASE or not SHARE:raise SystemExit('Set LAB_COURSE_BASE_URL and LAB_COURSE_SHARE_ID from your authorized data source.')
     files = listing('{shareItemLink:' + SHARE + '}/')
     print('Discovered', len(files), 'files', flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:

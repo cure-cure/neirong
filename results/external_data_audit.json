@@ -1,0 +1,11 @@
+{
+  "total": 558,
+  "text": 200,
+  "audio": 358,
+  "excluded_exact_duplicates": 16,
+  "notes": [
+    "Audio remains same corpus as course; expansion, not cross-corpus evaluation.",
+    "Text is different source/model generation benchmark; models and thresholds frozen.",
+    "No speaker identity guarantee or near-duplicate semantic audit."
+  ]
+}

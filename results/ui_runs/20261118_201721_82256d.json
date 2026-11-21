@@ -1,0 +1,104 @@
+{
+  "modality": "video",
+  "method": "paper",
+  "requested_method": "selected",
+  "selection_reason": "paper has selection score 0.9500; criterion=balanced_accuracy. Paper methods are retained as comparisons even when baseline is deployed.",
+  "judgement": "真实倾向",
+  "binary_prediction": 0,
+  "fake_probability": 0.0016702724523836863,
+  "confidence": 0.9983297275476163,
+  "confidence_note": "验证集校准后的估计；小样本、跨域条件下不保证可靠",
+  "authenticity_score": 0.9983297275476163,
+  "risk": "低",
+  "components": {
+    "paper": {
+      "raw": -2.025749399025141,
+      "fake_probability": 0.0016702724523836863,
+      "description": "FaceForensics++ Xception, DeepfakeBench official trained detector checkpoint; 256x256 face crops, RGB normalized to [-1,1]; mean frame probability.",
+      "calibration": {
+        "slope": 2.014371561155047,
+        "intercept": -2.312484872384478,
+        "n": 20,
+        "method": "positive-slope logistic calibration on validation only",
+        "success": true
+      }
+    }
+  },
+  "details": {
+    "frame_fake_scores": [
+      0.30122866215920613,
+      0.07657433409237542,
+      0.11328180535567642,
+      0.061221475223020405,
+      0.06291573905732165,
+      0.09844369331267015,
+      0.12413419686132164,
+      0.09440641821610224
+    ],
+    "seconds": [
+      0.0,
+      1.4,
+      2.8,
+      4.2,
+      5.6,
+      7.0,
+      8.4,
+      9.8
+    ]
+  },
+  "quality_warnings": [],
+  "seconds": 12.321336800014251,
+  "limitations": [
+    "来源／生成检测不等于事实核查",
+    "证据可视化仅表示模型线索，不构成篡改定位真值"
+  ],
+  "run_id": "20261118_201721_82256d",
+  "source": "C:\\Users\\17503\\AppData\\Local\\Temp\\gradio\\11d91e4a293c19e4c2209f7aed50cb44042ee86437935ecacdc7dd6077c747f6\\0009.mp4",
+  "input_sha256": "f3c0b0ebe38401f6efb1671227a494d800a3005e086553f972ac51be793022d8",
+  "evidence_files": [
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/evidence.png",
+      "caption": "特征／检测过程图"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_0.png",
+      "caption": "0.00s / frame 0"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_1.png",
+      "caption": "1.40s / frame 42"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_2.png",
+      "caption": "2.80s / frame 84"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_3.png",
+      "caption": "4.20s / frame 126"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_4.png",
+      "caption": "5.60s / frame 168"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_5.png",
+      "caption": "7.00s / frame 210"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_6.png",
+      "caption": "8.40s / frame 252"
+    },
+    {
+      "path": "results/ui_runs/20261118_201721_82256d/image_7.png",
+      "caption": "9.80s / frame 294"
+    }
+  ],
+  "process": [
+    "输入质量检查",
+    "模态预处理",
+    "基础特征／论文模型推理",
+    "验证集概率校准",
+    "方法融合与冲突检查",
+    "四层评估输出"
+  ]
+}

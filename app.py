@@ -183,7 +183,7 @@ def attack_demo(modality,method,file,label,epsilon,steps,defended):
 
 CSS='''#title {padding:18px 0;border-bottom:2px solid #3b82f6} .gradio-container {max-width:1400px!important}'''
 with gr.Blocks(title='实验六 · 四模态真实性检测',css=CSS) as app:
-    gr.Markdown('# 四模态内容真实性检测与自评\n项目作者 · STUDENT_ID · 基础方法与论文方法对照',elem_id='title')
+    gr.Markdown('# 四模态内容真实性检测与自评\n胡逸辰 · 2024302181004 · 基础方法与论文方法对照',elem_id='title')
     gr.Markdown('上传内容 → 预处理 → 真实模型推理 → 概率校准 → 证据 → 综合评估。模型在本地运行；批量实验与现场检测分别记录。')
     states=[]
     with gr.Tabs():

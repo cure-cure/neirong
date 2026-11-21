@@ -1,0 +1,159 @@
+{
+  "modality": "text",
+  "method": "baseline",
+  "results": [
+    {
+      "condition": "clean",
+      "level": 0,
+      "n": 20,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999999,
+      "brier": 0.02381895215862448,
+      "ece": 0.11665363177140145
+    },
+    {
+      "condition": "spaces",
+      "level": 1,
+      "n": 20,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999999,
+      "brier": 0.02381895215862448,
+      "ece": 0.11665363177140145
+    },
+    {
+      "condition": "typos",
+      "level": 0.01,
+      "n": 20,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999999,
+      "brier": 0.023521973287648636,
+      "ece": 0.11851882372116543
+    },
+    {
+      "condition": "truncate",
+      "level": 0.75,
+      "n": 20,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999999,
+      "brier": 0.0355671837540301,
+      "ece": 0.151219764246014
+    },
+    {
+      "condition": "truncate",
+      "level": 0.5,
+      "n": 20,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999999,
+      "brier": 0.043794587735372585,
+      "ece": 0.1815704399625087
+    },
+    {
+      "condition": "punctuation",
+      "level": 1,
+      "n": 20,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999999,
+      "brier": 0.02381895215862448,
+      "ece": 0.11665363177140145
+    }
+  ],
+  "scope": "held-out course subset; video perturbations apply to extracted face crops, NOT end-to-end video re-encoding",
+  "requested": 20,
+  "errors": []
+}

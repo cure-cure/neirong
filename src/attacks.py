@@ -20,3 +20,4 @@ def attack(logit_fn,x,y,epsilon,steps=10,restarts=1,random_start=True,lower=0.,u
             best[mask]=z[mask];best_loss[mask]=loss[mask]
     assert float((best-x).abs().max())<=epsilon+1e-6
     return best.detach()
+

@@ -1,0 +1,20 @@
+{
+  "dataset": "CIFAKE: Real and AI-Generated Synthetic Images",
+  "paper_doi": "10.1109/ACCESS.2024.3356122",
+  "upstream": "https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images",
+  "mirror": "https://huggingface.co/datasets/dragonintelligence/CIFAKE-image-dataset",
+  "mirror_commit": "6eebd6090fe3c0d9d44f899a25f0a34e3c2dad31",
+  "source_file_sha256": "7767d5285d009471175ac7985c60367d82a34088f29c67185da7af2c53b7975d",
+  "source_rows": 20000,
+  "selected_rows": 200,
+  "selection": "100 per class by smallest SHA256(cifake-test:<row index>); model outputs never inspected",
+  "label_mapping": {
+    "CIFAKE 0 FAKE": 1,
+    "CIFAKE 1 REAL": 0
+  },
+  "content": "REAL: CIFAR-10; FAKE: Stable Diffusion 1.4 equivalents",
+  "resolution": "32x32 RGB; evaluated through the project unchanged preprocessing pipeline",
+  "license_note": "Dataset publisher states MIT; underlying CIFAR-10 source terms and attribution still apply.",
+  "exact_course_byte_overlaps": 0,
+  "created_utc": "2026-11-21T17:05:05.411087+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "modality": "image",
+  "method": "combined",
+  "test": {
+    "n": 20,
+    "accuracy": 0.9,
+    "precision": 0.8461538461538461,
+    "recall": 1.0,
+    "f1": 0.9166666666666666,
+    "fpr": 0.2222222222222222,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        7,
+        2
+      ],
+      [
+        0,
+        11
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.10503750605094378,
+    "ece": 0.23723241016864063
+  },
+  "coverage": 1.0,
+  "accuracy_ci95": [
+    0.8,
+    1.0
+  ],
+  "scope": "equal mean of validation-calibrated baseline and paper scores; no test-set model selection",
+  "requested_test_count": 20,
+  "test_coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.9
+}

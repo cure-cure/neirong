@@ -1,0 +1,33 @@
+{
+  "modality": "audio",
+  "method": "baseline",
+  "judgement": "真实倾向",
+  "binary_prediction": 0,
+  "fake_probability": 0.0005066675945584574,
+  "confidence": 0.9994933324054416,
+  "confidence_note": "验证集校准后的估计；小样本、跨域条件下不保证可靠",
+  "authenticity_score": 0.9994933324054416,
+  "risk": "低",
+  "components": {
+    "baseline": {
+      "raw": -1.3223563556212905,
+      "fake_probability": 0.0005066675945584574
+    }
+  },
+  "details": {},
+  "seconds": 0.028504300003987737,
+  "limitations": [
+    "来源／生成检测不等于事实核查",
+    "证据可视化仅表示模型线索，不构成篡改定位真值"
+  ],
+  "run_id": "20261118_193055_aa5656",
+  "source": "C:\\Users\\17503\\AppData\\Local\\Temp\\gradio\\ec553684dda95cb788ae3ffe3f3faab224e14406da1822edee506ae53144598d\\real_0000.wav",
+  "process": [
+    "输入质量检查",
+    "模态预处理",
+    "基础特征／论文模型推理",
+    "验证集概率校准",
+    "方法融合与冲突检查",
+    "四层评估输出"
+  ]
+}

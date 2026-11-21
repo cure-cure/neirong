@@ -1,0 +1,16 @@
+{
+  "run_id": "20261118_201727_3d044e",
+  "modality": "text",
+  "judgement": "存疑／无法充分评估",
+  "confidence": 0.0,
+  "fake_probability": null,
+  "authenticity_score": null,
+  "risk": "无法评估",
+  "evidence": [
+    "文本过短，无法提供可靠检测。"
+  ],
+  "process": [
+    "输入／检测检查未通过"
+  ],
+  "note": "无法评估不等于真实或伪造，不参与联合评分。"
+}

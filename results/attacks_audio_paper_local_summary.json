@@ -1,0 +1,146 @@
+{
+  "modality": "audio",
+  "profile": "local",
+  "results": [
+    {
+      "attack": "FGSM",
+      "epsilon": 0.001,
+      "defense": false,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.001,
+      "defense": false,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.004,
+      "defense": false,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.004,
+      "defense": false,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.001,
+      "defense": true,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.001,
+      "defense": true,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.004,
+      "defense": true,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.004,
+      "defense": true,
+      "n": 10,
+      "eligible": 5,
+      "asr": 0.0,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 0,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 5,
+        "success": 0
+      }
+    }
+  ],
+  "calibration": "clean validation calibration retained for defense; no defense-specific recalibration",
+  "scope": "model input threat model, limited local profile; not a claim of certified robustness",
+  "method": "paper",
+  "provenance_note": "Canonical filename added after the initial AASIST-L paper attack run; numerical results unchanged."
+}

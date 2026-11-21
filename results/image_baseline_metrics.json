@@ -1,0 +1,91 @@
+{
+  "modality": "image",
+  "method": "baseline",
+  "test": {
+    "n": 20,
+    "accuracy": 0.7,
+    "precision": 0.6666666666666666,
+    "recall": 0.9090909090909091,
+    "f1": 0.7692307692307693,
+    "fpr": 0.5555555555555556,
+    "fnr": 0.09090909090909091,
+    "confusion_matrix": [
+      [
+        4,
+        5
+      ],
+      [
+        1,
+        10
+      ]
+    ],
+    "roc_auc": 0.8585858585858586,
+    "pr_auc": 0.9287878787878789,
+    "brier": 0.18578812945671414,
+    "ece": 0.23284319333904518
+  },
+  "raw_test": {
+    "n": 20,
+    "accuracy": 0.8,
+    "precision": 0.8181818181818182,
+    "recall": 0.8181818181818182,
+    "f1": 0.8181818181818182,
+    "fpr": 0.2222222222222222,
+    "fnr": 0.18181818181818182,
+    "confusion_matrix": [
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        9
+      ]
+    ],
+    "roc_auc": 0.8585858585858586,
+    "pr_auc": 0.9287878787878789,
+    "brier": 0.16432438899789562,
+    "ece": 0.29481493151904137
+  },
+  "calibration": {
+    "slope": 0.7772598980917753,
+    "intercept": 0.523379917465373,
+    "n": 20,
+    "method": "positive-slope logistic calibration on validation only",
+    "success": true
+  },
+  "coverage": 1.0,
+  "errors": [],
+  "description": "baseline",
+  "test_ids": [
+    "image_real_n01440764_10342",
+    "image_real_n01644900_13175",
+    "image_real_n01978455_7675",
+    "image_real_n02093256_3863",
+    "image_real_n02488291_1955",
+    "image_real_n02504458_12945",
+    "image_real_n02817516_5607",
+    "image_real_n03888605_8471",
+    "image_real_n04429376_21459",
+    "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "image_fake_VQDM_1000_200_09_983_vqdm_00079"
+  ],
+  "accuracy_ci95": [
+    0.5,
+    0.9
+  ],
+  "inference_seconds": 0.07213640003465116,
+  "scope": "course subset grouped held-out test; NOT independent external benchmark",
+  "requested_test_count": 20,
+  "test_coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.7
+}

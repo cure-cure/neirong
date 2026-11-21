@@ -1,0 +1,417 @@
+{
+  "modality": "audio",
+  "method": "baseline",
+  "profile": "full",
+  "results": [
+    {
+      "attack": "FGSM",
+      "epsilon": 0.0005,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.0005,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.0005,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.001,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.001,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.001,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.002,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.002,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.002,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.004,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.004,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.004,
+      "defense": false,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.0005,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.5555555555555556,
+      "accuracy": 0.4,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 1
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.0005,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.0005,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.001,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.001,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.001,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.002,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.002,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.002,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "FGSM",
+      "epsilon": 0.004,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 0.4444444444444444,
+      "accuracy": 0.5,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 0
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD5",
+      "epsilon": 0.004,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    },
+    {
+      "attack": "PGD20_R3",
+      "epsilon": 0.004,
+      "defense": true,
+      "n": 10,
+      "eligible": 9,
+      "asr": 1.0,
+      "accuracy": 0.0,
+      "false_positive_attacks": {
+        "eligible": 5,
+        "success": 5
+      },
+      "false_negative_attacks": {
+        "eligible": 4,
+        "success": 4
+      }
+    }
+  ],
+  "calibration": "clean validation calibration retained for defense; no defense-specific recalibration",
+  "scope": "model input threat model, limited local profile; not a claim of certified robustness"
+}

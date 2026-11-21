@@ -1,0 +1,40 @@
+{
+  "modality": "image",
+  "method": "paper",
+  "split": "external_test",
+  "metrics": {
+    "n": 200,
+    "accuracy": 0.48,
+    "precision": 0.4896907216494845,
+    "recall": 0.95,
+    "f1": 0.6462585034013606,
+    "fpr": 0.99,
+    "fnr": 0.05,
+    "confusion_matrix": [
+      [
+        1,
+        99
+      ],
+      [
+        5,
+        95
+      ]
+    ],
+    "roc_auc": 0.33480000000000004,
+    "pr_auc": 0.40576129238620234,
+    "brier": 0.39315107121445947,
+    "ece": 0.3548290687169629,
+    "accuracy_ci95": [
+      0.415,
+      0.555
+    ]
+  },
+  "requested_count": 200,
+  "valid_count": 200,
+  "failed_count": 0,
+  "coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.48,
+  "scope": "CIFAKE official test fixed subset; 100 CIFAR-10 real and 100 Stable Diffusion 1.4 fake; frozen course calibration",
+  "manifest": "data/external_visual_manifest.json",
+  "errors": []
+}

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "text_real_0010",
+    "group": "text_0010",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.05457117472913732,
+    "seconds": 0.38235879999410827
+  },
+  {
+    "id": "text_real_0010",
+    "group": "text_0010",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.05457117472913732,
+    "seconds": 0.11915050000243355
+  },
+  {
+    "id": "text_real_0010",
+    "group": "text_0010",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.056107149387523696,
+    "seconds": 0.2078421000041999
+  },
+  {
+    "id": "text_real_0010",
+    "group": "text_0010",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.05258957374123769,
+    "seconds": 0.13012149999849498
+  },
+  {
+    "id": "text_real_0010",
+    "group": "text_0010",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.06527909728536288,
+    "seconds": 0.11718169999949168
+  },
+  {
+    "id": "text_real_0010",
+    "group": "text_0010",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.05457117472913732,
+    "seconds": 0.13225910000619479
+  },
+  {
+    "id": "text_real_0014",
+    "group": "text_0014",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.06515844745301633,
+    "seconds": 0.13325139999506064
+  },
+  {
+    "id": "text_real_0014",
+    "group": "text_0014",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.06515844745301633,
+    "seconds": 0.12889399999403395
+  },
+  {
+    "id": "text_real_0014",
+    "group": "text_0014",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.06878812598708113,
+    "seconds": 0.12009939999552444
+  },
+  {
+    "id": "text_real_0014",
+    "group": "text_0014",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.06490030770225938,
+    "seconds": 0.1429917000059504
+  },
+  {
+    "id": "text_real_0014",
+    "group": "text_0014",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.10624247267291018,
+    "seconds": 0.13329549999616574
+  },
+  {
+    "id": "text_real_0014",
+    "group": "text_0014",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.06515844745301633,
+    "seconds": 0.1373394999973243
+  },
+  {
+    "id": "text_real_0020",
+    "group": "text_0020",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.05782959930297875,
+    "seconds": 0.15305949999310542
+  },
+  {
+    "id": "text_real_0020",
+    "group": "text_0020",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.05782959930297875,
+    "seconds": 0.14208799999323674
+  },
+  {
+    "id": "text_real_0020",
+    "group": "text_0020",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.054151672013082845,
+    "seconds": 0.12351140000100713
+  },
+  {
+    "id": "text_real_0020",
+    "group": "text_0020",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.07078997242446092,
+    "seconds": 0.14089189999504015
+  },
+  {
+    "id": "text_real_0020",
+    "group": "text_0020",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.255636931002721,
+    "seconds": 0.14599040000757668
+  },
+  {
+    "id": "text_real_0020",
+    "group": "text_0020",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.05782959930297875,
+    "seconds": 0.1352855000004638
+  },
+  {
+    "id": "text_real_0021",
+    "group": "text_0021",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.03226561814277991,
+    "seconds": 0.13944709999486804
+  },
+  {
+    "id": "text_real_0021",
+    "group": "text_0021",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.03226561814277991,
+    "seconds": 0.1391085000068415
+  },
+  {
+    "id": "text_real_0021",
+    "group": "text_0021",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.028188241127796363,
+    "seconds": 0.13709970000491012
+  },
+  {
+    "id": "text_real_0021",
+    "group": "text_0021",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.02615955931072271,
+    "seconds": 0.12791169999400154
+  },
+  {
+    "id": "text_real_0021",
+    "group": "text_0021",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.0443955819052571,
+    "seconds": 0.1325873000023421
+  },
+  {
+    "id": "text_real_0021",
+    "group": "text_0021",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.03226561814277991,
+    "seconds": 0.13908409999567084
+  },
+  {
+    "id": "text_real_0024",
+    "group": "text_0024",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.37141246973906406,
+    "seconds": 0.13727269999799319
+  },
+  {
+    "id": "text_real_0024",
+    "group": "text_0024",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.37141246973906406,
+    "seconds": 0.1272326000034809
+  },
+  {
+    "id": "text_real_0024",
+    "group": "text_0024",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.38494617927856084,
+    "seconds": 0.13624080001318362
+  },
+  {
+    "id": "text_real_0024",
+    "group": "text_0024",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.3719246780963098,
+    "seconds": 0.15538670000387356
+  },
+  {
+    "id": "text_real_0024",
+    "group": "text_0024",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.3060552114852036,
+    "seconds": 0.13835340000514407
+  },
+  {
+    "id": "text_real_0024",
+    "group": "text_0024",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.37141246973906406,
+    "seconds": 0.12933940000948496
+  },
+  {
+    "id": "text_real_0026",
+    "group": "text_0026",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.05113988146848633,
+    "seconds": 0.13770340000337455
+  },
+  {
+    "id": "text_real_0026",
+    "group": "text_0026",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.05113988146848633,
+    "seconds": 0.13676619999750983
+  },
+  {
+    "id": "text_real_0026",
+    "group": "text_0026",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.05650199045965646,
+    "seconds": 0.13139229999796953
+  },
+  {
+    "id": "text_real_0026",
+    "group": "text_0026",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.05721927245201649,
+    "seconds": 0.1339062000042759
+  },
+  {
+    "id": "text_real_0026",
+    "group": "text_0026",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.08781047294079812,
+    "seconds": 0.15131580000161193
+  },
+  {
+    "id": "text_real_0026",
+    "group": "text_0026",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.05113988146848633,
+    "seconds": 0.14681550000386778
+  },
+  {
+    "id": "text_real_0032",
+    "group": "text_0032",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.10381422206030705,
+    "seconds": 0.13129059999482706
+  },
+  {
+    "id": "text_real_0032",
+    "group": "text_0032",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.10381422206030705,
+    "seconds": 0.14417910001066048
+  },
+  {
+    "id": "text_real_0032",
+    "group": "text_0032",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.10137896624441498,
+    "seconds": 0.1316515999933472
+  },
+  {
+    "id": "text_real_0032",
+    "group": "text_0032",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.08331248166876062,
+    "seconds": 0.14108100000885315
+  },
+  {
+    "id": "text_real_0032",
+    "group": "text_0032",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.10888840598737197,
+    "seconds": 0.14671070000622422
+  },
+  {
+    "id": "text_real_0032",
+    "group": "text_0032",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.10381422206030705,
+    "seconds": 0.14410489999863785
+  },
+  {
+    "id": "text_real_0045",
+    "group": "text_0045",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.12972044364613214,
+    "seconds": 0.1480885000055423
+  },
+  {
+    "id": "text_real_0045",
+    "group": "text_0045",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.12972044364613214,
+    "seconds": 0.1439224999921862
+  },
+  {
+    "id": "text_real_0045",
+    "group": "text_0045",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.12728051738329998,
+    "seconds": 0.14341109999804758
+  },
+  {
+    "id": "text_real_0045",
+    "group": "text_0045",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.1340389627562164,
+    "seconds": 0.14035240000521298
+  },
+  {
+    "id": "text_real_0045",
+    "group": "text_0045",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.14417323007022806,
+    "seconds": 0.1489861000009114
+  },
+  {
+    "id": "text_real_0045",
+    "group": "text_0045",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.12972044364613214,
+    "seconds": 0.14312609999615233
+  },
+  {
+    "id": "text_real_0047",
+    "group": "text_0047",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.08542392916546784,
+    "seconds": 0.14469679999456275
+  },
+  {
+    "id": "text_real_0047",
+    "group": "text_0047",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.08542392916546784,
+    "seconds": 0.13564199999382254
+  },
+  {
+    "id": "text_real_0047",
+    "group": "text_0047",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.08440912771086317,
+    "seconds": 0.12629390000074636
+  },
+  {
+    "id": "text_real_0047",
+    "group": "text_0047",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.11195666968214568,
+    "seconds": 0.13676300000224728
+  },
+  {
+    "id": "text_real_0047",
+    "group": "text_0047",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.08753939058797637,
+    "seconds": 0.1394647000124678
+  },
+  {
+    "id": "text_real_0047",
+    "group": "text_0047",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.08542392916546784,
+    "seconds": 0.1400768000021344
+  },
+  {
+    "id": "text_real_0050",
+    "group": "text_0050",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.37966229107168886,
+    "seconds": 0.14723030000459403
+  },
+  {
+    "id": "text_real_0050",
+    "group": "text_0050",
+    "label": 0,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.37966229107168886,
+    "seconds": 0.11943849999806844
+  },
+  {
+    "id": "text_real_0050",
+    "group": "text_0050",
+    "label": 0,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.34746812040018443,
+    "seconds": 0.12656170000263955
+  },
+  {
+    "id": "text_real_0050",
+    "group": "text_0050",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.3780186400869309,
+    "seconds": 0.13291810000373516
+  },
+  {
+    "id": "text_real_0050",
+    "group": "text_0050",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.35756578544168627,
+    "seconds": 0.12552089999371674
+  },
+  {
+    "id": "text_real_0050",
+    "group": "text_0050",
+    "label": 0,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.37966229107168886,
+    "seconds": 0.12932430001092143
+  },
+  {
+    "id": "text_fake_0010",
+    "group": "text_0010",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.9419938212610574,
+    "seconds": 0.13395869999658316
+  },
+  {
+    "id": "text_fake_0010",
+    "group": "text_0010",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.9419938212610574,
+    "seconds": 0.13913780001166742
+  },
+  {
+    "id": "text_fake_0010",
+    "group": "text_0010",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.926744235658195,
+    "seconds": 0.1364629000017885
+  },
+  {
+    "id": "text_fake_0010",
+    "group": "text_0010",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.8869595674626727,
+    "seconds": 0.13408950000302866
+  },
+  {
+    "id": "text_fake_0010",
+    "group": "text_0010",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.8201651424536849,
+    "seconds": 0.13538999999582302
+  },
+  {
+    "id": "text_fake_0010",
+    "group": "text_0010",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.9419938212610574,
+    "seconds": 0.11880539999401662
+  },
+  {
+    "id": "text_fake_0014",
+    "group": "text_0014",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.8963158286546344,
+    "seconds": 0.1390869000024395
+  },
+  {
+    "id": "text_fake_0014",
+    "group": "text_0014",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.8963158286546344,
+    "seconds": 0.13401670000166632
+  },
+  {
+    "id": "text_fake_0014",
+    "group": "text_0014",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.8941416297194683,
+    "seconds": 0.12337920001300517
+  },
+  {
+    "id": "text_fake_0014",
+    "group": "text_0014",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.8164013699666192,
+    "seconds": 0.13030370000342373
+  },
+  {
+    "id": "text_fake_0014",
+    "group": "text_0014",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.8333380939225871,
+    "seconds": 0.14134310001099948
+  },
+  {
+    "id": "text_fake_0014",
+    "group": "text_0014",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.8963158286546344,
+    "seconds": 0.1369163000053959
+  },
+  {
+    "id": "text_fake_0020",
+    "group": "text_0020",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.9634383068707801,
+    "seconds": 0.1360656999895582
+  },
+  {
+    "id": "text_fake_0020",
+    "group": "text_0020",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.9634383068707801,
+    "seconds": 0.12826850000419654
+  },
+  {
+    "id": "text_fake_0020",
+    "group": "text_0020",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.9561647689084503,
+    "seconds": 0.12500669999280944
+  },
+  {
+    "id": "text_fake_0020",
+    "group": "text_0020",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.9217750351441425,
+    "seconds": 0.14010290001169778
+  },
+  {
+    "id": "text_fake_0020",
+    "group": "text_0020",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.8928057206442953,
+    "seconds": 0.13246409999555908
+  },
+  {
+    "id": "text_fake_0020",
+    "group": "text_0020",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.9634383068707801,
+    "seconds": 0.12911300000268966
+  },
+  {
+    "id": "text_fake_0021",
+    "group": "text_0021",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.9350630395779804,
+    "seconds": 0.12966490001417696
+  },
+  {
+    "id": "text_fake_0021",
+    "group": "text_0021",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.9350630395779804,
+    "seconds": 0.13338240000302903
+  },
+  {
+    "id": "text_fake_0021",
+    "group": "text_0021",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.9293741194243018,
+    "seconds": 0.13468440000724513
+  },
+  {
+    "id": "text_fake_0021",
+    "group": "text_0021",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.9122207070547542,
+    "seconds": 0.1454777000035392
+  },
+  {
+    "id": "text_fake_0021",
+    "group": "text_0021",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.8158816895677987,
+    "seconds": 0.13813009999284986
+  },
+  {
+    "id": "text_fake_0021",
+    "group": "text_0021",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.9350630395779804,
+    "seconds": 0.13951349999115337
+  },
+  {
+    "id": "text_fake_0024",
+    "group": "text_0024",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.730375872712325,
+    "seconds": 0.16291630000341684
+  },
+  {
+    "id": "text_fake_0024",
+    "group": "text_0024",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.730375872712325,
+    "seconds": 0.15057680000609253
+  },
+  {
+    "id": "text_fake_0024",
+    "group": "text_0024",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.7369714416420441,
+    "seconds": 0.15807700000004843
+  },
+  {
+    "id": "text_fake_0024",
+    "group": "text_0024",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6234253955331861,
+    "seconds": 0.16377379999903496
+  },
+  {
+    "id": "text_fake_0024",
+    "group": "text_0024",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.5933540345559112,
+    "seconds": 0.15983239999332
+  },
+  {
+    "id": "text_fake_0024",
+    "group": "text_0024",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.730375872712325,
+    "seconds": 0.14724910000222735
+  },
+  {
+    "id": "text_fake_0026",
+    "group": "text_0026",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.8496817389865671,
+    "seconds": 0.14480579999508336
+  },
+  {
+    "id": "text_fake_0026",
+    "group": "text_0026",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.8496817389865671,
+    "seconds": 0.15464459999930114
+  },
+  {
+    "id": "text_fake_0026",
+    "group": "text_0026",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.8391190961737562,
+    "seconds": 0.1530275000113761
+  },
+  {
+    "id": "text_fake_0026",
+    "group": "text_0026",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.8329873250242962,
+    "seconds": 0.13845169999694917
+  },
+  {
+    "id": "text_fake_0026",
+    "group": "text_0026",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.793635805170839,
+    "seconds": 0.11742510000476614
+  },
+  {
+    "id": "text_fake_0026",
+    "group": "text_0026",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.8496817389865671,
+    "seconds": 0.15827580000041053
+  },
+  {
+    "id": "text_fake_0032",
+    "group": "text_0032",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.9705523176098388,
+    "seconds": 0.14348440000321716
+  },
+  {
+    "id": "text_fake_0032",
+    "group": "text_0032",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.9705523176098388,
+    "seconds": 0.15823519999685232
+  },
+  {
+    "id": "text_fake_0032",
+    "group": "text_0032",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.9687843811761724,
+    "seconds": 0.15045400000235531
+  },
+  {
+    "id": "text_fake_0032",
+    "group": "text_0032",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.9480132356748789,
+    "seconds": 0.15732959999877494
+  },
+  {
+    "id": "text_fake_0032",
+    "group": "text_0032",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.9017520531828631,
+    "seconds": 0.15271219999704044
+  },
+  {
+    "id": "text_fake_0032",
+    "group": "text_0032",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.9705523176098388,
+    "seconds": 0.1620657999883406
+  },
+  {
+    "id": "text_fake_0045",
+    "group": "text_0045",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.8948690291311338,
+    "seconds": 0.15026080000097863
+  },
+  {
+    "id": "text_fake_0045",
+    "group": "text_0045",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.8948690291311338,
+    "seconds": 0.16203559999121353
+  },
+  {
+    "id": "text_fake_0045",
+    "group": "text_0045",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.8877435956763117,
+    "seconds": 0.2397867999970913
+  },
+  {
+    "id": "text_fake_0045",
+    "group": "text_0045",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.815958779721478,
+    "seconds": 0.16724490000342485
+  },
+  {
+    "id": "text_fake_0045",
+    "group": "text_0045",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.8096038756043379,
+    "seconds": 0.14708900000550784
+  },
+  {
+    "id": "text_fake_0045",
+    "group": "text_0045",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.8948690291311338,
+    "seconds": 0.15013540000654757
+  },
+  {
+    "id": "text_fake_0047",
+    "group": "text_0047",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.9331733233117047,
+    "seconds": 0.16329770001175348
+  },
+  {
+    "id": "text_fake_0047",
+    "group": "text_0047",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.9331733233117047,
+    "seconds": 0.19177200000558514
+  },
+  {
+    "id": "text_fake_0047",
+    "group": "text_0047",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.9217532396185378,
+    "seconds": 0.14487269999517594
+  },
+  {
+    "id": "text_fake_0047",
+    "group": "text_0047",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.8770258399779227,
+    "seconds": 0.14428719998977613
+  },
+  {
+    "id": "text_fake_0047",
+    "group": "text_0047",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.8465983622871188,
+    "seconds": 0.14606469999125693
+  },
+  {
+    "id": "text_fake_0047",
+    "group": "text_0047",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.9331733233117047,
+    "seconds": 0.13239930001145694
+  },
+  {
+    "id": "text_fake_0050",
+    "group": "text_0050",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.882462163235008,
+    "seconds": 0.1444547999999486
+  },
+  {
+    "id": "text_fake_0050",
+    "group": "text_0050",
+    "label": 1,
+    "condition": "spaces",
+    "level": 1,
+    "fake_probability": 0.882462163235008,
+    "seconds": 0.14001770000322722
+  },
+  {
+    "id": "text_fake_0050",
+    "group": "text_0050",
+    "label": 1,
+    "condition": "typos",
+    "level": 0.01,
+    "fake_probability": 0.8780471075719183,
+    "seconds": 0.12549890000082087
+  },
+  {
+    "id": "text_fake_0050",
+    "group": "text_0050",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6917475774408309,
+    "seconds": 0.1410665000003064
+  },
+  {
+    "id": "text_fake_0050",
+    "group": "text_0050",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.5,
+    "fake_probability": 0.6250430027399052,
+    "seconds": 0.12990249998983927
+  },
+  {
+    "id": "text_fake_0050",
+    "group": "text_0050",
+    "label": 1,
+    "condition": "punctuation",
+    "level": 1,
+    "fake_probability": 0.882462163235008,
+    "seconds": 0.13471069998922758
+  }
+]

@@ -31,3 +31,4 @@ if __name__=='__main__':
             if subset:summary.append(dict(condition=name,level=level,**metrics([r['label'] for r in subset],[r['fake_probability'] for r in subset])))
         dump(f'results/robustness_{m}_{args.method}_summary.json',dict(modality=m,method=args.method,results=summary,scope='held-out course subset; video perturbations apply to extracted face crops, NOT end-to-end video re-encoding',requested=len(rows),errors=[r for r in results if 'error' in r]))
         if engine.paper:engine.paper.close();engine.paper=None;engine.current=None
+

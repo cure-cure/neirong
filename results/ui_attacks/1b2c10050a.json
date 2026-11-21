@@ -1,0 +1,13 @@
+{
+  "method": "baseline",
+  "clean_fake_probability": 0.0005066672189119326,
+  "adv_fake_probability": 0.9999999986770747,
+  "epsilon": 0.001,
+  "actual_linf": 0.0010000020265579224,
+  "steps": 5,
+  "defense": false,
+  "adaptive": false,
+  "seconds": 0.17838450000272132,
+  "attack_success": true,
+  "scope": "完整音频波形"
+}

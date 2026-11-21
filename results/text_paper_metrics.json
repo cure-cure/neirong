@@ -1,0 +1,91 @@
+{
+  "modality": "text",
+  "method": "paper",
+  "test": {
+    "n": 20,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        10,
+        0
+      ],
+      [
+        0,
+        10
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 0.9999999999999999,
+    "brier": 0.010690805055023454,
+    "ece": 0.023735069663769957
+  },
+  "raw_test": {
+    "n": 20,
+    "accuracy": 0.85,
+    "precision": 0.7692307692307693,
+    "recall": 1.0,
+    "f1": 0.8695652173913043,
+    "fpr": 0.3,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        7,
+        3
+      ],
+      [
+        0,
+        10
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 0.9999999999999999,
+    "brier": 0.08563182299395702,
+    "ece": 0.14123154958012293
+  },
+  "calibration": {
+    "slope": 5.657497926628037,
+    "intercept": -9.43213895916973,
+    "n": 20,
+    "method": "positive-slope logistic calibration on validation only",
+    "success": true
+  },
+  "coverage": 1.0,
+  "errors": [],
+  "description": "Adapted Fast-DetectGPT with DistilGPT2",
+  "test_ids": [
+    "text_real_0010",
+    "text_real_0014",
+    "text_real_0020",
+    "text_real_0021",
+    "text_real_0024",
+    "text_real_0026",
+    "text_real_0032",
+    "text_real_0045",
+    "text_real_0047",
+    "text_real_0050",
+    "text_fake_0010",
+    "text_fake_0014",
+    "text_fake_0020",
+    "text_fake_0021",
+    "text_fake_0024",
+    "text_fake_0026",
+    "text_fake_0032",
+    "text_fake_0045",
+    "text_fake_0047",
+    "text_fake_0050"
+  ],
+  "accuracy_ci95": [
+    1.0,
+    1.0
+  ],
+  "inference_seconds": 45.892473799947766,
+  "scope": "course subset grouped held-out test; NOT independent external benchmark",
+  "requested_test_count": 20,
+  "test_coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 1.0
+}

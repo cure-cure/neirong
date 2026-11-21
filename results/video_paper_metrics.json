@@ -1,0 +1,104 @@
+{
+  "modality": "video",
+  "method": "paper",
+  "test": {
+    "n": 19,
+    "accuracy": 0.8947368421052632,
+    "precision": 0.8181818181818182,
+    "recall": 1.0,
+    "f1": 0.9,
+    "fpr": 0.2,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        8,
+        2
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "roc_auc": 0.9444444444444445,
+    "pr_auc": 0.9376903960237295,
+    "brier": 0.08199271586455868,
+    "ece": 0.12332296278011211
+  },
+  "raw_test": {
+    "n": 19,
+    "accuracy": 0.8421052631578947,
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1": 0.8571428571428571,
+    "fpr": 0.3,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        7,
+        3
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "roc_auc": 0.9444444444444445,
+    "pr_auc": 0.9376903960237295,
+    "brier": 0.1354951928383569,
+    "ece": 0.14160775192481864
+  },
+  "calibration": {
+    "slope": 2.014371561155047,
+    "intercept": -2.312484872384478,
+    "n": 20,
+    "method": "positive-slope logistic calibration on validation only",
+    "success": true
+  },
+  "coverage": 0.9897959183673469,
+  "errors": [
+    {
+      "id": "video_fake_0043_fake",
+      "modality": "video",
+      "label": 1,
+      "path": "data/raw/course/视频/fake/0043_fake.mp4",
+      "group": "video_0043",
+      "source": "course_share",
+      "sha256": "3bbb122bdede137697089e8aa68c3fcef44966810314c3fa898b91166165ee8c",
+      "bytes": 2561873,
+      "split": "test",
+      "error": "采样帧中未检测到人脸，不能进行人脸伪造评估",
+      "seconds": 0.2385022999951616
+    }
+  ],
+  "description": "paper",
+  "test_ids": [
+    "video_real_0009",
+    "video_real_0013",
+    "video_real_0020",
+    "video_real_0025",
+    "video_real_0026",
+    "video_real_0028",
+    "video_real_0036",
+    "video_real_0043",
+    "video_real_0045",
+    "video_real_0048",
+    "video_fake_0009_fake",
+    "video_fake_0013_fake",
+    "video_fake_0020_fake",
+    "video_fake_0025_fake",
+    "video_fake_0026_fake",
+    "video_fake_0028_fake",
+    "video_fake_0036_fake",
+    "video_fake_0045_fake",
+    "video_fake_0048_fake"
+  ],
+  "accuracy_ci95": [
+    0.7430921052631579,
+    1.0
+  ],
+  "inference_seconds": 2136.111352800028,
+  "scope": "course subset grouped held-out test; NOT independent external benchmark",
+  "requested_test_count": 20,
+  "test_coverage": 0.95,
+  "effective_accuracy_counting_failures_as_wrong": 0.85
+}

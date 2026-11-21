@@ -1,0 +1,40 @@
+{
+  "modality": "image",
+  "method": "combined",
+  "split": "external_test",
+  "metrics": {
+    "n": 200,
+    "accuracy": 0.5,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6666666666666666,
+    "fpr": 1.0,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ]
+    ],
+    "roc_auc": 0.29479999999999995,
+    "pr_auc": 0.3954655992132132,
+    "brier": 0.3948870916989349,
+    "ece": 0.3627915306077786,
+    "accuracy_ci95": [
+      0.435,
+      0.575
+    ]
+  },
+  "requested_count": 200,
+  "valid_count": 200,
+  "failed_count": 0,
+  "coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.5,
+  "scope": "CIFAKE official test fixed subset; 100 CIFAR-10 real and 100 Stable Diffusion 1.4 fake; frozen course calibration",
+  "manifest": "data/external_visual_manifest.json",
+  "errors": []
+}

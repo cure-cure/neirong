@@ -1,0 +1,863 @@
+[
+  {
+    "id": "video_real_0009",
+    "group": "video_0009",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.18153822103812778,
+    "seconds": 0.06746220000786707
+  },
+  {
+    "id": "video_real_0009",
+    "group": "video_0009",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.18059253263077454,
+    "seconds": 0.03846759999578353
+  },
+  {
+    "id": "video_real_0009",
+    "group": "video_0009",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.35431036953938083,
+    "seconds": 0.03542400000151247
+  },
+  {
+    "id": "video_real_0009",
+    "group": "video_0009",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.3010370276271034,
+    "seconds": 0.03452370000013616
+  },
+  {
+    "id": "video_real_0009",
+    "group": "video_0009",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.38599197758412135,
+    "seconds": 0.031964300011168234
+  },
+  {
+    "id": "video_real_0013",
+    "group": "video_0013",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.4136358978287344,
+    "seconds": 0.03288270000484772
+  },
+  {
+    "id": "video_real_0013",
+    "group": "video_0013",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.41448653992750234,
+    "seconds": 0.03477749999728985
+  },
+  {
+    "id": "video_real_0013",
+    "group": "video_0013",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.45571819684867326,
+    "seconds": 0.03873869999370072
+  },
+  {
+    "id": "video_real_0013",
+    "group": "video_0013",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.45508883958687213,
+    "seconds": 0.033162599997012876
+  },
+  {
+    "id": "video_real_0013",
+    "group": "video_0013",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6118686489325151,
+    "seconds": 0.037572800007183105
+  },
+  {
+    "id": "video_real_0020",
+    "group": "video_0020",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.4094171370383794,
+    "seconds": 0.03229950000240933
+  },
+  {
+    "id": "video_real_0020",
+    "group": "video_0020",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.39371093435225923,
+    "seconds": 0.03872579999733716
+  },
+  {
+    "id": "video_real_0020",
+    "group": "video_0020",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.4672004113848538,
+    "seconds": 0.038057300000218675
+  },
+  {
+    "id": "video_real_0020",
+    "group": "video_0020",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.4483512392568821,
+    "seconds": 0.033537800001795404
+  },
+  {
+    "id": "video_real_0020",
+    "group": "video_0020",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6149742209388246,
+    "seconds": 0.04120760000660084
+  },
+  {
+    "id": "video_real_0025",
+    "group": "video_0025",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6655771807162008,
+    "seconds": 0.03012319999106694
+  },
+  {
+    "id": "video_real_0025",
+    "group": "video_0025",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.6676040224150723,
+    "seconds": 0.03362600000400562
+  },
+  {
+    "id": "video_real_0025",
+    "group": "video_0025",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7258393132245848,
+    "seconds": 0.037067400000523776
+  },
+  {
+    "id": "video_real_0025",
+    "group": "video_0025",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7081118570154217,
+    "seconds": 0.03544000000692904
+  },
+  {
+    "id": "video_real_0025",
+    "group": "video_0025",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.7774784247004769,
+    "seconds": 0.034459000002243556
+  },
+  {
+    "id": "video_real_0026",
+    "group": "video_0026",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5906906500933554,
+    "seconds": 0.03173560000141151
+  },
+  {
+    "id": "video_real_0026",
+    "group": "video_0026",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5909921849938071,
+    "seconds": 0.03407069999957457
+  },
+  {
+    "id": "video_real_0026",
+    "group": "video_0026",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6559354450111718,
+    "seconds": 0.032953299989458174
+  },
+  {
+    "id": "video_real_0026",
+    "group": "video_0026",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6419147413019014,
+    "seconds": 0.03474479999567848
+  },
+  {
+    "id": "video_real_0026",
+    "group": "video_0026",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.7262990890982742,
+    "seconds": 0.03623890000744723
+  },
+  {
+    "id": "video_real_0028",
+    "group": "video_0028",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.4788183172992639,
+    "seconds": 0.03156070000841282
+  },
+  {
+    "id": "video_real_0028",
+    "group": "video_0028",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.49517163637407635,
+    "seconds": 0.028446399999666028
+  },
+  {
+    "id": "video_real_0028",
+    "group": "video_0028",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7126226159057358,
+    "seconds": 0.0284543999878224
+  },
+  {
+    "id": "video_real_0028",
+    "group": "video_0028",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6719307826840242,
+    "seconds": 0.027172999994945712
+  },
+  {
+    "id": "video_real_0028",
+    "group": "video_0028",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6449916193434999,
+    "seconds": 0.025800799994613044
+  },
+  {
+    "id": "video_real_0036",
+    "group": "video_0036",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7025580744290643,
+    "seconds": 0.028449599994928576
+  },
+  {
+    "id": "video_real_0036",
+    "group": "video_0036",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.704900453857473,
+    "seconds": 0.02898589998949319
+  },
+  {
+    "id": "video_real_0036",
+    "group": "video_0036",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.8385514807983521,
+    "seconds": 0.027147999993758276
+  },
+  {
+    "id": "video_real_0036",
+    "group": "video_0036",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7908549354167422,
+    "seconds": 0.032333199997083284
+  },
+  {
+    "id": "video_real_0036",
+    "group": "video_0036",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8005572641128543,
+    "seconds": 0.028013999995891936
+  },
+  {
+    "id": "video_real_0043",
+    "group": "video_0043",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.773969483721724,
+    "seconds": 0.007455700004356913
+  },
+  {
+    "id": "video_real_0043",
+    "group": "video_0043",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7695938878077903,
+    "seconds": 0.007908200001111254
+  },
+  {
+    "id": "video_real_0043",
+    "group": "video_0043",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.9173992663274577,
+    "seconds": 0.00618640000175219
+  },
+  {
+    "id": "video_real_0043",
+    "group": "video_0043",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.9004037065623497,
+    "seconds": 0.0061698999925283715
+  },
+  {
+    "id": "video_real_0043",
+    "group": "video_0043",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8331158773492234,
+    "seconds": 0.005925500008743256
+  },
+  {
+    "id": "video_real_0045",
+    "group": "video_0045",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.36814922265895766,
+    "seconds": 0.031434700009413064
+  },
+  {
+    "id": "video_real_0045",
+    "group": "video_0045",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.3417171675934475,
+    "seconds": 0.032527099989238195
+  },
+  {
+    "id": "video_real_0045",
+    "group": "video_0045",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.5869405860465101,
+    "seconds": 0.030680399999255314
+  },
+  {
+    "id": "video_real_0045",
+    "group": "video_0045",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.5322891071830683,
+    "seconds": 0.03242020000470802
+  },
+  {
+    "id": "video_real_0045",
+    "group": "video_0045",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.569863773855935,
+    "seconds": 0.030289800008176826
+  },
+  {
+    "id": "video_real_0048",
+    "group": "video_0048",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.36539448925784146,
+    "seconds": 0.028593099996214733
+  },
+  {
+    "id": "video_real_0048",
+    "group": "video_0048",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.3732185648720827,
+    "seconds": 0.03218729999207426
+  },
+  {
+    "id": "video_real_0048",
+    "group": "video_0048",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6295740002363402,
+    "seconds": 0.032657699994160794
+  },
+  {
+    "id": "video_real_0048",
+    "group": "video_0048",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.5655815465860634,
+    "seconds": 0.030573399999411777
+  },
+  {
+    "id": "video_real_0048",
+    "group": "video_0048",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.5445814150267096,
+    "seconds": 0.028669899998931214
+  },
+  {
+    "id": "video_fake_0009_fake",
+    "group": "video_0009",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.21353355147941427,
+    "seconds": 0.03497389999392908
+  },
+  {
+    "id": "video_fake_0009_fake",
+    "group": "video_0009",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.21368301255990554,
+    "seconds": 0.04158530000131577
+  },
+  {
+    "id": "video_fake_0009_fake",
+    "group": "video_0009",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.42157481142743264,
+    "seconds": 0.03634719998808578
+  },
+  {
+    "id": "video_fake_0009_fake",
+    "group": "video_0009",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.35205537529121184,
+    "seconds": 0.035952699996414594
+  },
+  {
+    "id": "video_fake_0009_fake",
+    "group": "video_0009",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.42792597829741946,
+    "seconds": 0.03478099999483675
+  },
+  {
+    "id": "video_fake_0013_fake",
+    "group": "video_0013",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5208860842072691,
+    "seconds": 0.03714600000239443
+  },
+  {
+    "id": "video_fake_0013_fake",
+    "group": "video_0013",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5095123220442218,
+    "seconds": 0.03510229999665171
+  },
+  {
+    "id": "video_fake_0013_fake",
+    "group": "video_0013",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.5577175587672939,
+    "seconds": 0.031931699995766394
+  },
+  {
+    "id": "video_fake_0013_fake",
+    "group": "video_0013",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.5623324739269339,
+    "seconds": 0.035746499997912906
+  },
+  {
+    "id": "video_fake_0013_fake",
+    "group": "video_0013",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6846620953105623,
+    "seconds": 0.04206819999672007
+  },
+  {
+    "id": "video_fake_0020_fake",
+    "group": "video_0020",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5242795924264845,
+    "seconds": 0.03484480000042822
+  },
+  {
+    "id": "video_fake_0020_fake",
+    "group": "video_0020",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5206953361658653,
+    "seconds": 0.039692100006504916
+  },
+  {
+    "id": "video_fake_0020_fake",
+    "group": "video_0020",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6045710626506702,
+    "seconds": 0.0407645999948727
+  },
+  {
+    "id": "video_fake_0020_fake",
+    "group": "video_0020",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.5819748601833301,
+    "seconds": 0.03839519999746699
+  },
+  {
+    "id": "video_fake_0020_fake",
+    "group": "video_0020",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6955918192452055,
+    "seconds": 0.04640580000705086
+  },
+  {
+    "id": "video_fake_0025_fake",
+    "group": "video_0025",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7158106185809118,
+    "seconds": 0.03441339998971671
+  },
+  {
+    "id": "video_fake_0025_fake",
+    "group": "video_0025",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7119191638582958,
+    "seconds": 0.037365500000305474
+  },
+  {
+    "id": "video_fake_0025_fake",
+    "group": "video_0025",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7696569990251818,
+    "seconds": 0.03666869999142364
+  },
+  {
+    "id": "video_fake_0025_fake",
+    "group": "video_0025",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7542076653019266,
+    "seconds": 0.03569479999714531
+  },
+  {
+    "id": "video_fake_0025_fake",
+    "group": "video_0025",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8093147986211604,
+    "seconds": 0.034159999995608814
+  },
+  {
+    "id": "video_fake_0026_fake",
+    "group": "video_0026",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6854502069469989,
+    "seconds": 0.03787240000383463
+  },
+  {
+    "id": "video_fake_0026_fake",
+    "group": "video_0026",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.666714747533997,
+    "seconds": 0.03785520000383258
+  },
+  {
+    "id": "video_fake_0026_fake",
+    "group": "video_0026",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7244165755220404,
+    "seconds": 0.03245119999337476
+  },
+  {
+    "id": "video_fake_0026_fake",
+    "group": "video_0026",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7156183309551,
+    "seconds": 0.03806809999514371
+  },
+  {
+    "id": "video_fake_0026_fake",
+    "group": "video_0026",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.7880267390108056,
+    "seconds": 0.03290469999774359
+  },
+  {
+    "id": "video_fake_0028_fake",
+    "group": "video_0028",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5293419406709502,
+    "seconds": 0.026523699998506345
+  },
+  {
+    "id": "video_fake_0028_fake",
+    "group": "video_0028",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5560940836388462,
+    "seconds": 0.02817710000090301
+  },
+  {
+    "id": "video_fake_0028_fake",
+    "group": "video_0028",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7695685726252707,
+    "seconds": 0.02817420000792481
+  },
+  {
+    "id": "video_fake_0028_fake",
+    "group": "video_0028",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7072841530062064,
+    "seconds": 0.025773100001970306
+  },
+  {
+    "id": "video_fake_0028_fake",
+    "group": "video_0028",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6811800294311402,
+    "seconds": 0.025727600004756823
+  },
+  {
+    "id": "video_fake_0036_fake",
+    "group": "video_0036",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.8305821442346379,
+    "seconds": 0.025439100005314685
+  },
+  {
+    "id": "video_fake_0036_fake",
+    "group": "video_0036",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.8089430137491392,
+    "seconds": 0.02701550000347197
+  },
+  {
+    "id": "video_fake_0036_fake",
+    "group": "video_0036",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.9216351119720754,
+    "seconds": 0.02136850000533741
+  },
+  {
+    "id": "video_fake_0036_fake",
+    "group": "video_0036",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.9021760510363613,
+    "seconds": 0.025185100006638095
+  },
+  {
+    "id": "video_fake_0036_fake",
+    "group": "video_0036",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.89013913372622,
+    "seconds": 0.02534350000496488
+  },
+  {
+    "id": "video_fake_0043_fake",
+    "condition": "decode",
+    "level": 0,
+    "error": "采样帧中未检测到人脸，不能进行人脸伪造评估"
+  },
+  {
+    "id": "video_fake_0045_fake",
+    "group": "video_0045",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.48895540860260683,
+    "seconds": 0.038495000000693835
+  },
+  {
+    "id": "video_fake_0045_fake",
+    "group": "video_0045",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.45118518364457827,
+    "seconds": 0.03638360000331886
+  },
+  {
+    "id": "video_fake_0045_fake",
+    "group": "video_0045",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7512527211932594,
+    "seconds": 0.02987659999052994
+  },
+  {
+    "id": "video_fake_0045_fake",
+    "group": "video_0045",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6858555132542646,
+    "seconds": 0.034507999997003935
+  },
+  {
+    "id": "video_fake_0045_fake",
+    "group": "video_0045",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6636817900838243,
+    "seconds": 0.037725300004240125
+  },
+  {
+    "id": "video_fake_0048_fake",
+    "group": "video_0048",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5469407164892748,
+    "seconds": 0.03556249999382999
+  },
+  {
+    "id": "video_fake_0048_fake",
+    "group": "video_0048",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5455725661098927,
+    "seconds": 0.038700899996911176
+  },
+  {
+    "id": "video_fake_0048_fake",
+    "group": "video_0048",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7125763583160597,
+    "seconds": 0.033171500006574206
+  },
+  {
+    "id": "video_fake_0048_fake",
+    "group": "video_0048",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.661166673781153,
+    "seconds": 0.02806510000664275
+  },
+  {
+    "id": "video_fake_0048_fake",
+    "group": "video_0048",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6842738051885849,
+    "seconds": 0.030790199991315603
+  }
+]

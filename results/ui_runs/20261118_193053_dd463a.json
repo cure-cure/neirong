@@ -1,0 +1,33 @@
+{
+  "modality": "image",
+  "method": "baseline",
+  "judgement": "存疑",
+  "binary_prediction": 1,
+  "fake_probability": 0.5978101983200059,
+  "confidence": 0.5978101983200059,
+  "confidence_note": "验证集校准后的估计；小样本、跨域条件下不保证可靠",
+  "authenticity_score": 0.4021898016799941,
+  "risk": "中",
+  "components": {
+    "baseline": {
+      "raw": -0.16343404438774606,
+      "fake_probability": 0.5978101983200059
+    }
+  },
+  "details": {},
+  "seconds": 0.013003000000026077,
+  "limitations": [
+    "来源／生成检测不等于事实核查",
+    "证据可视化仅表示模型线索，不构成篡改定位真值"
+  ],
+  "run_id": "20261118_193053_dd463a",
+  "source": "C:\\Users\\17503\\AppData\\Local\\Temp\\gradio\\8b0dfad1726638139ae257bd3d303671170870c64bbe41666e75e1e7f7211366\\n01440764_10342.JPEG",
+  "process": [
+    "输入质量检查",
+    "模态预处理",
+    "基础特征／论文模型推理",
+    "验证集概率校准",
+    "方法融合与冲突检查",
+    "四层评估输出"
+  ]
+}

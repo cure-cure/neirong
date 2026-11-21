@@ -1,0 +1,30 @@
+{
+  "modality": "audio",
+  "method": "baseline",
+  "metrics": {
+    "n": 358,
+    "accuracy": 0.835195530726257,
+    "precision": 0.9389312977099237,
+    "recall": 0.7068965517241379,
+    "f1": 0.8065573770491803,
+    "fpr": 0.043478260869565216,
+    "fnr": 0.29310344827586204,
+    "confusion_matrix": [
+      [
+        176,
+        8
+      ],
+      [
+        51,
+        123
+      ]
+    ],
+    "roc_auc": 0.933252123938031,
+    "pr_auc": 0.9101089255098788,
+    "brier": 0.1358418733171452,
+    "ece": 0.09566446013854078
+  },
+  "coverage": 1.0,
+  "scope": "frozen course training/calibration; audio same-corpus extension, text source shift",
+  "errors": []
+}

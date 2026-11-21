@@ -26,6 +26,8 @@ if __name__=='__main__':
     paths=[ROOT/'app.py',ROOT/'requirements.txt']+list((ROOT/'src').glob('*.py'))+list((ROOT/'scripts').glob('*.py'))+list((ROOT/'tests').glob('*.py'))
     dump('results/code_manifest.json',{p.relative_to(ROOT).as_posix():digest(p) for p in paths})
     all_rows=read('data/manifest.json')+read('data/external_manifest.json')+read('data/text_selection_manifest.json')
+    if (ROOT/'data/external_visual_manifest.json').exists():
+        all_rows+=read('data/external_visual_manifest.json')
     hashes=[r['sha256'] for r in all_rows];assert len(hashes)==len(set(hashes))
     for row in all_rows:assert digest(ROOT/row['path'])==row['sha256']
     ui=read('results/ui_verification.json') if (ROOT/'results/ui_verification.json').exists() else {}
@@ -37,7 +39,7 @@ if __name__=='__main__':
                 attack_files=[p.name for p in (ROOT/'results').glob('attacks_*_summary.json')],
                 limitations=['Visual UI inspection unavailable because computer-use kernel failed; API verification is separate.',
                 'Image/video attacks are model-input/crop-level; inspect each profile summary for actual sample count and coverage.',
-                'No external image/video corpus acquired; main visual results use course subsets.',
+                'CIFAKE external images are 32x32 and cover one generator; no external video corpus acquired.',
                 'No adversarial training performed; smoothing defense and adaptive attacks evaluated.'])
     status['ordinary_robustness_records']=sum(len(read(p)) for p in (ROOT/'results').glob('robustness_*.json') if not p.name.endswith('_summary.json'))
     status['adversarial_records']=sum(len(read(p)) for p in (ROOT/'results').glob('attacks_*.json') if not p.name.endswith(('_summary.json','_failures.json')))

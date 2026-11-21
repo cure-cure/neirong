@@ -1,0 +1,63 @@
+{
+  "modality": "image",
+  "method": "paper",
+  "requested_method": "selected",
+  "selection_reason": "paper has selection score 0.7980; criterion=balanced_accuracy. Paper methods are retained as comparisons even when baseline is deployed.",
+  "judgement": "存疑",
+  "binary_prediction": 0,
+  "fake_probability": 0.4849660935906824,
+  "confidence": 0.5150339064093177,
+  "confidence_note": "验证集校准后的估计；小样本、跨域条件下不保证可靠",
+  "authenticity_score": 0.5150339064093177,
+  "risk": "中",
+  "components": {
+    "paper": {
+      "raw": -3.4783544540405273,
+      "fake_probability": 0.4849660935906824,
+      "description": "UnivFD CVPR2023; official CLIP ViT-L/14 + official ProGAN-trained linear head; adapted CLIP resize-shorter-side224 + center crop (official repository validation uses center-crop-only).",
+      "calibration": {
+        "slope": 0.38098939438947016,
+        "intercept": 1.265062399103643,
+        "n": 20,
+        "method": "positive-slope logistic calibration on validation only",
+        "success": true
+      }
+    }
+  },
+  "details": {},
+  "quality_warnings": [],
+  "seconds": 8.332903300004546,
+  "limitations": [
+    "来源／生成检测不等于事实核查",
+    "证据可视化仅表示模型线索，不构成篡改定位真值"
+  ],
+  "run_id": "20261118_201700_cf0e17",
+  "source": "C:\\Users\\17503\\AppData\\Local\\Temp\\gradio\\8b0dfad1726638139ae257bd3d303671170870c64bbe41666e75e1e7f7211366\\n01440764_10342.JPEG",
+  "input_sha256": "d25cf952440a1331af29dc7b566c42a2c58fb6b3ce171f57bd52c761d3d05ed5",
+  "evidence_files": [
+    {
+      "path": "results/ui_runs/20261118_201700_cf0e17/evidence.png",
+      "caption": "特征／检测过程图"
+    },
+    {
+      "path": "results/ui_runs/20261118_201700_cf0e17/image_0.png",
+      "caption": "原始图像"
+    },
+    {
+      "path": "results/ui_runs/20261118_201700_cf0e17/image_1.png",
+      "caption": "实际224×224模型输入"
+    },
+    {
+      "path": "results/ui_runs/20261118_201700_cf0e17/image_2.png",
+      "caption": "输入梯度敏感度；不是真实篡改区域"
+    }
+  ],
+  "process": [
+    "输入质量检查",
+    "模态预处理",
+    "基础特征／论文模型推理",
+    "验证集概率校准",
+    "方法融合与冲突检查",
+    "四层评估输出"
+  ]
+}

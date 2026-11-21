@@ -36,3 +36,4 @@ def evidence(modality,value,result,model=None):
         axes[1].imshow(value[0]['face']);axes[1].axis('off');axes[1].set_title('First detected face crop')
         gallery=[(f['face'],f'{f["seconds"]:.2f}s / frame {f["index"]}') for f in value if f['seconds'] is not None]
     fig.tight_layout();return fig,gallery
+

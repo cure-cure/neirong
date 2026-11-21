@@ -1,0 +1,2102 @@
+[
+  {
+    "path": "data/raw/course/图像/从GenImage数据集中节选，感兴趣可以到其GitHub页面下载完整数据集.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2F%E4%BB%8EGenImage%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%AD%E8%8A%82%E9%80%89%EF%BC%8C%E6%84%9F%E5%85%B4%E8%B6%A3%E5%8F%AF%E4%BB%A5%E5%88%B0%E5%85%B6GitHub%E9%A1%B5%E9%9D%A2%E4%B8%8B%E8%BD%BD%E5%AE%8C%E6%95%B4%E6%95%B0%E6%8D%AE%E9%9B%86.txt"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_00_044_vqdm_00155.png",
+    "bytes": 132108,
+    "sha256": "33130c815554ba9c32e99f716bd64abc547c07e13469e63f169e071d917bbe82",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_00_044_vqdm_00155.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_00_063_vqdm_00040.png",
+    "bytes": 99779,
+    "sha256": "e8ff32f7b8be02c2f7d4b0ba55f10722e542c22d265a9e4ed3c366c3ab6a8f02",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_00_063_vqdm_00040.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_104_vqdm_00037.png",
+    "bytes": 148692,
+    "sha256": "3e82ab73c14b18591f8aa325a5f270b7776262dee3f56de2c85993e165a88176",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_104_vqdm_00037.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_114_vqdm_00186.png",
+    "bytes": 126901,
+    "sha256": "4437b8abf971e3ff4eaffd42d2ac51826eb739a372f37e49bc003b1b6a483a1c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_114_vqdm_00186.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_128_vqdm_00142.png",
+    "bytes": 59418,
+    "sha256": "e9f2246c177ab4603d3f66e5bd36fd59b17538c36067b1ec59c0dbf118dd04dc",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_128_vqdm_00142.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_130_vqdm_00182.png",
+    "bytes": 102191,
+    "sha256": "eaf31dcbcd96d24e81e1c19bf3f1fafaf59096b512c0a9c4f739daebe4af3220",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_130_vqdm_00182.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_136_vqdm_00136.png",
+    "bytes": 168667,
+    "sha256": "6f09769f80f25b6985ad2e02ada5f7fccbda944e7bf155ff131a328b37f467b5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_136_vqdm_00136.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_173_vqdm_00153.png",
+    "bytes": 128427,
+    "sha256": "9c33ef07752211f39072b76da6de39a0533d37eb8d7ade11b219f73fab15d4fe",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_173_vqdm_00153.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_184_vqdm_00142.png",
+    "bytes": 148230,
+    "sha256": "24fa258926c7f4d62c35897d354472b0496900daf50857e79aea7225eda9196b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_184_vqdm_00142.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_01_189_vqdm_00190.png",
+    "bytes": 94116,
+    "sha256": "b53c74ca2ba6b4d2253a1a3585e3b6a4e996a82367a6234e414f70f9809a7017",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_01_189_vqdm_00190.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_02_214_vqdm_00081.png",
+    "bytes": 147175,
+    "sha256": "97e6ad85191d61f5b97f203f0b36529b009d277a1c6e8973a267f5a2d219dc22",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_02_214_vqdm_00081.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_02_290_vqdm_00042.png",
+    "bytes": 122595,
+    "sha256": "f318de8649f61e7984784fb212f0e6d3610f248435c477a834a787511f6da247",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_02_290_vqdm_00042.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_03_319_vqdm_00007.png",
+    "bytes": 92490,
+    "sha256": "23e5dc404c0504f781444542159a9134fb1335b9c6d7684bbfacb4cabac22755",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_03_319_vqdm_00007.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_03_332_vqdm_00047.png",
+    "bytes": 92684,
+    "sha256": "b505e231c08e70e628f262e3e8565ccc983407a988bc5da1ca5606ee7926007b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_03_332_vqdm_00047.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_03_366_vqdm_00076.png",
+    "bytes": 127386,
+    "sha256": "76adfbd54048682953fbd1c0c91567f9f96f7cbbcd2baefb082ead2fd3cbb69f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_03_366_vqdm_00076.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_03_370_vqdm_00001.png",
+    "bytes": 146877,
+    "sha256": "9e3b04ef32c9b4aec2d4d1abcfb64aa72562bd3bfad44093f8bb44359582097a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_03_370_vqdm_00001.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_430_vqdm_00048.png",
+    "bytes": 126619,
+    "sha256": "5a14bd4e45f164504caa0f70b222fc9460eb4fedddd323302647009e42ca201c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_430_vqdm_00048.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_435_vqdm_00190.png",
+    "bytes": 69307,
+    "sha256": "eddd210bbe7a77aeb0bcd4d7a4ba3c506b3e44f2e41c360780a467ce5a16fc1c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_435_vqdm_00190.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_447_vqdm_00089.png",
+    "bytes": 79473,
+    "sha256": "d49208890585f1dff29af5b4de9e6b51771861555a3cba478172ec4cf7e903b2",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_447_vqdm_00089.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_449_vqdm_00046.png",
+    "bytes": 135744,
+    "sha256": "1ebcf48ca46cdf08c312311fc6cf56d0902ed5b43c73e4752d3f440b774d523d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_449_vqdm_00046.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_460_vqdm_00049.png",
+    "bytes": 96890,
+    "sha256": "a807ca6bf1ab9ad6e1e000640faae241e04f29d2dbdbf0424b3c2da358b40b42",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_460_vqdm_00049.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_463_vqdm_00119.png",
+    "bytes": 95268,
+    "sha256": "c941f148ffd796d243668c15654d1058c26c3a13598d4408e3a2ebc570655ee6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_463_vqdm_00119.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_04_495_vqdm_00006.png",
+    "bytes": 106336,
+    "sha256": "508761e4301914818edc3930db077b02ce61cf6c82a931970ad65462a20b8c40",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_04_495_vqdm_00006.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_05_517_vqdm_00167.png",
+    "bytes": 124543,
+    "sha256": "3006181a79764169e81e6fce7314572edde236f6fc2f749214a6c883365b9b74",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_05_517_vqdm_00167.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_05_564_vqdm_00081.png",
+    "bytes": 94199,
+    "sha256": "00800cb6d76327ef445f6c0d75ccf50e4ef2a3f563e338cb574506103f76b871",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_05_564_vqdm_00081.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_05_565_vqdm_00056.png",
+    "bytes": 138604,
+    "sha256": "e4a8e28d1ea7bd85e65078b20b4648d98dbd6fd3091847090c29014b7c5a69c9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_05_565_vqdm_00056.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_05_579_vqdm_00173.png",
+    "bytes": 102224,
+    "sha256": "9c57dfc5ab51b2c8831fab9852a44490a93bff9befcf05aac7045700557e2e74",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_05_579_vqdm_00173.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_05_580_vqdm_00036.png",
+    "bytes": 141424,
+    "sha256": "574b218144af9b28ef4c1e6d787b4217f5f3be69741cdd59e4cec8f9d07eea2b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_05_580_vqdm_00036.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_06_658_vqdm_00101.png",
+    "bytes": 136005,
+    "sha256": "733210195b52d0067d66b061fc746c0bcdca96b1f658d329ea66f1ac2f2e1038",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_06_658_vqdm_00101.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_06_659_vqdm_00144.png",
+    "bytes": 97677,
+    "sha256": "5062a62a473d06c9241527de433ae0f51cfd9d1eb198189f8e680d00b4555436",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_06_659_vqdm_00144.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_06_660_vqdm_00186.png",
+    "bytes": 104849,
+    "sha256": "d2368d5a11a8131436a59a664bb4c5a0c8c67219a83a2569c65ff7600577320b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_06_660_vqdm_00186.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_06_663_vqdm_00149.png",
+    "bytes": 86081,
+    "sha256": "ad0e4a9d207231e3446534813e4346a5db9d5a975a369469cf5a9b4285bb81fe",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_06_663_vqdm_00149.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_06_672_vqdm_00013.png",
+    "bytes": 119075,
+    "sha256": "0d002dcdf7f474c8908ba8eb4dcfd4bc3f2d3428eb56649cb210d6488df800d9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_06_672_vqdm_00013.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_06_680_vqdm_00155.png",
+    "bytes": 64206,
+    "sha256": "c03ef35a8810737761f1ec975a520d1699f3d54643aa075d35fd474939e95bff",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_06_680_vqdm_00155.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_07_701_vqdm_00153.png",
+    "bytes": 107314,
+    "sha256": "8ec22439df1a7f7653b5a409557316d1c4986039108cd8e5a33e2fdef81eb18a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_07_701_vqdm_00153.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_07_706_vqdm_00013.png",
+    "bytes": 118665,
+    "sha256": "1f181b840f2aa4f4519553e4dce9a13286d77a7e9e946c6d50d13900ece9a1e6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_07_706_vqdm_00013.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_801_vqdm_00043.png",
+    "bytes": 95924,
+    "sha256": "e0605a8f85de5f99bdab789547c446d9b1a0a104dfd32a0b1290a945db49c87c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_801_vqdm_00043.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_805_vqdm_00096.png",
+    "bytes": 72904,
+    "sha256": "c6f93ac8e2d072fb820eb299bd1f5ddf073c9be5884de46323d14f12804e3a65",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_805_vqdm_00096.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_821_vqdm_00013.png",
+    "bytes": 109651,
+    "sha256": "9e0930e20e11047a4914ae3f82eb8c3470508b94775e63618dd966b4ed9cd3dd",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_821_vqdm_00013.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_830_vqdm_00045.png",
+    "bytes": 124926,
+    "sha256": "0c6f9f873a5d162fd1633b0b36982a50e3b27eff15e084df577f3438255f7e8a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_830_vqdm_00045.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_842_vqdm_00176.png",
+    "bytes": 122102,
+    "sha256": "730f93cff9a7fb29199b6968a85b58f24ae9c9d046d13b7ec6583c1f844e821c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_842_vqdm_00176.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_863_vqdm_00054.png",
+    "bytes": 161908,
+    "sha256": "c64cf9a73f83c6c79914ee93552d9b06e80fc5845d99a42ac06217bd81554844",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_863_vqdm_00054.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_865_vqdm_00018.png",
+    "bytes": 159690,
+    "sha256": "a41e53ea38498571e50dfb459f06de14f31b77ae0ab43dd0792120087b7e1cf3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_865_vqdm_00018.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_08_873_vqdm_00145.png",
+    "bytes": 106939,
+    "sha256": "3389d72c5bd62813661da73e0eaa3f67a34327f3c4cb19d5b6a33405984a3bc7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_08_873_vqdm_00145.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_09_945_vqdm_00053.png",
+    "bytes": 88239,
+    "sha256": "fbbdd92637570d9502e9e0874f4ef9a110f3e6460294b7651ef91dab934b6bda",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_09_945_vqdm_00053.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_09_959_vqdm_00057.png",
+    "bytes": 137329,
+    "sha256": "58b081e48f296494a46ee546077e82027586a7fcb392c548375fec41125d8968",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_09_959_vqdm_00057.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_09_975_vqdm_00179.png",
+    "bytes": 117253,
+    "sha256": "1673a905d87d629188302f8506c8dc59c7ec70b6a1b84854296933996589a2a4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_09_975_vqdm_00179.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_09_983_vqdm_00079.png",
+    "bytes": 107581,
+    "sha256": "6531d9c7150067741de5a0f15604d729a9aa09e0a49b02c9a993542711dca308",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_09_983_vqdm_00079.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_09_992_vqdm_00111.png",
+    "bytes": 120765,
+    "sha256": "304226a5a2a6a8734c2e37966dc4d636a41c7a0ed40b13642021e4835b7c026e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_09_992_vqdm_00111.png"
+  },
+  {
+    "path": "data/raw/course/图像/fake/VQDM_1000_200_09_994_vqdm_00073.png",
+    "bytes": 169621,
+    "sha256": "0f0b3d39f2c59a04d527275151355a923847a13039a4c83d58d64500a9252a37",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Ffake%2FVQDM_1000_200_09_994_vqdm_00073.png"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01440764_10342.JPEG",
+    "bytes": 110973,
+    "sha256": "d25cf952440a1331af29dc7b566c42a2c58fb6b3ce171f57bd52c761d3d05ed5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01440764_10342.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01484850_21350.JPEG",
+    "bytes": 117140,
+    "sha256": "3fe4da1b30f041f476e83b53fe1bd8d146b757c1b1edf1bb585b6e3a70e1b478",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01484850_21350.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01532829_2492.JPEG",
+    "bytes": 154924,
+    "sha256": "39f8d8d695ef42c7e3fce7f47541cfd6a82c66df2c335e06bbcd3680d85ee70e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01532829_2492.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01537544_21882.JPEG",
+    "bytes": 157146,
+    "sha256": "6ca62aabc9d524cbfccb6991f0262cd4a9e3bce7e5fe0f480a6efe2857e186f4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01537544_21882.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01644900_13175.JPEG",
+    "bytes": 78495,
+    "sha256": "be6173d1b8c7f14c2f565a15373f9da039d1219e389440671a495ed9eb8fbdc9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01644900_13175.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01742172_16757.JPEG",
+    "bytes": 135340,
+    "sha256": "087492476b35afcbece1f59d12e23e42bab7cd3353db84687ea8cef30a6f8210",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01742172_16757.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01774384_2466.JPEG",
+    "bytes": 80582,
+    "sha256": "cedc0dfcc3b326e8dbdfb5412838b6958bfe7e18372802ca9909e6a558caab36",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01774384_2466.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01917289_3934.JPEG",
+    "bytes": 116631,
+    "sha256": "b47ea06b804c5ddeaed8a028e8d1847285fcd3f0303bf32a17fe9f1d715bbfaf",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01917289_3934.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01950731_16572.JPEG",
+    "bytes": 129869,
+    "sha256": "2c8c53b9fdbb10df1bf1abcbddbb6c1fbd154bc9063d22ad1eac0d07cc2add0c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01950731_16572.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01978455_7675.JPEG",
+    "bytes": 315907,
+    "sha256": "8b3f1af64c8aa57eadb66efea0d3335dfa3759852f22aa655096babcc756ebba",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01978455_7675.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n01980166_7583.JPEG",
+    "bytes": 75478,
+    "sha256": "771a3f28b213cf7f81c2420d40338792a9dd6c45b65d8f5d93b422244789d519",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn01980166_7583.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02025239_7551.JPEG",
+    "bytes": 153076,
+    "sha256": "e6c2e79a06c06f06d5676f055e45ecbf21ede854a39c96426a2de4eadb225aeb",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02025239_7551.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02093256_3863.JPEG",
+    "bytes": 168062,
+    "sha256": "8082cc635fe37ec83d34d0fb5d930c5815465debdf39f10a41e62156609247fd",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02093256_3863.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02108089_4681.JPEG",
+    "bytes": 15678,
+    "sha256": "f02347ad388fe14233c66c760e40fc45e11f4a9d11958bbb332816cde3bf5654",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02108089_4681.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02326432_6140.JPEG",
+    "bytes": 184828,
+    "sha256": "228367a4482b257874859f96e592ea5932f0b0f8d383460ac07c32a747688f66",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02326432_6140.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02363005_19483.JPEG",
+    "bytes": 158052,
+    "sha256": "761b8a30aa37ae73aca5e04dccf17c1fd327dbd91c8c010c9139fc3fc40af53b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02363005_19483.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02444819_5240.JPEG",
+    "bytes": 126451,
+    "sha256": "379214caff5e263e488ece42e949738d86e502f6267482f531a95fd96365bf82",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02444819_5240.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02484975_1229.JPEG",
+    "bytes": 35663,
+    "sha256": "48937c5bc401d839bf9f0d32d05c07dc3d557c5eeec571bd5e69f5c9f02d1eb5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02484975_1229.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02488291_1955.JPEG",
+    "bytes": 68187,
+    "sha256": "84af01649686b17e539409420e1f444988e2f59dada9b0782a41b24bd42ba8d3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02488291_1955.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02493509_1857.JPEG",
+    "bytes": 21210,
+    "sha256": "7ff90c9e854aab9d97e479f6cf214c4b67d6327248cb5a2ad77311dce6f51ed7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02493509_1857.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02504458_12945.JPEG",
+    "bytes": 185543,
+    "sha256": "67f344df506c64b5dd9ccc646477ed9012c27e6f89ba2ed4c9abf193a5ac196e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02504458_12945.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02514041_12137.JPEG",
+    "bytes": 76238,
+    "sha256": "a056b2094a8a37859fa9545cf83a53af5835a911731253c8e2d96af3a34c76fb",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02514041_12137.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02672831_5662.JPEG",
+    "bytes": 86156,
+    "sha256": "6a4686f85de519f371d2bba4f999cb3386b45de536fc5fbdf6fc8b68a9a0adc1",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02672831_5662.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02791124_5992.JPEG",
+    "bytes": 14849,
+    "sha256": "a49c1792ebf16f725153d284b2897ea21de827ef88db9f26fa748cf4d2c151bb",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02791124_5992.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02817516_5607.JPEG",
+    "bytes": 25380,
+    "sha256": "ba95b76d34ab5af39605f277bd0e05237784e127428f1d770aa7aa20e86ba2ff",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02817516_5607.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n02892201_2326.JPEG",
+    "bytes": 92388,
+    "sha256": "28e43ca10d0ddb3de6b3e45e01381e8ac05d401d0cd20156355b48e9fbab5795",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn02892201_2326.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03016953_8593.JPEG",
+    "bytes": 4459,
+    "sha256": "3f87b59eb7e65a53c5d98d7bbf5436ccfc42415d74b855b355e8c960d5fd4856",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03016953_8593.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03100240_5169.JPEG",
+    "bytes": 66932,
+    "sha256": "d289a14c11b90a2ca6f5320dbad1b3bf9aad00b5e7d107b99d1d7554e9fcf975",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03100240_5169.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03141823_15989.JPEG",
+    "bytes": 157340,
+    "sha256": "e7468f12abacbe264282c765b6625ebe598d21a063f9accb344d97fd6b9f699e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03141823_15989.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03347037_14490.JPEG",
+    "bytes": 42223,
+    "sha256": "3300e347a98a7d6f9c45210c67235e29d3d9d28e37feef446096e0946823940d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03347037_14490.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03457902_13855.JPEG",
+    "bytes": 107160,
+    "sha256": "cbbf14dc81bc94906b7f2e4de5151feb16c64049ab2c10914c9bd45adace8be7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03457902_13855.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03532672_22076.JPEG",
+    "bytes": 35733,
+    "sha256": "3e5431b6bc5c7afad2a68e9a47e70e08ced8166ee011a22a611c4c99bdf3d8f0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03532672_22076.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03777568_8428.JPEG",
+    "bytes": 159614,
+    "sha256": "2a3306992b187cdb4eee82836f1bc047fb62b00b6f2d25e9262d09e44599974f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03777568_8428.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03838899_35691.JPEG",
+    "bytes": 170734,
+    "sha256": "603ee2c0c1612beb64b9a1ef471d73b985356d75ef41a6ca2e134503ac10d586",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03838899_35691.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03888605_8471.JPEG",
+    "bytes": 134202,
+    "sha256": "1cda68614a46ca0e7e9b3389d8f77e29ad3f1914d5bf82e361b25e7fb3b81d46",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03888605_8471.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n03976467_6635.JPEG",
+    "bytes": 121694,
+    "sha256": "1b4e48daf507f7bcdb3fb9e79ad589521daa97c11c598d467ec750009c283e7d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn03976467_6635.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04081281_103954.JPEG",
+    "bytes": 203145,
+    "sha256": "acdec18c3c5112cce9a55272b377649dfee368522c3bba98c6d6895b5ad16f1d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04081281_103954.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04152593_75924.JPEG",
+    "bytes": 94001,
+    "sha256": "d0779208ca3517e28a592e4e3083c4d757037c6a651eeaf5be13c2e90cb7ff7e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04152593_75924.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04263257_10800.JPEG",
+    "bytes": 117757,
+    "sha256": "f78b21abf7c6ee96d85a83f9c2a5138850a1ac3728bcd2c5124652626da90d2b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04263257_10800.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04266014_3189.JPEG",
+    "bytes": 104085,
+    "sha256": "fe49263f28801f9ab48051cf77aceb5756c039e94de18836bf45a66d248acf9f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04266014_3189.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04376876_3920.JPEG",
+    "bytes": 109363,
+    "sha256": "379595eba939ff1a6b1904da827facf9c564338dc8dbaa595c5e9049a17307e2",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04376876_3920.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04389033_1309.JPEG",
+    "bytes": 76387,
+    "sha256": "b5c7a05e780fa193c0b8afb7e1e7a550b4552588d1b2af2dfc7baad78e337656",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04389033_1309.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04429376_21459.JPEG",
+    "bytes": 15545,
+    "sha256": "9352f477da58724bcb9085207fbfa48831122a20000c59b78923b4e84ae080bb",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04429376_21459.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04515003_7485.JPEG",
+    "bytes": 33949,
+    "sha256": "3ab6b9de45c09c14e3623c920736744179b915beeb4dfa572d82e1c88e355082",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04515003_7485.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04540053_15298.JPEG",
+    "bytes": 170053,
+    "sha256": "439d506aa5daeec24e1250c9c92b009cd49ac171894492f242ee583d9cc1253e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04540053_15298.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n04592741_15152.JPEG",
+    "bytes": 130742,
+    "sha256": "864ed94b0012eb18e255fd83beb0696ad7c82b6ad77a9526317ab9e0b77a3d56",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn04592741_15152.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n07714571_24391.JPEG",
+    "bytes": 29906,
+    "sha256": "b4982faac67744144c0aeeb4fecd924c8656d24c22257632641c678b7f2cfbfc",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn07714571_24391.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n07716358_24469.JPEG",
+    "bytes": 59329,
+    "sha256": "a7ffb26e37dbebb7a9cc6a58b54bddad83e33479ee147c09a132d4fb31907ee4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn07716358_24469.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n07717556_8902.JPEG",
+    "bytes": 160728,
+    "sha256": "afb8251abf36825f762dcc3b9c842a6bbb0a07b61c27c397743d2eef12810b56",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn07717556_8902.JPEG"
+  },
+  {
+    "path": "data/raw/course/图像/real/n13054560_6904.JPEG",
+    "bytes": 155242,
+    "sha256": "bc3d510a6615cc032fecfd2ead4c9cf22b9a24112d3802185dd11e30b1453952",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E5%9B%BE%E5%83%8F%2Freal%2Fn13054560_6904.JPEG"
+  },
+  {
+    "path": "data/raw/course/文本/从OpenTuringBench数据集中节选(人工文本为手动CV)，感兴趣可以搜索以下载完整数据集.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2F%E4%BB%8EOpenTuringBench%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%AD%E8%8A%82%E9%80%89%28%E4%BA%BA%E5%B7%A5%E6%96%87%E6%9C%AC%E4%B8%BA%E6%89%8B%E5%8A%A8CV%29%EF%BC%8C%E6%84%9F%E5%85%B4%E8%B6%A3%E5%8F%AF%E4%BB%A5%E6%90%9C%E7%B4%A2%E4%BB%A5%E4%B8%8B%E8%BD%BD%E5%AE%8C%E6%95%B4%E6%95%B0%E6%8D%AE%E9%9B%86.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0001.txt",
+    "bytes": 1847,
+    "sha256": "9a2277cb1071a57d391be0977a092197bc91e932f7e4b52d50f3e00b9c20b7b4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0001.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0002.txt",
+    "bytes": 3906,
+    "sha256": "adcc4b0ca3297b9fb080a4592f68e4b0bbd9b5eaf36bc95da231d23d57a4c7f1",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0002.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0003.txt",
+    "bytes": 2159,
+    "sha256": "696e87c49c3d1ecc8d26a51f59e4c5538c1e84d674b4986c949db0df1c14051c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0003.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0004.txt",
+    "bytes": 2194,
+    "sha256": "3e5a2510c2048a93e59483c6bcd41282b9b1e4d974897f5361274d5fa41f09c5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0004.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0005.txt",
+    "bytes": 2100,
+    "sha256": "3fd73d533bb7331b1e05e294fbe57458f296b032cac61710ceaa2791dca25554",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0005.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0006.txt",
+    "bytes": 3688,
+    "sha256": "f3f3d4bc3781548e829ede07ec9732c3f0a31eef7f5461e5dbd2818cd4ed2772",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0006.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0007.txt",
+    "bytes": 2292,
+    "sha256": "b663b7cb26cd33bbcc9788512ba87fdd22be7ba01e405b9c92e82c8b38641046",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0007.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0008.txt",
+    "bytes": 4227,
+    "sha256": "c1559c74e5c509eddf272d03b62b73c848cb736d7d198555c9870d4a10b97a95",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0008.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0009.txt",
+    "bytes": 3966,
+    "sha256": "214cd75dd1f9fa8d0bae68d926ceaad7de11bf147a2675249669c0a3311621ac",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0009.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0010.txt",
+    "bytes": 2436,
+    "sha256": "e87da1cc7c16709c8c20e01b99dc2b8a324977f262c2529398a74dd77f41930b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0010.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0011.txt",
+    "bytes": 2819,
+    "sha256": "5e08ba699e4458f56d08f9458ae7b868c549e8e6803e73b55ca44cdce47c0e50",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0011.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0012.txt",
+    "bytes": 2506,
+    "sha256": "6641640c3cb37e6596bf79a151d98d32c91e88f0db60378ece4df711d84c3432",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0012.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0013.txt",
+    "bytes": 1545,
+    "sha256": "75ee7396e7014d02822f21712c613169f4df4cc80eccf1a66e804027028eb9d3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0013.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0014.txt",
+    "bytes": 3083,
+    "sha256": "a0ad026ec658ce6c682dcdd5b4d141579d5a99503034066fc6f64137647e1bc8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0014.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0015.txt",
+    "bytes": 2717,
+    "sha256": "138d2836f7d20786c8451383531cb32d0ec72256ad930afdf123f8a3a042c0d7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0015.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0016.txt",
+    "bytes": 2809,
+    "sha256": "748731b6dac975a807ffb3ceaf68fa4c3b923feac7bd02905fb70cabc8194483",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0016.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0017.txt",
+    "bytes": 1618,
+    "sha256": "16f4b9b3613e8004e02f3a951af898a292e43c22e19f0e293af90e40cd43bf36",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0017.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0018.txt",
+    "bytes": 4470,
+    "sha256": "fba3bf814390e2af29cd1b428a264fb8bff0fa263b60beee77629c531fcdebe0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0018.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0019.txt",
+    "bytes": 3702,
+    "sha256": "08344209881d7d1a00dc20c41b7187adf5ad490468e88bcab172e2f8e0d92234",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0019.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0020.txt",
+    "bytes": 2295,
+    "sha256": "c49eec0d5e550bdd424b66c2ec3667cdcd08ce16ae36c685b73cd82b7f13442b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0020.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0021.txt",
+    "bytes": 2868,
+    "sha256": "30ed39507cf54c9662a5730d4cc87232a33ea3f4fa0cabc57ecda246df00b29f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0021.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0022.txt",
+    "bytes": 1484,
+    "sha256": "dfa8ac81308a96ed65102560e08a968c24fda2b3ddbca70504aa3a97c9318bf5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0022.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0023.txt",
+    "bytes": 2983,
+    "sha256": "6ae56949483b08f0c31a07e6092e63935db8b067891b5304c52b47b4e1c494fe",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0023.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0024.txt",
+    "bytes": 2046,
+    "sha256": "f9126e0452c5e71ff3a64ff1ca8af985f689a800e2ad75b09b52e982a1b6bdca",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0024.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0025.txt",
+    "bytes": 1562,
+    "sha256": "892e6aeb0fad14eaca4949da736690f6fa23d089a9e9b03beec3b6002452143e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0025.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0026.txt",
+    "bytes": 3845,
+    "sha256": "1d4ae1189ffbcdf3df9a5d2db60cd7fcff4eab9ec4019b90858ce1703aedfd62",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0026.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0027.txt",
+    "bytes": 1627,
+    "sha256": "4aed08c5f28bb48e5519009622e60b28197de47056a9ecd9ef080428611a6e4a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0027.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0028.txt",
+    "bytes": 2868,
+    "sha256": "9c7a18db64d6bdc6b1ef83668b6fae882e71f22b05aaedcf3edd361356a144fa",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0028.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0029.txt",
+    "bytes": 2533,
+    "sha256": "b6073d60ceed66ee08a6d1ab81792c1dd1cf315e4526e178b7c290024ce6135b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0029.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0030.txt",
+    "bytes": 1509,
+    "sha256": "46eb91098f9e36345890422cfc94f63b108e01b60544a9ef1783e5c64cdfb5a8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0030.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0031.txt",
+    "bytes": 2854,
+    "sha256": "fef0e1c19a11589cebaf46cd2f6eeb6562d3d75d6c4984865ec16959e0304f83",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0031.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0032.txt",
+    "bytes": 2963,
+    "sha256": "a566ee49f2d4c13a7681a6fa167d5feea9d3451ee337eaa50233c9230d2621f8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0032.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0033.txt",
+    "bytes": 3154,
+    "sha256": "e61cb2059abe5afbb083172d85415044bf20afb301bfd70db2b56826ccf1beaf",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0033.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0034.txt",
+    "bytes": 3892,
+    "sha256": "acf05031dfd6b0bea1c4f7a81b7acbf01bd5d6417701b738bf8ab2593778c228",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0034.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0035.txt",
+    "bytes": 2260,
+    "sha256": "34aace5ecae112a5c1b524f903a97e268b5b275dfb0a125abdc8df45877c99de",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0035.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0036.txt",
+    "bytes": 1662,
+    "sha256": "548bb6329fcffdb43a499ec36a8c4df9048e0db2e681fd13ce1c62ce24138fe6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0036.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0037.txt",
+    "bytes": 2447,
+    "sha256": "6c347a0cdca45d8276ba7f49ac16f29c75118a825d514804b9549e13caf8845c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0037.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0038.txt",
+    "bytes": 2816,
+    "sha256": "4eb960dd69d193b81404259164e99b1e61e85156c1bb09068dab7f075ed0f6ae",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0038.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0039.txt",
+    "bytes": 2981,
+    "sha256": "165dd01a4cdae411d1a3f26dbf6076f46499a6b53a7a714652c0de3ba3a6af50",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0039.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0040.txt",
+    "bytes": 1793,
+    "sha256": "59ad7ced6f52125799e041ec6428f742cd48fba07ab2e38ec6e89db85b7ebeac",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0040.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0041.txt",
+    "bytes": 3516,
+    "sha256": "b1da78307b850c76e526dd193162523213a0d9dc2695b7c49483614e97ae233b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0041.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0042.txt",
+    "bytes": 2291,
+    "sha256": "e9a07199b75bbea8c2ec47c789ee05a1009a733abf69c8cca179956c84766cb8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0042.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0043.txt",
+    "bytes": 1785,
+    "sha256": "3eac9d266fc3eed31fc8fb7310a8092fee7fc77cb8ca28a1339130bc8b2d7d39",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0043.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0044.txt",
+    "bytes": 5136,
+    "sha256": "cf10aabfddf50fd6d923ad7523663f34fe05823daa590581f14cc799be7e72d3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0044.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0045.txt",
+    "bytes": 1994,
+    "sha256": "ca0265b0ad56b114da1301ee9cf8e581dbb1716c5fa7d1bb683927436e3dbbd8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0045.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0046.txt",
+    "bytes": 2503,
+    "sha256": "b51184eadd1fd4465c6c33e51e6f18f81d245d3f7e10475ba44e066754e4b140",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0046.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0047.txt",
+    "bytes": 3406,
+    "sha256": "3b45ba57657999a5214660ac5d6236ca845e23ed7ad8ecbc01278302d362b6b9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0047.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0048.txt",
+    "bytes": 2703,
+    "sha256": "c1f509ab2b00f63808d174ce564e8b2985a80215bdce64d443de0833bf72cc89",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0048.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0049.txt",
+    "bytes": 1831,
+    "sha256": "2b7b5d6d7793712b3684ce8ff073a11e59ccf05eebee9aa12fd53fdaaf047e88",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0049.txt"
+  },
+  {
+    "path": "data/raw/course/文本/fake/0050.txt",
+    "bytes": 2128,
+    "sha256": "b1f4389abc0b0989f3ea2b7677c2acc6b5edad9477be702c3049b724b6b99f30",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Ffake%2F0050.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0001.txt",
+    "bytes": 4423,
+    "sha256": "13de3fe4b0f2625e635138bd204b26383fa7eff7a99755a62bd91bd1f98de125",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0001.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0002.txt",
+    "bytes": 2140,
+    "sha256": "88b0e1a0b7fc10d33c0e36856c6eaa9a313e2945c3f5751ed25d2f03b8528cb9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0002.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0003.txt",
+    "bytes": 1477,
+    "sha256": "f2efe3bb425cdbe565ed219b7a848ad10a75855441796effa0d0aa8dd1844079",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0003.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0004.txt",
+    "bytes": 2085,
+    "sha256": "4cf74245811cb2ea87dd2f5ee35125ffa3f5ac76b7054c43a6c2b28814771008",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0004.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0005.txt",
+    "bytes": 4261,
+    "sha256": "63ccbb17cc9c48aaf9b1690ac23f3233c23b9f22ee720b7f4283adcd1f3cf174",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0005.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0006.txt",
+    "bytes": 2520,
+    "sha256": "42d349021e301a06c54df49514a018fb6d6ca632d418594b8a7ff64a58a57bfa",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0006.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0007.txt",
+    "bytes": 718,
+    "sha256": "6429df2c4a5719f74063b7e2207b4e2168ac0ddd90a9fcfce810832ebc8a9cc5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0007.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0008.txt",
+    "bytes": 3680,
+    "sha256": "be9f9fa54d5f3f963ef667bdb7bd4fbb1411ddce7ac536c6d091e79588f93efa",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0008.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0009.txt",
+    "bytes": 3105,
+    "sha256": "83ac389915decee29440b4b58eae748f57905f4540415ec768a479462d13b41a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0009.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0010.txt",
+    "bytes": 5850,
+    "sha256": "911e2abf9f975223e502a0c0feefeb1932fa6521f0081c1efcdd8749838d2ad9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0010.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0011.txt",
+    "bytes": 3796,
+    "sha256": "6fb9284bc5f06fe4f419f10d1753085f14d120431df8f9d04dc2e64c7f66cc38",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0011.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0012.txt",
+    "bytes": 743,
+    "sha256": "0103d494344adb73c5b3f508833a6338ac0198133630b69219fbd61c75bed89f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0012.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0013.txt",
+    "bytes": 997,
+    "sha256": "5e164a60f526809ceb2c5b9c91701ecbff4e02f06f9b9ce906b2287282c21651",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0013.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0014.txt",
+    "bytes": 3994,
+    "sha256": "8125438b6034ad75cc1c926457c73aba7b163e2a9f6e73077cb0daf74fa8978f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0014.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0015.txt",
+    "bytes": 2712,
+    "sha256": "f62296d1bd41f1d61f4767dc40c0082fff7a1a78a63960e4c78347389d985046",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0015.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0016.txt",
+    "bytes": 5182,
+    "sha256": "ceda10457a8ba2672780fa1ef178dce98455dbb2c7869b48e8d4e4dfea0f3b99",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0016.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0017.txt",
+    "bytes": 833,
+    "sha256": "e8089175142b6f8f9fd06795b71dd35c07a259a467a2fe75b0846ab2c1265818",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0017.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0018.txt",
+    "bytes": 7816,
+    "sha256": "99372fd30ffd861e6af4eb210341a40822767a3bc637bb4a11acbd0100e5ec8a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0018.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0019.txt",
+    "bytes": 2898,
+    "sha256": "256d0838286f95867163351fe8b560cbda03c9fc43f57ccfbf45ae884d4d602a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0019.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0020.txt",
+    "bytes": 4596,
+    "sha256": "856dde35bde608c92954f58efa5dd8858b47a66f2f335ebad034e1d915da30f4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0020.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0021.txt",
+    "bytes": 4552,
+    "sha256": "5a75bf0578bdfa572efcdf914d7ce89a3ece0b9fa126bbc6763606601d852a4f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0021.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0022.txt",
+    "bytes": 5891,
+    "sha256": "5b9f6c26269edf16d0720c68c9ab8ec69e7ace6752f9f65fc9dfb8dd87ebb646",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0022.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0023.txt",
+    "bytes": 6595,
+    "sha256": "2f6a462976686e38dd011e3e21ff649c7a75cb4457f8b1190623555605109b17",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0023.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0024.txt",
+    "bytes": 853,
+    "sha256": "8971c7be65242355472f1b68d3fa8e71bb6c5bfff441ed3b936ad97b99bf6a46",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0024.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0025.txt",
+    "bytes": 2111,
+    "sha256": "83df03e16fccb96d1e51dd132b99d9dc5a8e7d75fc5499cc7916deea29c30eb7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0025.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0026.txt",
+    "bytes": 5362,
+    "sha256": "b3f415edb9a24be65ac31bdd2948d2d7d1af36fa89f7c846085baf7b71ac1547",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0026.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0027.txt",
+    "bytes": 1032,
+    "sha256": "69e66042790e42c7f027b3c409d994d00217dfb2671c820142192e0cd9701525",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0027.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0028.txt",
+    "bytes": 1345,
+    "sha256": "8e81f39a6ae5f4faba57e33c2c51bfb553396041759cbfca63b9d06f66c75548",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0028.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0029.txt",
+    "bytes": 2028,
+    "sha256": "c642f983120208bb3e3e33fc372ae67950b78940e5bf2e6740c243653d38ff43",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0029.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0030.txt",
+    "bytes": 8731,
+    "sha256": "6b2a59486da874f3071c9397b85d61cbbf8e52a174fb3b95abb8bf8c8c07a4c4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0030.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0031.txt",
+    "bytes": 1490,
+    "sha256": "3c3ddbca5343e8deef171a61a5b16eae82613aaafca4ea6c642a36caf8720316",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0031.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0032.txt",
+    "bytes": 5344,
+    "sha256": "46974c59ce3fedbefd13b559400c68f3c6b83a4968f82143f6fd1e08660eff9d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0032.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0033.txt",
+    "bytes": 2114,
+    "sha256": "e935077e53fabcc61541f50dd1eee63e8754c7bf5aabda2d10cb07863e3f7bb6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0033.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0034.txt",
+    "bytes": 1302,
+    "sha256": "c72400323cebf0cc9de4d9a4749ea32818353802ad0e3ddf4740dbd6dc660345",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0034.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0035.txt",
+    "bytes": 1425,
+    "sha256": "1da55483e9c81f2388a3787ab915f2a6cc7e338f697be0b1e2985de2138ee151",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0035.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0036.txt",
+    "bytes": 6953,
+    "sha256": "69b181ed9c1d9372a44634ce770408e4f56c1097c4191fcdcbebe5d484fc9f33",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0036.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0037.txt",
+    "bytes": 2274,
+    "sha256": "2063d6ff25a182f797f4f872a9ec04f889805fe30a0197e4aedbf5bdc6afaeb1",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0037.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0038.txt",
+    "bytes": 2832,
+    "sha256": "0a43b9ffa3330e5df270c33ac747197527b829b86d8e1e8c7da429e9732a911c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0038.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0039.txt",
+    "bytes": 2021,
+    "sha256": "c2aa7b94e9eedc492f22dbe691f22376ca0e71ba6c0242fb38267218a9ad6383",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0039.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0040.txt",
+    "bytes": 2935,
+    "sha256": "3b084510599b25176c39d414592679fe4314a2c113e1cc98268cde67a5644725",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0040.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0041.txt",
+    "bytes": 2974,
+    "sha256": "d45dd4de82714f7de7f11c45562acb23ae67820ca15ae23dd90a67a68d12bb8b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0041.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0042.txt",
+    "bytes": 3216,
+    "sha256": "2a55238907c4c0b014d5c6aa01d0e4e1af778637332bca82944a3b56be3cf26f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0042.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0043.txt",
+    "bytes": 2580,
+    "sha256": "efa1799f0f551876ced1294167f81e7c53e11e6e283d03a37e8c3ca46ec1dfdc",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0043.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0044.txt",
+    "bytes": 5161,
+    "sha256": "b554995e0e1dd40dc57d4b86aa9b50aedcad78a01e2b324b89e4bb8b9e8c56e4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0044.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0045.txt",
+    "bytes": 2422,
+    "sha256": "b9a80acd811a79b252fd77e4e344626d21fc9319132771742e8c051ff8b5655e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0045.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0046.txt",
+    "bytes": 474,
+    "sha256": "c6a5a321989cabb1af792eb0ffa6e8b2bc1f924299a4ab81ddeb53ffce6d8cb6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0046.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0047.txt",
+    "bytes": 5184,
+    "sha256": "1a7d52ee2cd592daf098f09cdc61189a0b7bf1a2b0e9a460be77aa526ea81671",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0047.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0048.txt",
+    "bytes": 3602,
+    "sha256": "ec0145fbdcfe517e5751aa24460c326b3991aff24d25e7462a5cbe6bd3f112c3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0048.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0049.txt",
+    "bytes": 4091,
+    "sha256": "600648ae98dd93854d3c0961f60ea1724f2fb630056b93415321bad125c4158c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0049.txt"
+  },
+  {
+    "path": "data/raw/course/文本/real/0050.txt",
+    "bytes": 4714,
+    "sha256": "67c6ae83d1a96824475ecba6a3ca6104a22f83feb1ace15d57c31611a3d9d522",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E6%96%87%E6%9C%AC%2Freal%2F0050.txt"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0000_fake.mp4",
+    "bytes": 514688,
+    "sha256": "fb54990be5ca920f9d5b1eba542849eeea3c8f6ad7806071900d6f75386e3f73",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0000_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0001_fake.mp4",
+    "bytes": 613143,
+    "sha256": "dbe1c28fafe22a1c660ba796907cbd4efb75fa480aa930b02c83321b3e0f9c72",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0001_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0002_fake.mp4",
+    "bytes": 604541,
+    "sha256": "24d770bb47ac6e305ac86371c4c49114138c0dd935ee751cabc7b475a7454303",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0002_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0003_fake.mp4",
+    "bytes": 483314,
+    "sha256": "491c4e168e75fdd76a1ecbcb3a74b8568ec65b3606693ef90c27218cd432557e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0003_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0004_fake.mp4",
+    "bytes": 318227,
+    "sha256": "542a42defa20986414d39cc2c1ff4dd8ac15767890e1ec9806f4cc1d2e6cca13",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0004_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0005_fake.mp4",
+    "bytes": 932241,
+    "sha256": "12418141a7d02305a5feb1c2216234fe86f86aebdf8733a53ec8eb066c6f231f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0005_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0006_fake.mp4",
+    "bytes": 459829,
+    "sha256": "4fdac5589c9f873ba0e22994bee8d5b05695df17abc9b9a399e88ba19d2a5e02",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0006_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0007_fake.mp4",
+    "bytes": 559178,
+    "sha256": "ec01b7f4f3f619e21cc76221a47bb85d68031312acf901cde8124563eb00b0e2",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0007_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0008_fake.mp4",
+    "bytes": 1119491,
+    "sha256": "64082eb57458f8e6bcc7ffb13a15c61a994786a4679dbcde5da9180e5e71b130",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0008_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0009_fake.mp4",
+    "bytes": 1062586,
+    "sha256": "c5aae6d19a039bfa44ce9f44cbd668e0f200e84a6346408469697e5e037ad2bc",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0009_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0010_fake.mp4",
+    "bytes": 1218426,
+    "sha256": "ca48aa9d3c0d5408aa52d33d95c41bcc4611eece2d9aa38888bda5e607a1c0e8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0010_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0011_fake.mp4",
+    "bytes": 1747881,
+    "sha256": "6bb3d3fa576ab3b768fe08eed6f9e85f383ba6fbb323f3ddb25f336796db6b80",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0011_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0012_fake.mp4",
+    "bytes": 332682,
+    "sha256": "fee5445dfd1584cb6abd29e5c5359d2abb15acdbb6ebe02a93661e49534897f6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0012_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0013_fake.mp4",
+    "bytes": 1188477,
+    "sha256": "db24dfd962d48f5351d688ce64d8095e70cbfdab7d7cfb3bd37e5b3414051328",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0013_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0014_fake.mp4",
+    "bytes": 516170,
+    "sha256": "a3768ee1e40b6032be6d7755d16298f07ef44497ef1fd6ea9a9a83b94f28289e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0014_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0015_fake.mp4",
+    "bytes": 551869,
+    "sha256": "6704a0d421dbc2867ff2cb8074d242d8446864b62215ef1262580b7777487da0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0015_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0016_fake.mp4",
+    "bytes": 506331,
+    "sha256": "5b0807813414ccf0da360e2dcde901d844be5b85b09f77f06d3c335f8538d06f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0016_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0017_fake.mp4",
+    "bytes": 772126,
+    "sha256": "6887dcdaec868e5909ba14cbda0c70c6c89f9f30919f3623455409332b5754f2",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0017_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0018_fake.mp4",
+    "bytes": 775318,
+    "sha256": "c55d32a97d18f6fe79565b1664f4fd33212eaeafa86ebd413ff7a6d6f2f2623e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0018_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0019_fake.mp4",
+    "bytes": 507377,
+    "sha256": "916f00cf4397ce9eb3aa8d40d6fca44aaac8b83e3544d9002a2dfbebf90681a6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0019_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0020_fake.mp4",
+    "bytes": 352805,
+    "sha256": "9ada26931d0c031bbb16fb00d26438215632f7716a43beeacb7f89d7e1962da8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0020_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0021_fake.mp4",
+    "bytes": 589432,
+    "sha256": "6b82eefd6c4c6742b462d21dba34950731eefeb93b7c3984c6e4d68923adc5e0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0021_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0022_fake.mp4",
+    "bytes": 1427155,
+    "sha256": "fdce6e217bc24ff835036a22fb5a7a25265cd1eeb7cfb5db3891857162f47207",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0022_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0023_fake.mp4",
+    "bytes": 1160261,
+    "sha256": "f7c2a755bd40797772d0e755163fac4bff12ebb157225256e94247aedb699b25",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0023_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0024_fake.mp4",
+    "bytes": 659855,
+    "sha256": "a892aa05f16a3478b0169d8aa914a0610e3fd7949fe563a15cab683965d4ca87",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0024_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0025_fake.mp4",
+    "bytes": 331937,
+    "sha256": "385fcc5dbaea2f6a9f87bca2c9a6b3c942e0d48277b2d032c65d94456851ce95",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0025_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0026_fake.mp4",
+    "bytes": 406857,
+    "sha256": "3ba61959409d14aee1d1393e7aacdcbb63a55dfaec2b171d09eebcbbc3893e4e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0026_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0027_fake.mp4",
+    "bytes": 289294,
+    "sha256": "992832f9262be0c509d237b8974140f3e0307bda458148edc0899a999a062813",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0027_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0028_fake.mp4",
+    "bytes": 282053,
+    "sha256": "80d38209798c0d7fec23b8512954bc7fe45a4e4a8fcbf460e1b6463bc3f7bbff",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0028_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0029_fake.mp4",
+    "bytes": 356808,
+    "sha256": "29fecae7f573a0865eade3e9ce9e61a75d82f4c0b5f43161e267f055856eb84d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0029_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0030_fake.mp4",
+    "bytes": 907917,
+    "sha256": "576296b6eb0a89ea4f2c21c2e633e0b124b1ee89b4b58d768650b78385b145b4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0030_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0031_fake.mp4",
+    "bytes": 537654,
+    "sha256": "ebf9cc660d98d31e2875c7bec94afec41b54ce1c60caab23977af5b080e32f41",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0031_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0032_fake.mp4",
+    "bytes": 910093,
+    "sha256": "416a13930b0b966bc4d0fd621f024fd79a2be998e491d526d78154ca46573e4d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0032_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0033_fake.mp4",
+    "bytes": 520544,
+    "sha256": "a9c66c4f39a294fdd96c5fa86f857d1c7f06f0f3087b729f4ea3a9b9a3326c6b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0033_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0034_fake.mp4",
+    "bytes": 569174,
+    "sha256": "0e48a51e7448da83b1b431483aca3fbef58b75e96f319d31084d9557c70e2e20",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0034_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0035_fake.mp4",
+    "bytes": 241759,
+    "sha256": "d0b82fa2e947346c4f47acd0c50e522f797ac8d05b6573173d557a375a1f38af",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0035_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0036_fake.mp4",
+    "bytes": 217516,
+    "sha256": "a2902aaa6c0a0674f919fec860fe89e697b8fc3e510a212b497d885303ca2840",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0036_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0037_fake.mp4",
+    "bytes": 235752,
+    "sha256": "269fa940f5d1dc1d1de5c40bda7ccab582c37d87fc62f30961c83ee8f9f31ecf",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0037_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0038_fake.mp4",
+    "bytes": 417314,
+    "sha256": "78b176ea5d65737d2af8c4a2b8c8c6c05d8fd93802e5f6627399ef454466ac1b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0038_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0039_fake.mp4",
+    "bytes": 277550,
+    "sha256": "038e42b1dad5e7760c5d32af2e99591dbe05337a0be28cb5c7666a9acbad19e5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0039_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0040_fake.mp4",
+    "bytes": 5430211,
+    "sha256": "9ecd412b748ee452d6b031f94d8631a3951c5bc29d1e88e328a9b9bba3fc7a37",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0040_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0041_fake.mp4",
+    "bytes": 4220707,
+    "sha256": "6d22956d9a86f8352292b668c9e91ec708f27060dd435ea74e41e7537ca9e06e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0041_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0042_fake.mp4",
+    "bytes": 7544960,
+    "sha256": "a238da5d8b8c6120d150cd1116e46fd4e65c2013578373285b85df903eb0cc5e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0042_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0043_fake.mp4",
+    "bytes": 2561873,
+    "sha256": "3bbb122bdede137697089e8aa68c3fcef44966810314c3fa898b91166165ee8c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0043_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0044_fake.mp4",
+    "bytes": 4118564,
+    "sha256": "c8e1f99bed1af3fbc3d0ec8a7850af9100ee6aef5ab0dcd225a6accc9d82f614",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0044_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0045_fake.mp4",
+    "bytes": 6783936,
+    "sha256": "0c48581c6f575ab91fce6857eff9ef7928cbbd50fbe3b279a2a5babce284fb7a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0045_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0046_fake.mp4",
+    "bytes": 2733126,
+    "sha256": "0c9ad32734a194ec48d7ea4636e170b269244a667e523a0f332a938e767be5f1",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0046_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0047_fake.mp4",
+    "bytes": 2509222,
+    "sha256": "a8852a5489557cac7ec173956f9c40d8c2fd719d76b96837deb36ed227b29508",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0047_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/fake/0048_fake.mp4",
+    "bytes": 2559636,
+    "sha256": "775f722650179eee3499be47d9485b378b9ed22677dd24ad5d9e6dd68461da21",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Ffake%2F0048_fake.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0000.mp4",
+    "bytes": 1302594,
+    "sha256": "591126359f6a53d50778ebe84ea8a74af2ff29bf52456f7ea214125dd46f9c67",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0000.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0001.mp4",
+    "bytes": 564289,
+    "sha256": "b7af2d5c4f7a335df17149a62984905b6cf39638bc8e8ee36092114f5c26102a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0001.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0002.mp4",
+    "bytes": 1946569,
+    "sha256": "36c26615c91c23f8647347aea3a900683c5aec812ebc9f078e8bcd1c8c1e08c4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0002.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0003.mp4",
+    "bytes": 1412785,
+    "sha256": "38b64eec8dfdd0db5fca0cc9e6cb8396a699a2fe19c54b9a5d75f30c45f1c23b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0003.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0004.mp4",
+    "bytes": 700612,
+    "sha256": "c7b905017beda179b68b761f6cef4cc9c63c6f4cc7a9520e1520e3a74d9acb4d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0004.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0005.mp4",
+    "bytes": 960101,
+    "sha256": "df9f8d3449c75454d02a91fa1fefd95b9ba59f03fb14a710139a9ffe626854b2",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0005.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0006.mp4",
+    "bytes": 449930,
+    "sha256": "370b98449c811251bee1951d635ddc691cabd3392563a82032bd538ccf756f0e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0006.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0007.mp4",
+    "bytes": 508325,
+    "sha256": "766ae600516deb6db7e21b270d597993fccf59eb5483a5eaa9e62d0d0d853b37",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0007.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0008.mp4",
+    "bytes": 2917197,
+    "sha256": "edaf4edacd4a5cab68d3d85e1dc4d25d66746043d237cb9e6f287762f7c72526",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0008.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0009.mp4",
+    "bytes": 2831541,
+    "sha256": "f3c0b0ebe38401f6efb1671227a494d800a3005e086553f972ac51be793022d8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0009.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0010.mp4",
+    "bytes": 1197361,
+    "sha256": "4e6319f6ac021d93ff31b7f48cac9c430e31f47b301ceec0b04f33d0f499e5a0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0010.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0011.mp4",
+    "bytes": 1734847,
+    "sha256": "2a5365b30d71eb17aa540ce9b7cdc25c37676b7008307bee23c90bb036a71aa4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0011.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0012.mp4",
+    "bytes": 1177255,
+    "sha256": "9044b6ab63c9ac618a4521e39cbdf1906479dfd89c57fe52ece24323b2a08706",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0012.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0013.mp4",
+    "bytes": 3564337,
+    "sha256": "448a16ef6e60c0baa265479f387dd2c9861e072c6e1b482b60eb64ccaba78a31",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0013.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0014.mp4",
+    "bytes": 1875522,
+    "sha256": "cf2ac4f8ecc59d9bbc328374d9073fb44bd56b8e7bcbb11af9869ca36574f204",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0014.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0015.mp4",
+    "bytes": 1965847,
+    "sha256": "8f314a47c552b3bfc75d3fd9f5ff2d9420b04ef59a32e8d2633efd3dd69aa10c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0015.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0016.mp4",
+    "bytes": 448652,
+    "sha256": "144fbfe520dd32d85676288c42fabe31801520226e55a8aa54e1535d5f3146b3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0016.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0017.mp4",
+    "bytes": 1901086,
+    "sha256": "2e202a5af34f5b1c0bc0d0a7354ad5accdd538c236b70248612a645ebd2d56a7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0017.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0018.mp4",
+    "bytes": 721762,
+    "sha256": "afd2656a1bff0657f7dec811433366edb7a57b8da7ad5335da69d61ea3d42870",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0018.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0019.mp4",
+    "bytes": 478137,
+    "sha256": "3c2b4530b698789a499b134abcb06fe4c8b52e6416aeb7d75bb7a63c0e7846d1",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0019.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0020.mp4",
+    "bytes": 1079695,
+    "sha256": "4c758c8e6904740edf0b30a4af557da86856e341db1f90b87dc8a0eb5e31ffcd",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0020.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0021.mp4",
+    "bytes": 1954979,
+    "sha256": "27a0a3f54961e36c8234a52b7107ee97497ae06f6261b7381830271d9ff8c0fb",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0021.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0022.mp4",
+    "bytes": 4837811,
+    "sha256": "1f0449421fc41eac592ebe1eabc9d34b688c786fa58465f9cdeff069dac840c5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0022.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0023.mp4",
+    "bytes": 1147620,
+    "sha256": "a91a12965e7bcbced210960df103ad70c1545a909edc8996b651535428702294",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0023.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0024.mp4",
+    "bytes": 2496841,
+    "sha256": "784d1955b089daa00e8e31bc43e06be22b970fa5a62eb180c7abc9e46f465452",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0024.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0025.mp4",
+    "bytes": 1040614,
+    "sha256": "4128be9a74e2b7278136d0553996254dcd384bcf502a22a08f618bf31808852c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0025.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0026.mp4",
+    "bytes": 1281617,
+    "sha256": "6bd0a87119ac53c8a07dd06e2e9658345a5228589ff5b3bc5cecee975ba6a74c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0026.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0027.mp4",
+    "bytes": 765489,
+    "sha256": "1704889bbf72d9b51ad4afbe5f88066c03628d35f20b2bb95038a948f25108dc",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0027.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0028.mp4",
+    "bytes": 724118,
+    "sha256": "5a8b915e7e9002eb82398f19440d03e988355bcaf3de716bfe56aba17340f485",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0028.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0029.mp4",
+    "bytes": 970147,
+    "sha256": "38ec7124527c6fe1dce6ace5a31f2e08811451ecfdb0ab464ae784dd40f816d7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0029.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0030.mp4",
+    "bytes": 2000196,
+    "sha256": "2e3b7d4ef7151ef93d4ee9e696030f020168298bede459270f096309f3ad5366",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0030.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0031.mp4",
+    "bytes": 1469897,
+    "sha256": "574a92534df01e296c11b939eba9f65e0039e5414d91093bf158fb41f91026b7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0031.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0032.mp4",
+    "bytes": 928466,
+    "sha256": "eab60799b69b9d541e08527d68a155f28ae711f5c1707f421598f11ea8abff39",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0032.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0033.mp4",
+    "bytes": 518303,
+    "sha256": "f3df2f12b43e5f147ca976d70aec1cc57a26110b5502af2619fa5c8285157f00",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0033.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0034.mp4",
+    "bytes": 566359,
+    "sha256": "c039c9621ba3a03ec0668e8fd538bceddf4be71e61aec777fb056c45a7170518",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0034.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0035.mp4",
+    "bytes": 411935,
+    "sha256": "a78ebc7ef28ae0d5f937e7c21bfa06ab54cfb624d23e374daf82de9a61f01c4f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0035.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0036.mp4",
+    "bytes": 721252,
+    "sha256": "8da0fe19c4f3c259d33dc86ad2575542c2a51035ee9485e3fa01b724f762df60",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0036.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0037.mp4",
+    "bytes": 203983,
+    "sha256": "eb3c9f23f4de216203f170efbc8addbd4a1ceeaf1448c78c6859b3d6af23d62a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0037.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0038.mp4",
+    "bytes": 398691,
+    "sha256": "a787c5b273cc5968da56d4ab20287e45a41fec921af677b6ceb0854cf6c88f94",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0038.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0039.mp4",
+    "bytes": 263536,
+    "sha256": "e344be2c84e2721777898dc75e0fda6be088697afe009f68116fdbdbefb0ff05",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0039.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0040.mp4",
+    "bytes": 5394711,
+    "sha256": "a016f789d03933879874b715903d7240c9a7d796415660ebb69b6afdca315103",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0040.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0041.mp4",
+    "bytes": 4175759,
+    "sha256": "76cd365b50cc2cbd65cf068e4abd681a212914f67f73f63106e7d1b692aa77a7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0041.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0042.mp4",
+    "bytes": 7428185,
+    "sha256": "ec1e592c69b4a4237ad9c49fd69a0825b5a87db8b949711526a7f154a79227db",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0042.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0043.mp4",
+    "bytes": 2966184,
+    "sha256": "6f7a724e18eb388f2364fc30f2e3a7325d58360992e3c7029e35478f7c19dfae",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0043.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0044.mp4",
+    "bytes": 3985694,
+    "sha256": "44e1c225ee320175cd98aa514f50717d34c00f9089d169130100754f14231174",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0044.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0045.mp4",
+    "bytes": 6637620,
+    "sha256": "29bc62948edd47f52b8b6a839ca1ff5b083d9a394fea4e610ff384b2951a4bf6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0045.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0046.mp4",
+    "bytes": 2682964,
+    "sha256": "79a6c59a069f2cf654dea9e332df276f38fadc9d7532a7f892032fcb502e90b5",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0046.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0047.mp4",
+    "bytes": 2415318,
+    "sha256": "b25a03f5d98a316810820551ff671e9e5d7f568b77b6a620fe619e2fae194630",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0047.mp4"
+  },
+  {
+    "path": "data/raw/course/视频/real/0048.mp4",
+    "bytes": 2440565,
+    "sha256": "c29d76704aa720de16baaade3e91899f9145ab7b407db9ff0a53b89af576c395",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E8%A7%86%E9%A2%91%2Freal%2F0048.mp4"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0000.wav",
+    "bytes": 115628,
+    "sha256": "d0dcb103399874a64aa371378fdd670ee4b7c2d7015e26e963a406a13a865c34",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0000.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0001.wav",
+    "bytes": 105932,
+    "sha256": "8a29f29d8733e49207dd081e84f0a7ddb1155e568cc04271f614be7f2da39998",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0001.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0002.wav",
+    "bytes": 117772,
+    "sha256": "19e722ffd4d2e9dbb526db55a00de8e75a9cf566f7126103479ca8a81d7cba5b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0002.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0003.wav",
+    "bytes": 114220,
+    "sha256": "5658b4a33bee89f1fbb520998d5ec644aba5c8b2eb09ab7ece36382d3159b24a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0003.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0004.wav",
+    "bytes": 125932,
+    "sha256": "e776c415b2f9804c53807b4623a0900143e41a4c9c4ffd960649888e5d23bc5b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0004.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0005.wav",
+    "bytes": 86252,
+    "sha256": "9981e5fcebd16144af5e746bddc9a6c603c30d0a712d904472e608b817853289",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0005.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0006.wav",
+    "bytes": 105740,
+    "sha256": "b0b34094c086fdc3ff6c62642b9ac82a0c57aa2e97a883247e9a4753042e856a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0006.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0007.wav",
+    "bytes": 82028,
+    "sha256": "d9fc94f2b8f11ec8187b432dce8ba53b9226938fbe48e2759e498e70853340b0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0007.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0008.wav",
+    "bytes": 82092,
+    "sha256": "28463033275057abcb76070b191742ee4fb7cf550aae6ccc32d2004675765e80",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0008.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0009.wav",
+    "bytes": 101228,
+    "sha256": "d07523a9ff25786a91740dc03957bc1652e02a56974481c5631750baa21cfff3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0009.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0010.wav",
+    "bytes": 122412,
+    "sha256": "b274de341cab89aeea4638ba996e61599a8d7215fd7b59977dd06c78c08b8d8b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0010.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0011.wav",
+    "bytes": 83212,
+    "sha256": "5451ebadfb7981457bbbb91ece7d96859b86cc57b83e092dcd3285e53a15fbe4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0011.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0012.wav",
+    "bytes": 131820,
+    "sha256": "e67704a43d2b29fe19c9257a6ec3c80489d0db974f135cc619876e5c0392252b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0012.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0013.wav",
+    "bytes": 136492,
+    "sha256": "b4e28ebae8c2b7e412e85a645a82262cc85ca46c7d12ffbf83f6b031e93dc54b",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0013.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0014.wav",
+    "bytes": 100300,
+    "sha256": "6f604ce8ac0d87290979e5518111b3c202b93c1736ba25a1c5b89f4c1041a629",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0014.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0015.wav",
+    "bytes": 83244,
+    "sha256": "df2bf54063999a599c0edc1e54eef87abade90a588a5dffa2ee364dc4d1fdbe3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0015.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0016.wav",
+    "bytes": 112588,
+    "sha256": "9ff67a2444ff8349a95254e153e5b91af315236300f2dd116967a09671db0ea3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0016.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0017.wav",
+    "bytes": 98444,
+    "sha256": "1b7525676453033271762186c2efd402a3c819cf452f9c6beff141c08ecf8c0f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0017.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0018.wav",
+    "bytes": 129484,
+    "sha256": "8400373cf0293136508d9acb8b0d1b83823d8a512c5366dbd77020e7c94434d1",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0018.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0019.wav",
+    "bytes": 137836,
+    "sha256": "3d7d44f043768cf208b2afb8196ff283680388950b2ebe4dfe8545f0d8e5f99a",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0019.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0020.wav",
+    "bytes": 129580,
+    "sha256": "24415c7d19fc6db672ed45c91ecddcf948f5830f13feb7d94b8adfc3b76ebb5d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0020.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0021.wav",
+    "bytes": 120844,
+    "sha256": "e3de95976fcdf170b61ec3eeba0232fc7e6a7bb30892d5cb34fd2a427db12d72",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0021.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0022.wav",
+    "bytes": 86188,
+    "sha256": "317b5bccc4f996f437aae0df34a70a4e9ebbbd1ede12ba1f1631655b41d7eec8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0022.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0023.wav",
+    "bytes": 93644,
+    "sha256": "02dce2353dea7553b74a41a44f38055f240a8df1b6571265dc7b7d78765e60c3",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0023.wav"
+  },
+  {
+    "path": "data/raw/course/音频/fake/fake_0024.wav",
+    "bytes": 136012,
+    "sha256": "4476dba4478edc09d0e5d921691939116a832c61f893f3b46d9048ff347f6f94",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Ffake%2Ffake_0024.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0000.wav",
+    "bytes": 167628,
+    "sha256": "fca72e3dbf53236b97700e1c6f06c3105672552e0ef8c3c518068bcbda9d5f41",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0000.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0001.wav",
+    "bytes": 148588,
+    "sha256": "d033e30547c349cf804e05a2238bdc97072c2f30ba156c0305f97ad2fcbe2ca8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0001.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0002.wav",
+    "bytes": 185324,
+    "sha256": "e0b08600cd99ab50f3ac303ea127a9dbc5f367d5840304a24baabc9d8862d68c",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0002.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0003.wav",
+    "bytes": 119116,
+    "sha256": "47bb9afdb6f763c7646499b038735152fc2b10d7a59bcf2925b5896e51d9c14f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0003.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0004.wav",
+    "bytes": 142348,
+    "sha256": "6a75407d03367659ebfca567819bd280e6cdf32060d9d888113be6932eb731ed",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0004.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0005.wav",
+    "bytes": 302220,
+    "sha256": "cf53ac73b0eeb9ae7a1b8582cbc6e5679479eaef70f95bdcce7b8517fcfa652f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0005.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0006.wav",
+    "bytes": 209100,
+    "sha256": "2f9688b5099ef0f7535fecfd83fc01aefd34ba47c61d931869e014d4f52566a7",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0006.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0007.wav",
+    "bytes": 89836,
+    "sha256": "a68baa251b4eb12bd121c0fe768b27a974236ed9fb6f4b890a623f912fab4b0f",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0007.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0008.wav",
+    "bytes": 106604,
+    "sha256": "fce8a3108b3506469f3bc9b2dad7474f7b87f3b17f89cbd18dfcbd67a16cd93e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0008.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0009.wav",
+    "bytes": 131020,
+    "sha256": "ff62ef39929ad5c99aa57ab19bffab57122db1d3725a75dcee0db6b4f83bfcd4",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0009.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0010.wav",
+    "bytes": 330028,
+    "sha256": "04e6afa502a48895679a646db26e3f86e64fa33fecd0b438994d38b19339b323",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0010.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0011.wav",
+    "bytes": 89804,
+    "sha256": "1a0c80f447051c9c95e16b636c9c3685da3e154273694de2699a8e0fe784a6cb",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0011.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0012.wav",
+    "bytes": 119724,
+    "sha256": "9584a349861e01b055b705ad86a50be103cbfc15f01afa82089b061b499516f8",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0012.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0013.wav",
+    "bytes": 89836,
+    "sha256": "1704aed842da6dc6f65cf5c0dcaba0a8cd8611d1ff0ddec1668e8eec1ef493ef",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0013.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0014.wav",
+    "bytes": 159436,
+    "sha256": "f1dda4edc0a01d32ca1ff39fed7ab534bd072081244e3e5ba8edcd97722b909e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0014.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0015.wav",
+    "bytes": 177516,
+    "sha256": "20d47ea44722d4c9bf80e8e24d65513d02ef320a8d1e803b651088c7e45b3323",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0015.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0016.wav",
+    "bytes": 179532,
+    "sha256": "4cff818b20cce413ef2fa3be7173057f603dffde0a3ba0ccc33ffabf8458d2e0",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0016.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0017.wav",
+    "bytes": 125644,
+    "sha256": "15656b04132d1b683a42656fcfa892393383b76d8d9a5139f69acfc275cc2b9d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0017.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0018.wav",
+    "bytes": 126412,
+    "sha256": "a9d68453388b4909b9f988400a8e94bf8c32e66f3f8f2307d5b2fbcc229e1192",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0018.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0019.wav",
+    "bytes": 97388,
+    "sha256": "b0bcac639997be7d012162ec1d4fe282b47fc246caf71fb3962335da6401784d",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0019.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0020.wav",
+    "bytes": 147724,
+    "sha256": "9d3f3f021931d86b4968795fa066b756a45358f373b502aa7fd1f3c9fe0946b6",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0020.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0021.wav",
+    "bytes": 233356,
+    "sha256": "9e61328aacf908397ef330066b20b49ba8c14efacc21e8d7a42317618afb9c27",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0021.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0022.wav",
+    "bytes": 183884,
+    "sha256": "0cef62e29a2b0d26fc34651e44188549ab8c703595be3bc4d519d424c63bf51e",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0022.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0023.wav",
+    "bytes": 301196,
+    "sha256": "77c6091573d4858edb715b2c9e34f241fae96013536422cf60bffd1596778ff9",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0023.wav"
+  },
+  {
+    "path": "data/raw/course/音频/real/real_0024.wav",
+    "bytes": 216204,
+    "sha256": "7674e3a45510ee10877eabe4040ddbae891b93ed0087ab673abd8cc446264f73",
+    "source": "http://10.201.201.213/?explorer/share/fileOut&shareID=EFLWmMGM&path=%7BshareItemLink%3AEFLWmMGM%7D%2F%E9%9F%B3%E9%A2%91%2Freal%2Freal_0024.wav"
+  }
+]

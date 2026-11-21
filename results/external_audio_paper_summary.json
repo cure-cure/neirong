@@ -1,0 +1,30 @@
+{
+  "modality": "audio",
+  "method": "paper",
+  "metrics": {
+    "n": 358,
+    "accuracy": 0.4860335195530726,
+    "precision": 0.4860335195530726,
+    "recall": 1.0,
+    "f1": 0.6541353383458647,
+    "fpr": 1.0,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        184
+      ],
+      [
+        0,
+        174
+      ]
+    ],
+    "roc_auc": 0.421195652173913,
+    "pr_auc": 0.4785244027310732,
+    "brier": 0.2628122632767517,
+    "ece": 0.1475499831479684
+  },
+  "coverage": 1.0,
+  "scope": "frozen course training/calibration; audio same-corpus extension, text source shift",
+  "errors": []
+}

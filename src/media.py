@@ -66,3 +66,4 @@ def video_frames(path,count=8):
 
 def video_features(frames):
     features=np.stack([image_features(f['face']) for f in frames]);return np.concatenate([features.mean(0),features.std(0)])
+

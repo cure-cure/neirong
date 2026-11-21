@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-18",
+  "tests": 3,
+  "passed": 3,
+  "names": [
+    "workspace isolation and original snapshot preservation",
+    "missing face recorded without fabricated attack",
+    "CUDA-required preflight refuses CPU configuration"
+  ],
+  "cuda_executed": false,
+  "changes": [
+    "Linux requirements",
+    "fresh GPU workspace helper",
+    "GPU preflight",
+    "logged stage runner",
+    "attack input-failure handling"
+  ],
+  "local_metrics_unchanged": true
+}

@@ -1,0 +1,91 @@
+{
+  "modality": "image",
+  "method": "paper",
+  "test": {
+    "n": 20,
+    "accuracy": 0.95,
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1": 0.9565217391304348,
+    "fpr": 0.1111111111111111,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        8,
+        1
+      ],
+      [
+        0,
+        11
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.06540516546441975,
+    "ece": 0.16348782908821352
+  },
+  "raw_test": {
+    "n": 20,
+    "accuracy": 0.85,
+    "precision": 1.0,
+    "recall": 0.7272727272727273,
+    "f1": 0.8421052631578947,
+    "fpr": 0.0,
+    "fnr": 0.2727272727272727,
+    "confusion_matrix": [
+      [
+        9,
+        0
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.10108896069381905,
+    "ece": 0.14892963616877858
+  },
+  "calibration": {
+    "slope": 0.38098939438947016,
+    "intercept": 1.265062399103643,
+    "n": 20,
+    "method": "positive-slope logistic calibration on validation only",
+    "success": true
+  },
+  "coverage": 1.0,
+  "errors": [],
+  "description": "paper",
+  "test_ids": [
+    "image_real_n01440764_10342",
+    "image_real_n01644900_13175",
+    "image_real_n01978455_7675",
+    "image_real_n02093256_3863",
+    "image_real_n02488291_1955",
+    "image_real_n02504458_12945",
+    "image_real_n02817516_5607",
+    "image_real_n03888605_8471",
+    "image_real_n04429376_21459",
+    "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "image_fake_VQDM_1000_200_09_983_vqdm_00079"
+  ],
+  "accuracy_ci95": [
+    0.85,
+    1.0
+  ],
+  "inference_seconds": 171.1643347999052,
+  "scope": "course subset grouped held-out test; NOT independent external benchmark",
+  "requested_test_count": 20,
+  "test_coverage": 1.0,
+  "effective_accuracy_counting_failures_as_wrong": 0.95
+}

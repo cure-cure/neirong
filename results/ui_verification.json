@@ -1,0 +1,94 @@
+{
+  "detections": [
+    {
+      "modality": "text",
+      "run_id": "20261118_201646_8bcabe",
+      "method": "paper",
+      "judgement": "真实倾向",
+      "probability": 1.0019689202655346e-05,
+      "plot": true,
+      "export": true
+    },
+    {
+      "modality": "image",
+      "run_id": "20261118_201700_cf0e17",
+      "method": "paper",
+      "judgement": "存疑",
+      "probability": 0.4849660935906824,
+      "plot": true,
+      "export": true
+    },
+    {
+      "modality": "audio",
+      "run_id": "20261118_201706_f5bca5",
+      "method": "baseline",
+      "judgement": "真实倾向",
+      "probability": 0.0005066675945584574,
+      "plot": true,
+      "export": true
+    },
+    {
+      "modality": "video",
+      "run_id": "20261118_201721_82256d",
+      "method": "paper",
+      "judgement": "真实倾向",
+      "probability": 0.0016702724523836863,
+      "plot": true,
+      "export": true
+    }
+  ],
+  "fusion": {
+    "components": [
+      {
+        "modality": "text",
+        "fake_probability": 1.0019689202655346e-05,
+        "run_id": "20261118_201646_8bcabe",
+        "input_sha256": "e804859ce374e05e8b535c793e6504c2d79a772b60c94f6d0b8b1082632f5feb"
+      },
+      {
+        "modality": "image",
+        "fake_probability": 0.4849660935906824,
+        "run_id": "20261118_201700_cf0e17",
+        "input_sha256": "d25cf952440a1331af29dc7b566c42a2c58fb6b3ce171f57bd52c761d3d05ed5"
+      },
+      {
+        "modality": "audio",
+        "fake_probability": 0.0005066675945584574,
+        "run_id": "20261118_201706_f5bca5",
+        "input_sha256": "fca72e3dbf53236b97700e1c6f06c3105672552e0ef8c3c518068bcbda9d5f41"
+      },
+      {
+        "modality": "video",
+        "fake_probability": 0.0016702724523836863,
+        "run_id": "20261118_201721_82256d",
+        "input_sha256": "f3c0b0ebe38401f6efb1671227a494d800a3005e086553f972ac51be793022d8"
+      }
+    ],
+    "fusion_rule": "等权加权融合；缺失模态不参与，剩余权重重新归一化",
+    "weighted_fake_score": 0.1217882633317068,
+    "component_max_risk": 0.4849660935906824,
+    "vote_fake_fraction": 0.0,
+    "authenticity_score": 0.8782117366682932,
+    "confidence": 0.8782117366682932,
+    "confidence_note": "融合判定强度，尚未经过联合概率校准",
+    "risk": "中",
+    "judgement": "整体为真实倾向",
+    "note": "融合分数不是经验证的联合概率。单个可疑组成部分可能被平均掩盖，需同时查看最高分项风险。仅合并同一关联材料；不判断语义一致性或事实真伪。"
+  },
+  "attack": {
+    "method": "baseline",
+    "clean_fake_probability": 0.0005066672189119326,
+    "adv_fake_probability": 0.9999999986770747,
+    "epsilon": 0.001,
+    "actual_linf": 0.0010000020265579224,
+    "steps": 5,
+    "defense": false,
+    "adaptive": false,
+    "seconds": 0.17838450000272132,
+    "attack_success": true,
+    "scope": "完整音频波形"
+  },
+  "unavailable_input_handled": true,
+  "fusion_test_scope": "Functional check with unrelated course samples; NOT a paired semantic or crossmodal accuracy benchmark",
+  "visual_inspection": "Not performed: computer-use kernel initialization failed; HTTP/API checks are not visual layout verification"
+}

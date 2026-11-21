@@ -74,3 +74,4 @@ class Engine:
                     authenticity_score=1-p,risk='高' if p>=.7 else '低' if p<=.3 else '中',
                     components=components,details=details,quality_warnings=warnings,seconds=time.perf_counter()-started,
                     limitations=['来源／生成检测不等于事实核查','证据可视化仅表示模型线索，不构成篡改定位真值'])
+

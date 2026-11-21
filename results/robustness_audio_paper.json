@@ -1,0 +1,722 @@
+[
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000815654463084,
+    "seconds": 8.670729200006463
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000980665831931,
+    "seconds": 0.667690299989772
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6001400799287726,
+    "seconds": 0.6854997000045842
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6001100602646332,
+    "seconds": 0.6671831999992719
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.6000262367763443,
+    "seconds": 0.6643792999966536
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6001187415527863,
+    "seconds": 0.6670241999963764
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.600088117097496,
+    "seconds": 0.3330817000096431
+  },
+  {
+    "id": "audio_real_real_0000",
+    "group": "audio_real_0000",
+    "label": 0,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6000466218849503,
+    "seconds": 0.6515035000047646
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000507536528051,
+    "seconds": 0.6809132000053069
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000639130542641,
+    "seconds": 0.6739482000120915
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000776955135675,
+    "seconds": 0.6904469000000972
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6000897006047419,
+    "seconds": 0.665117199998349
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999633003894405,
+    "seconds": 0.6532036999997217
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6000889355121093,
+    "seconds": 0.7415585999988252
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6000843299274095,
+    "seconds": 0.6755845000006957
+  },
+  {
+    "id": "audio_real_real_0006",
+    "group": "audio_real_0006",
+    "label": 0,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6000437962293932,
+    "seconds": 0.6915161000069929
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000659058540481,
+    "seconds": 0.33643640000082087
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6001011401748441,
+    "seconds": 0.32281549999606796
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.600155349548921,
+    "seconds": 0.3355983999936143
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6001393159975794,
+    "seconds": 0.344662800009246
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.6000296370772412,
+    "seconds": 0.3263797999970848
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6001193728019999,
+    "seconds": 0.3317872999905376
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6000473879320843,
+    "seconds": 0.33448269999644253
+  },
+  {
+    "id": "audio_real_real_0019",
+    "group": "audio_real_0019",
+    "label": 0,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6000822242426223,
+    "seconds": 0.32908000001043547
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000077015326193,
+    "seconds": 0.6624847000057343
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000119748489052,
+    "seconds": 0.6739551999926334
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000122794488131,
+    "seconds": 0.7381513000000268
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6000630525248964,
+    "seconds": 0.7110202000039862
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.599955937626397,
+    "seconds": 0.6744378999865148
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6000448751135324,
+    "seconds": 0.6835074999980861
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6000102018253138,
+    "seconds": 0.6861365999939153
+  },
+  {
+    "id": "audio_real_real_0021",
+    "group": "audio_real_0021",
+    "label": 0,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.600024907077607,
+    "seconds": 0.6907292999967467
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.600024520430666,
+    "seconds": 0.7073966000025393
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000350414415108,
+    "seconds": 0.829956100002164
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000683057551011,
+    "seconds": 0.8346577000047546
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6001098936262195,
+    "seconds": 0.8182633999967948
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999613551576866,
+    "seconds": 0.7200444000045536
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6000690224345484,
+    "seconds": 0.7084271000057925
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6000583725800592,
+    "seconds": 0.6685504999913974
+  },
+  {
+    "id": "audio_real_real_0024",
+    "group": "audio_real_0024",
+    "label": 0,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6000357682635586,
+    "seconds": 0.6516871999920113
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000887502840444,
+    "seconds": 0.32555219999630935
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000939140467169,
+    "seconds": 0.3303687000006903
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000397792543226,
+    "seconds": 0.3362736999988556
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6000342734341132,
+    "seconds": 0.33983230000012554
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999879516391186,
+    "seconds": 0.3372409000003245
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6001466845102418,
+    "seconds": 0.3247391000040807
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6001324830635171,
+    "seconds": 0.3447926999942865
+  },
+  {
+    "id": "audio_fake_fake_0009",
+    "group": "audio_fake_0009",
+    "label": 1,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6000759419601587,
+    "seconds": 0.3346107999968808
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5999922007233406,
+    "seconds": 0.6608160000032512
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.599994504918545,
+    "seconds": 0.6432635999954073
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000109335187249,
+    "seconds": 0.6545500000065658
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6000607078048573,
+    "seconds": 0.6879754999972647
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999494008194365,
+    "seconds": 0.6505547999986447
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.5999953052425738,
+    "seconds": 0.6866269000020111
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6001030694584953,
+    "seconds": 0.3513934000075096
+  },
+  {
+    "id": "audio_fake_fake_0013",
+    "group": "audio_fake_0013",
+    "label": 1,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.5999452362732661,
+    "seconds": 0.6453897000028519
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000449442558133,
+    "seconds": 0.6487261000002036
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000554177275694,
+    "seconds": 0.6618597000051523
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000667157139496,
+    "seconds": 0.6730335000029299
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.600084379817717,
+    "seconds": 0.6611322999960976
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999767292546087,
+    "seconds": 0.6580264000076568
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.6000525673836609,
+    "seconds": 0.6442996999976458
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6001425896658116,
+    "seconds": 0.3352071999979671
+  },
+  {
+    "id": "audio_fake_fake_0019",
+    "group": "audio_fake_0019",
+    "label": 1,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.5999491874383652,
+    "seconds": 0.6731710000021849
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5999667095511688,
+    "seconds": 0.8664751999895088
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.5999625310771202,
+    "seconds": 0.7966083000064828
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.599968885311067,
+    "seconds": 0.6861203000007663
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6000814022208659,
+    "seconds": 0.6572823999886168
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999665324627447,
+    "seconds": 0.6302563999925042
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.5999669634294542,
+    "seconds": 0.6603772999951616
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6000930292860295,
+    "seconds": 0.3515183999988949
+  },
+  {
+    "id": "audio_fake_fake_0020",
+    "group": "audio_fake_0020",
+    "label": 1,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6001011735999751,
+    "seconds": 0.3465021000010893
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.6000859808094109,
+    "seconds": 0.3333258000056958
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "noise",
+    "level": 30,
+    "fake_probability": 0.6000736162822048,
+    "seconds": 0.3365343000041321
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "noise",
+    "level": 20,
+    "fake_probability": 0.6000200325273677,
+    "seconds": 0.3449865000002319
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "noise",
+    "level": 10,
+    "fake_probability": 0.6000362073707026,
+    "seconds": 0.41186399999423884
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "gain",
+    "level": 0.5,
+    "fake_probability": 0.5999750573199032,
+    "seconds": 0.4546301999944262
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "resample",
+    "level": 8000,
+    "fake_probability": 0.600112122290118,
+    "seconds": 0.5389452999952482
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "truncate",
+    "level": 0.75,
+    "fake_probability": 0.6000716466258458,
+    "seconds": 0.429270099994028
+  },
+  {
+    "id": "audio_fake_fake_0023",
+    "group": "audio_fake_0023",
+    "label": 1,
+    "condition": "speed",
+    "level": 1.05,
+    "fake_probability": 0.6000953885849905,
+    "seconds": 0.4305148999992525
+  }
+]

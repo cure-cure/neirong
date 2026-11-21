@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5978101983200059,
+    "seconds": 0.04873809999844525
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.5981267590569528,
+    "seconds": 0.006436800002120435
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5997159764051616,
+    "seconds": 0.00604639999801293
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6877126037850378,
+    "seconds": 0.008838800000376068
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.796724129323153,
+    "seconds": 0.006933099997695535
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6623129931974946,
+    "seconds": 0.005755600010161288
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.7712128048099186,
+    "seconds": 0.004958200006512925
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.5986418733745034,
+    "seconds": 0.008265500000561588
+  },
+  {
+    "id": "image_real_n01440764_10342",
+    "group": "image_n01440764_10342",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.7313076574506374,
+    "seconds": 0.006410000001778826
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7219595789550423,
+    "seconds": 0.010457300013513304
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7213769568137262,
+    "seconds": 0.005728599993744865
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7212245630441284,
+    "seconds": 0.0078114000061759725
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7521284740319533,
+    "seconds": 0.007783199995174073
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8032352279398077,
+    "seconds": 0.009114999993471429
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7446943084137491,
+    "seconds": 0.013790600001811981
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.7903157135390986,
+    "seconds": 0.008447300002444535
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.722364003904476,
+    "seconds": 0.009260300008463673
+  },
+  {
+    "id": "image_real_n01644900_13175",
+    "group": "image_n01644900_13175",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8400026064837066,
+    "seconds": 0.008251200008089654
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.32670511500997335,
+    "seconds": 0.009272099996451288
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.3273494125784243,
+    "seconds": 0.008117800010950305
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.3309204270610045,
+    "seconds": 0.007506099995225668
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.35028770559335226,
+    "seconds": 0.006891199998790398
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.4270678122381886,
+    "seconds": 0.007890499997301959
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.3421268919234024,
+    "seconds": 0.007876600007875822
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.4069645055240187,
+    "seconds": 0.007966200006194413
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.327347902941595,
+    "seconds": 0.009438099994440563
+  },
+  {
+    "id": "image_real_n01978455_7675",
+    "group": "image_n01978455_7675",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.4778604604668031,
+    "seconds": 0.007746400005999021
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.3541178840394929,
+    "seconds": 0.006389600006514229
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.35525986756454003,
+    "seconds": 0.01061199999821838
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.3570003604010775,
+    "seconds": 0.008252200001152232
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.3995689769695972,
+    "seconds": 0.010848899997654371
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.4935110587536213,
+    "seconds": 0.0072573999932501465
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.3860963578386837,
+    "seconds": 0.009735200001159683
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.46843751821692226,
+    "seconds": 0.0064113000116776675
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.35491703653894796,
+    "seconds": 0.005769200011854991
+  },
+  {
+    "id": "image_real_n02093256_3863",
+    "group": "image_n02093256_3863",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.5161469108369894,
+    "seconds": 0.007959700000355951
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.710822893826594,
+    "seconds": 0.008917500003008172
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7092631003173898,
+    "seconds": 0.008356500009540468
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7056696310800082,
+    "seconds": 0.009861200000159442
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.7484544723829236,
+    "seconds": 0.005824599997140467
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8023937336352787,
+    "seconds": 0.009456599989789538
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7375143915186646,
+    "seconds": 0.00791459999163635
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.7864569167821348,
+    "seconds": 0.008892400001059286
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.7107438830347877,
+    "seconds": 0.010341600005631335
+  },
+  {
+    "id": "image_real_n02488291_1955",
+    "group": "image_n02488291_1955",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.842526466892822,
+    "seconds": 0.010071000011521392
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.611004203555194,
+    "seconds": 0.010297500004526228
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.6101653414349657,
+    "seconds": 0.008740799996303394
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.6092054522699,
+    "seconds": 0.007840499994927086
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6481637197427478,
+    "seconds": 0.007827499997802079
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.7120457885275668,
+    "seconds": 0.009550100003252737
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6368464172349578,
+    "seconds": 0.00974530000530649
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.6945345845539359,
+    "seconds": 0.008714399999007583
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.6116789451044541,
+    "seconds": 0.007653499997104518
+  },
+  {
+    "id": "image_real_n02504458_12945",
+    "group": "image_n02504458_12945",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.7751122779728636,
+    "seconds": 0.007931300002383068
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5541668884446634,
+    "seconds": 0.007287600004929118
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.5538404662619174,
+    "seconds": 0.008984100000816397
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5569603700653056,
+    "seconds": 0.009706600001663901
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6309185767478289,
+    "seconds": 0.00792350000119768
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.7335734675953693,
+    "seconds": 0.007194199992227368
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6085896523935317,
+    "seconds": 0.00882600000477396
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.7069737858505575,
+    "seconds": 0.0069810999993933365
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.5551462354315367,
+    "seconds": 0.00653529999544844
+  },
+  {
+    "id": "image_real_n02817516_5607",
+    "group": "image_n02817516_5607",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.7147959259060287,
+    "seconds": 0.009609400003682822
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.3641733919712805,
+    "seconds": 0.01047639999887906
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.3640046592495128,
+    "seconds": 0.007729799996013753
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.36474144695285643,
+    "seconds": 0.009032899994053878
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.41038248169077246,
+    "seconds": 0.010131699993507937
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.506752435169876,
+    "seconds": 0.007077000002027489
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.39676063872241984,
+    "seconds": 0.006517799993162043
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.48196230604852414,
+    "seconds": 0.0069183999876258895
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.3647213029612675,
+    "seconds": 0.007269299996551126
+  },
+  {
+    "id": "image_real_n03888605_8471",
+    "group": "image_n03888605_8471",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.529048636163845,
+    "seconds": 0.01320629999099765
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.4860116272160039,
+    "seconds": 0.007327399987843819
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.48904446691487674,
+    "seconds": 0.007165300004999153
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.49335533518731867,
+    "seconds": 0.005196400001295842
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6251336677268724,
+    "seconds": 0.00583819999883417
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.7882370224564328,
+    "seconds": 0.0062055999878793955
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.5891171749927293,
+    "seconds": 0.009009100002003834
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.7494506789575749,
+    "seconds": 0.006605300004594028
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.488550289238456,
+    "seconds": 0.007826400003978051
+  },
+  {
+    "id": "image_real_n04429376_21459",
+    "group": "image_n04429376_21459",
+    "label": 0,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6903458739105623,
+    "seconds": 0.00536479998845607
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7533133923811101,
+    "seconds": 0.004959199999575503
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7536247234083504,
+    "seconds": 0.005390499994973652
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7589484970751498,
+    "seconds": 0.004012899997178465
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.8284846745916282,
+    "seconds": 0.006284600007347763
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.9035980484450661,
+    "seconds": 0.004091199996764772
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.8116974895615784,
+    "seconds": 0.0068427999940468
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.8867650902711689,
+    "seconds": 0.004345099994679913
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.7534727158286119,
+    "seconds": 0.009143999996013008
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_01_114_vqdm_00186",
+    "group": "image_VQDM_1000_200_01_114_vqdm_00186",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8727901048119237,
+    "seconds": 0.004399600002216175
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.913735788997989,
+    "seconds": 0.0048141000006580725
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.9135543823658976,
+    "seconds": 0.006472000008216128
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.9111969833295815,
+    "seconds": 0.006111499998951331
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.9346854775970099,
+    "seconds": 0.0063089000032050535
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.9576863556504909,
+    "seconds": 0.006972000002861023
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.9286651619352347,
+    "seconds": 0.00622129999101162
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.9509870232089873,
+    "seconds": 0.006847699987702072
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.9136697192138127,
+    "seconds": 0.005127600001287647
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_435_vqdm_00190",
+    "group": "image_VQDM_1000_200_04_435_vqdm_00190",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.9584596899799258,
+    "seconds": 0.004596300001139753
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7487824544148453,
+    "seconds": 0.0064184000075329095
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7487470666190958,
+    "seconds": 0.005858699994860217
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7490339248983525,
+    "seconds": 0.0070641999918734655
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.8155385090235164,
+    "seconds": 0.007685100004891865
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8893927216141397,
+    "seconds": 0.006997400007094257
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7997287461109093,
+    "seconds": 0.006734499998856336
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.871225006511137,
+    "seconds": 0.006598099993425421
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.750501184029554,
+    "seconds": 0.006880400003865361
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_447_vqdm_00089",
+    "group": "image_VQDM_1000_200_04_447_vqdm_00089",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8575296690775301,
+    "seconds": 0.005761499996879138
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.776911931493163,
+    "seconds": 0.006722400008584373
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7763779352034504,
+    "seconds": 0.007714999999734573
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7761064180817046,
+    "seconds": 0.005911300002480857
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.8204333127215281,
+    "seconds": 0.006343300003209151
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8643623933559739,
+    "seconds": 0.006247299999813549
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.8108595418285046,
+    "seconds": 0.006352399999741465
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.8538735060397307,
+    "seconds": 0.007896499999333173
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.7767285843039914,
+    "seconds": 0.007205700007034466
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_04_460_vqdm_00049",
+    "group": "image_VQDM_1000_200_04_460_vqdm_00049",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8724524837884383,
+    "seconds": 0.006712499991408549
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.5204609704704687,
+    "seconds": 0.006145799998193979
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.5192882228000066,
+    "seconds": 0.004803899995749816
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.5179296173080858,
+    "seconds": 0.004400499994517304
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.6406277819465451,
+    "seconds": 0.005484299996169284
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8009460628148044,
+    "seconds": 0.00437670000246726
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.6100260711763881,
+    "seconds": 0.005831099988427013
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.7620267868102946,
+    "seconds": 0.0075450000003911555
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.5210795575356318,
+    "seconds": 0.008891300007235259
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_565_vqdm_00056",
+    "group": "image_VQDM_1000_200_05_565_vqdm_00056",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.6911471700358804,
+    "seconds": 0.006929700000910088
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7693542698523341,
+    "seconds": 0.005669100006343797
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7671239868473463,
+    "seconds": 0.005948499994701706
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7662708409794357,
+    "seconds": 0.00521749998733867
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.8287243861745771,
+    "seconds": 0.0067220999917481095
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8929740875259085,
+    "seconds": 0.0077775999961886555
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.8141822857010486,
+    "seconds": 0.007394500004011206
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.8767270995740389,
+    "seconds": 0.006782500000554137
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.769581584513068,
+    "seconds": 0.006933500000741333
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_05_579_vqdm_00173",
+    "group": "image_VQDM_1000_200_05_579_vqdm_00173",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8660169300546818,
+    "seconds": 0.006045799993444234
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.7436626757861514,
+    "seconds": 0.006549300000187941
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7413841514909428,
+    "seconds": 0.006251300001167692
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.7386236114041139,
+    "seconds": 0.006227299993042834
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.811001489367968,
+    "seconds": 0.006284800008870661
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8835974504642691,
+    "seconds": 0.006617500010179356
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.7953773883452786,
+    "seconds": 0.008976800003438257
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.8650715960983419,
+    "seconds": 0.007318800009670667
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.7436448607767101,
+    "seconds": 0.004795100001501851
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_658_vqdm_00101",
+    "group": "image_VQDM_1000_200_06_658_vqdm_00101",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8610574465155746,
+    "seconds": 0.005280699988361448
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.766696275855431,
+    "seconds": 0.005646500008879229
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.7661728573436402,
+    "seconds": 0.0064941000018734485
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.766206856178676,
+    "seconds": 0.005727299998397939
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.8310641343765435,
+    "seconds": 0.0054244999919319525
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.8918413031702873,
+    "seconds": 0.007404200005112216
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.8170643085960939,
+    "seconds": 0.005437700005131774
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.8772988591093712,
+    "seconds": 0.007075000001350418
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.7669699494627238,
+    "seconds": 0.007287600004929118
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_06_672_vqdm_00013",
+    "group": "image_VQDM_1000_200_06_672_vqdm_00013",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.8537090077044811,
+    "seconds": 0.00663679999706801
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.948624924945589,
+    "seconds": 0.005194299999857321
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.9465996525944762,
+    "seconds": 0.006519100003060885
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.9440826304180251,
+    "seconds": 0.005421800000476651
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.9609731501325256,
+    "seconds": 0.0067156000004615635
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.974765795534242,
+    "seconds": 0.007313599999179132
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.9578768292310803,
+    "seconds": 0.004874799997196533
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.9714029152832265,
+    "seconds": 0.007041199991363101
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.9483024661942557,
+    "seconds": 0.006916700003785081
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_08_801_vqdm_00043",
+    "group": "image_VQDM_1000_200_08_801_vqdm_00043",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.9734518647657433,
+    "seconds": 0.0056871999986469746
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.32485755223423507,
+    "seconds": 0.006804799995734356
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.3238471416434562,
+    "seconds": 0.006465899990871549
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.32434661484187227,
+    "seconds": 0.006711399997584522
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.42807529180991305,
+    "seconds": 0.005600599994068034
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.6018779606089729,
+    "seconds": 0.006089700007578358
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.4008631753677817,
+    "seconds": 0.005367899997509085
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.5504968690940221,
+    "seconds": 0.008030700002564117
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.32585608038769565,
+    "seconds": 0.004964500010828488
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_959_vqdm_00057",
+    "group": "image_VQDM_1000_200_09_959_vqdm_00057",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.5179708554559251,
+    "seconds": 0.008033999998588115
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "clean",
+    "level": 0,
+    "fake_probability": 0.9129793064279417,
+    "seconds": 0.007010499990428798
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 90,
+    "fake_probability": 0.9123545317204603,
+    "seconds": 0.00798519999079872
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "jpeg",
+    "level": 50,
+    "fake_probability": 0.915299183535527,
+    "seconds": 0.00954980000096839
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.5,
+    "fake_probability": 0.9372074723096961,
+    "seconds": 0.007800200008205138
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "resize",
+    "level": 0.25,
+    "fake_probability": 0.9613085453958319,
+    "seconds": 0.008600000001024455
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "blur",
+    "level": 1,
+    "fake_probability": 0.9315245447980564,
+    "seconds": 0.007331399989197962
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "blur",
+    "level": 2,
+    "fake_probability": 0.9548784734255354,
+    "seconds": 0.009415199994691648
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "noise",
+    "level": 0.01,
+    "fake_probability": 0.9121157270401118,
+    "seconds": 0.006188500003190711
+  },
+  {
+    "id": "image_fake_VQDM_1000_200_09_983_vqdm_00079",
+    "group": "image_VQDM_1000_200_09_983_vqdm_00079",
+    "label": 1,
+    "condition": "brightness",
+    "level": 0.7,
+    "fake_probability": 0.9507853842669128,
+    "seconds": 0.0040431000088574365
+  }
+]

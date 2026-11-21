@@ -1,0 +1,209 @@
+{
+  "modality": "audio",
+  "method": "baseline",
+  "results": [
+    {
+      "condition": "clean",
+      "level": 0,
+      "n": 10,
+      "accuracy": 0.9,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8888888888888888,
+      "fpr": 0.0,
+      "fnr": 0.2,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.10705467215491553,
+      "ece": 0.13764202799403635
+    },
+    {
+      "condition": "noise",
+      "level": 30,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "fpr": 0.0,
+      "fnr": 1.0,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.4988122919715542,
+      "ece": 0.4994043707331862
+    },
+    {
+      "condition": "noise",
+      "level": 20,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "fpr": 0.0,
+      "fnr": 1.0,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.49999966234199045,
+      "ece": 0.49999983054995367
+    },
+    {
+      "condition": "noise",
+      "level": 10,
+      "n": 10,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "fpr": 0.0,
+      "fnr": 1.0,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.4999999999249374,
+      "ece": 0.49999999995960387
+    },
+    {
+      "condition": "gain",
+      "level": 0.5,
+      "n": 10,
+      "accuracy": 0.9,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8888888888888888,
+      "fpr": 0.0,
+      "fnr": 0.2,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.09910695367536496,
+      "ece": 0.1238668291343119
+    },
+    {
+      "condition": "resample",
+      "level": 8000,
+      "n": 10,
+      "accuracy": 0.8,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1": 0.75,
+      "fpr": 0.0,
+      "fnr": 0.4,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.154403265781233,
+      "ece": 0.20792082185288155
+    },
+    {
+      "condition": "truncate",
+      "level": 0.75,
+      "n": 10,
+      "accuracy": 0.9,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8888888888888888,
+      "fpr": 0.0,
+      "fnr": 0.2,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.06961361206402125,
+      "ece": 0.10773133516208933
+    },
+    {
+      "condition": "speed",
+      "level": 1.05,
+      "n": 10,
+      "accuracy": 0.8,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1": 0.75,
+      "fpr": 0.0,
+      "fnr": 0.4,
+      "confusion_matrix": [
+        [
+          5,
+          0
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.14270121726576412,
+      "ece": 0.1784684960595055
+    }
+  ],
+  "scope": "held-out course subset; video perturbations apply to extracted face crops, NOT end-to-end video re-encoding",
+  "requested": 10,
+  "errors": []
+}
