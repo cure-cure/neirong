@@ -1,0 +1,16 @@
+numpy==2.4.1
+scipy==1.17.0
+scikit-learn==1.8.0
+pandas==2.3.3
+Pillow==11.3.0
+opencv-python==4.13.0.90
+matplotlib==3.10.8
+soundfile==0.13.1
+gradio==5.49.1
+transformers==4.57.3
+huggingface-hub==0.36.2
+safetensors==0.8.0
+ftfy==6.3.1
+regex==2026.1.15
+tqdm==4.67.1
+pyarrow==22.0.0

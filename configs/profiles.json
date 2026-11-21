@@ -1,0 +1,6 @@
+{
+  "local": {"device": "cpu", "threads": 4, "video_frames": 8, "text_max_tokens": 256, "model_policy": "one deep detector at a time in UI"},
+  "gpu": {"device": "cuda", "threads": 4, "same_preprocessing": true, "attack_profile": "full"},
+  "selection": {"data": "validation only", "criterion": "balanced_accuracy", "ties": "baseline", "test_set_selection": false},
+  "notes": "Current code reads LAB_DEVICE/LAB_THREADS; preprocessing constants are documented in source. Changing preprocessing requires rebuilding affected results."
+}

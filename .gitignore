@@ -1,0 +1,44 @@
+# Local environments, credentials and caches
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# Data and generated features stay on the workstation / AutoDL
+/data/raw/
+/data/processed/
+/data/*
+!/data/README.md
+/references/
+/AUTODL_HANDOFF.md
+/AUTODL_AGENT_PROMPT.md
+# Checkpoints, pretrained models and tokenizer assets are distributed separately
+/models/*
+!/models/README.md
+*.pt
+*.pth
+*.pth.tar
+*.safetensors
+*.joblib
+/vendor/**/weights/
+# Keep original CPU and GPU experiment outputs out of source history
+/results/*
+!/results/README.md
+/reports/
+/AutoDL上传包*/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.npz
+*.log
+*.part
+*.chunks/
+GPU_WORKSPACE.json
+PACKAGE_META_*.json

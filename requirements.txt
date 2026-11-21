@@ -1,0 +1,17 @@
+# Install torch/torchvision separately for CPU or CUDA. Tested versions recorded in results/environment.json.
+numpy
+scipy
+scikit-learn
+pandas
+Pillow
+opencv-python-headless
+matplotlib
+soundfile
+gradio==5.49.1
+transformers==4.57.3
+huggingface-hub>=0.34,<1.0
+safetensors
+ftfy
+regex
+tqdm
+pyarrow
